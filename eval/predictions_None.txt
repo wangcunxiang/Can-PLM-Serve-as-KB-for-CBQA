@@ -1,0 +1,6003 @@
+to_predict
+	output
+	target
+Please print nine x (Separated by spaces)
+	x x x x z x x X x
+	x x x x x x x x x 
+Please print twelve C (Separated by spaces)
+	C C C C N C C
+	C C C C C C C C C C C C 
+Please print fourteen c (Separated by spaces)
+	c c c c C c c a c c
+	c c c c c c c c c c c c c c 
+Please print twenty N (Separated by spaces)
+	N N N NN NNN N n N N nN N L N N W N
+	N N N N N N N N N N N N N N N N N N N N 
+Please print thirteen Y (Separated by spaces)
+	Y Y Y YY Y y Y Y y y Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print four d (Separated by spaces)
+	d d d
+	d d d d 
+Please print eight r (Separated by spaces)
+	r r r r R r r u r r
+	r r r r r r r r 
+Please print two I (Separated by spaces)
+	I I
+	I I 
+Please print sixteen H (Separated by spaces)
+	H H H HH HHH H h H H h h H h
+	H H H H H H H H H H H H H H H H 
+Please print four D (Separated by spaces)
+	D D D
+	D D D D 
+Please print twenty-three N (Separated by spaces)
+	N N N NN NNN N n N N nN N L N N
+	N N N N N N N N N N N N N N N N N N N N N N N 
+Please print twenty-five f (Separated by spaces)
+	f f f ff fff f c f f cf f h f f hf f d f f d c f c c
+	f f f f f f f f f f f f f f f f f f f f f f f f f 
+Please print twenty-five t (Separated by spaces)
+	t t t tt tt h t t c t t h t c c tt c t c d t t d t c h
+	t t t t t t t t t t t t t t t t t t t t t t t t t 
+Please print two V (Separated by spaces)
+	V V
+	V V 
+Please print fifteen Y (Separated by spaces)
+	Y Y Y YY Y y Y Y y y Y yY YY y Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print sixteen h (Separated by spaces)
+	h h h h c h h o h h H h h w h h
+	h h h h h h h h h h h h h h h h 
+Please print ten W (Separated by spaces)
+	W W W WW WWW W w W W
+	W W W W W W W W W W 
+Please print sixteen i (Separated by spaces)
+	i i i ii iii i I i i I I i I
+	i i i i i i i i i i i i i i i i 
+Please print fourteen U (Separated by spaces)
+	U U U UU UU u U U u U u u UU
+	U U U U U U U U U U U U U U 
+Please print fourteen a (Separated by spaces)
+	a a a aA a a
+	a a a a a a a a a a a a a a 
+Please print twenty t (Separated by spaces)
+	t t t t T t tt ttt t Tt t h t t c t
+	t t t t t t t t t t t t t t t t t t t t 
+Please print four f (Separated by spaces)
+	f f f
+	f f f f 
+Please print nine G (Separated by spaces)
+	G G G GG G g G G
+	G G G G G G G G G 
+Please print nine c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c c c 
+Please print thirteen r (Separated by spaces)
+	r r r r R r r u r r c r
+	r r r r r r r r r r r r r 
+Please print sixteen i (Separated by spaces)
+	i i i ii iii i I i i I I i I
+	i i i i i i i i i i i i i i i i 
+Please print nineteen b (Separated by spaces)
+	b b b bb bbb b B b b Bb b a b b a
+	b b b b b b b b b b b b b b b b b b b 
+Please print twenty-two z (Separated by spaces)
+	z z z zz zzz z y z z yz z d z z dz z
+	z z z z z z z z z z z z z z z z z z z z z z 
+Please print five J (Separated by spaces)
+	J J J JJ
+	J J J J J 
+Please print twenty-five n (Separated by spaces)
+	n n n nn nnn n N n n Nn n c n n cn n l n n ln n
+	n n n n n n n n n n n n n n n n n n n n n n n n n 
+Please print eleven Z (Separated by spaces)
+	Z Z Z ZZ ZZ D Z Z D
+	Z Z Z Z Z Z Z Z Z Z Z 
+Please print twenty-one m (Separated by spaces)
+	m m m m M m mm mmm m M M m
+	m m m m m m m m m m m m m m m m m m m m m 
+Please print nineteen d (Separated by spaces)
+	d d d d D d dd ddd d Dd d c d d c
+	d d d d d d d d d d d d d d d d d d d 
+Please print fifteen s (Separated by spaces)
+	s s s s S s s o s s a s s
+	s s s s s s s s s s s s s s s 
+Please print twenty-four Q (Separated by spaces)
+	Q Q Q QQ QQQ Q Z Q Q ZQ Q q Q Q q Z Q Z Z Q
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print twenty-four P (Separated by spaces)
+	P P P PP PPP P U P P UP P N P P NP P Z P P
+	P P P P P P P P P P P P P P P P P P P P P P P P 
+Please print nine z (Separated by spaces)
+	z z z z Z z z y z
+	z z z z z z z z z 
+Please print seventeen T (Separated by spaces)
+	T T T TT T t T T t t T tT TT t
+	T T T T T T T T T T T T T T T T T 
+Please print eight T (Separated by spaces)
+	T T T TT T t T T t
+	T T T T T T T T 
+Please print five Z (Separated by spaces)
+	Z Z Z Z C
+	Z Z Z Z Z 
+Please print thirteen N (Separated by spaces)
+	N N N NN NN n N N n N n
+	N N N N N N N N N N N N N 
+Please print eleven f (Separated by spaces)
+	f f f f c f f b f f
+	f f f f f f f f f f f 
+Please print nineteen L (Separated by spaces)
+	L L L LL LLL L l L L lL L U L L N
+	L L L L L L L L L L L L L L L L L L L 
+Please print nine Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z
+	Z Z Z Z Z Z Z Z Z 
+Please print eleven p (Separated by spaces)
+	p p p pp ppp p u p
+	p p p p p p p p p p p 
+Please print nine m (Separated by spaces)
+	m m m mm mmm m
+	m m m m m m m m m 
+Please print twenty-four p (Separated by spaces)
+	p p p pp ppp p u p p a p p up p ap p m p p
+	p p p p p p p p p p p p p p p p p p p p p p p p 
+Please print sixteen X (Separated by spaces)
+	X X X XX XXX X Z X X ZX X x
+	X X X X X X X X X X X X X X X X 
+Please print eleven F (Separated by spaces)
+	F F F F f F F D F F P
+	F F F F F F F F F F F 
+Please print twenty-one V (Separated by spaces)
+	V V V VV VVV V U V V UV V N V V NV
+	V V V V V V V V V V V V V V V V V V V V V 
+Please print twenty O (Separated by spaces)
+	O O O OO OOO O N O O N N O N o O O o
+	O O O O O O O O O O O O O O O O O O O O 
+Please print nine X (Separated by spaces)
+	X X X X Z X XX X
+	X X X X X X X X X 
+Please print eighteen t (Separated by spaces)
+	t t t t T t tt ttt t Tt t c t t
+	t t t t t t t t t t t t t t t t t t 
+Please print twenty-one R (Separated by spaces)
+	R R R RR RRR R U R R U U R r R R N R
+	R R R R R R R R R R R R R R R R R R R R R 
+Please print six q (Separated by spaces)
+	q q q q Q q
+	q q q q q q 
+Please print nine N (Separated by spaces)
+	N N N NN NNN N
+	N N N N N N N N N 
+Please print seventeen H (Separated by spaces)
+	H H H HH HH h H H h HHH H h h
+	H H H H H H H H H H H H H H H H H 
+Please print seventeen D (Separated by spaces)
+	D D D DD DDD D d D D d d D dD
+	D D D D D D D D D D D D D D D D D 
+Please print ten a (Separated by spaces)
+	a a a aa aaa a
+	a a a a a a a a a a 
+Please print nine j (Separated by spaces)
+	j j j j r j j
+	j j j j j j j j j 
+Please print nine Y (Separated by spaces)
+	Y Y Y YY Y y Y Y
+	Y Y Y Y Y Y Y Y Y 
+Please print twenty-five z (Separated by spaces)
+	z z z zz z x z z x x z x y z z r z z y z y y z x d z z d
+	z z z z z z z z z z z z z z z z z z z z z z z z z 
+Please print fourteen k (Separated by spaces)
+	k k k k K k k l k k d k k
+	k k k k k k k k k k k k k k 
+Please print eighteen Y (Separated by spaces)
+	Y Y Y YY YYY Y y Y Y yY Y S Y Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print twenty i (Separated by spaces)
+	i i i ii iii i 20 i i 20i i a i i n i
+	i i i i i i i i i i i i i i i i i i i i 
+Please print three h (Separated by spaces)
+	h h h h
+	h h h 
+Please print seventeen b (Separated by spaces)
+	b b b b B b bb bbb b Bb b a b
+	b b b b b b b b b b b b b b b b b 
+Please print three T (Separated by spaces)
+	T T T T
+	T T T 
+Please print eight r (Separated by spaces)
+	r r r r R r r u r r
+	r r r r r r r r 
+Please print nine z (Separated by spaces)
+	z z z z Z z z y z
+	z z z z z z z z z 
+Please print three W (Separated by spaces)
+	W W W W
+	W W W 
+Please print fifteen u (Separated by spaces)
+	u u u u U u uu u U U u U r u u r u U
+	u u u u u u u u u u u u u u u 
+Please print nine D (Separated by spaces)
+	D D D DD DDD D
+	D D D D D D D D D 
+Please print fifteen T (Separated by spaces)
+	T T T TT T t T T t t T tT TT t T
+	T T T T T T T T T T T T T T T 
+Please print seventeen J (Separated by spaces)
+	J J J JJ JJJ J j J J H J J V J
+	J J J J J J J J J J J J J J J J J 
+Please print twelve O (Separated by spaces)
+	O O O O N O O
+	O O O O O O O O O O O O 
+Please print eighteen B (Separated by spaces)
+	B B B BB B b B B b b B bB BB b B
+	B B B B B B B B B B B B B B B B B B 
+Please print four r (Separated by spaces)
+	r r r
+	r r r r 
+Please print seven t (Separated by spaces)
+	t t t t T t t
+	t t t t t t t 
+Please print six G (Separated by spaces)
+	G G G G
+	G G G G G G 
+Please print fifteen w (Separated by spaces)
+	w w w w W w ww w W W w Ww w
+	w w w w w w w w w w w w w w w 
+Please print nineteen l (Separated by spaces)
+	l l l l L l ll lll l Ll l c l l c
+	l l l l l l l l l l l l l l l l l l l 
+Please print four E (Separated by spaces)
+	E E E
+	E E E E 
+Please print two U (Separated by spaces)
+	U U
+	U U 
+Please print seven z (Separated by spaces)
+	z z z z x z z
+	z z z z z z z 
+Please print eight K (Separated by spaces)
+	K K K K L K K k K K
+	K K K K K K K K 
+Please print two s (Separated by spaces)
+	s s
+	s s 
+Please print twenty-two a (Separated by spaces)
+	a a a aa aaa aA a a A a aAa a Aa a
+	a a a a a a a a a a a a a a a a a a a a a a 
+Please print nineteen H (Separated by spaces)
+	H H H HH HHH H h H H h h HH h H h
+	H H H H H H H H H H H H H H H H H H H 
+Please print eight A (Separated by spaces)
+	A A A A a A A
+	A A A A A A A A 
+Please print nineteen G (Separated by spaces)
+	G G G GG G g G G g g G gG GG g G
+	G G G G G G G G G G G G G G G G G G G 
+Please print seventeen K (Separated by spaces)
+	K K K KK KK k K K k K k k KKK
+	K K K K K K K K K K K K K K K K K 
+Please print two b (Separated by spaces)
+	b b
+	b b 
+Please print nine b (Separated by spaces)
+	b b b bb bbb b B b
+	b b b b b b b b b 
+Please print twenty-three M (Separated by spaces)
+	M M M MM M
+	M M M M M M M M M M M M M M M M M M M M M M M 
+Please print four X (Separated by spaces)
+	X X X
+	X X X X 
+Please print sixteen S (Separated by spaces)
+	S S S SS SSS S s S S s s S s
+	S S S S S S S S S S S S S S S S 
+Please print eighteen k (Separated by spaces)
+	k k k kk kkk k K k k Kk k m k k
+	k k k k k k k k k k k k k k k k k k 
+Please print nineteen C (Separated by spaces)
+	C C C CC C N C C NC CCC C c C C c
+	C C C C C C C C C C C C C C C C C C C 
+Please print ten I (Separated by spaces)
+	I I I II I
+	I I I I I I I I I I 
+Please print seven f (Separated by spaces)
+	f f f f c f
+	f f f f f f f 
+Please print twelve o (Separated by spaces)
+	o o o o O o o
+	o o o o o o o o o o o o 
+Please print eighteen w (Separated by spaces)
+	w w w w W w ww w W W w Ww ww W w
+	w w w w w w w w w w w w w w w w w w 
+Please print eighteen N (Separated by spaces)
+	N N N NN NNN N n N N nN N L N N
+	N N N N N N N N N N N N N N N N N N 
+Please print fifteen O (Separated by spaces)
+	O O O O N O O o O OO O o o O o
+	O O O O O O O O O O O O O O O 
+Please print nine P (Separated by spaces)
+	P P P PP PPP P
+	P P P P P P P P P 
+Please print four L (Separated by spaces)
+	L L L
+	L L L L 
+Please print eight N (Separated by spaces)
+	N N N NN N n N N n n N
+	N N N N N N N N 
+Please print twelve M (Separated by spaces)
+	M M M MM M
+	M M M M M M M M M M M M 
+Please print seven v (Separated by spaces)
+	v v v v c v
+	v v v v v v v 
+Please print one V (Separated by spaces)
+	V
+	V 
+Please print twenty-three K (Separated by spaces)
+	K K K KK KKK K k K K k k KK N K K
+	K K K K K K K K K K K K K K K K K K K K K K K 
+Please print one M (Separated by spaces)
+	M
+	M 
+Please print one I (Separated by spaces)
+	I
+	I 
+Please print fifteen B (Separated by spaces)
+	B B B BB B b B B b b B bB BB
+	B B B B B B B B B B B B B B B 
+Please print twenty-three O (Separated by spaces)
+	O O O OO O o O O N O O o o O oO OO o O N o
+	O O O O O O O O O O O O O O O O O O O O O O O 
+Please print twenty-three F (Separated by spaces)
+	F F F F f F F N F FF F f f F f
+	F F F F F F F F F F F F F F F F F F F F F F F 
+Please print eight c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c c 
+Please print ten m (Separated by spaces)
+	m m m mm mmm m
+	m m m m m m m m m m 
+Please print eighteen a (Separated by spaces)
+	a a a aa aaa aA a aAa a an a a
+	a a a a a a a a a a a a a a a a a a 
+Please print twenty n (Separated by spaces)
+	n n n nn nnn n N n n Nn n c n n c N
+	n n n n n n n n n n n n n n n n n n n n 
+Please print fifteen q (Separated by spaces)
+	q q q qq q Q q q Q Q q Q u q q u q
+	q q q q q q q q q q q q q q q 
+Please print six x (Separated by spaces)
+	x x x x z x
+	x x x x x x 
+Please print two g (Separated by spaces)
+	g g
+	g g 
+Please print nine G (Separated by spaces)
+	G G G GG G g G G
+	G G G G G G G G G 
+Please print twelve T (Separated by spaces)
+	T T T TT TT t T T t T
+	T T T T T T T T T T T T 
+Please print nineteen l (Separated by spaces)
+	l l l l L l ll lll l Ll l c l l c
+	l l l l l l l l l l l l l l l l l l l 
+Please print thirteen r (Separated by spaces)
+	r r r r R r r u r r c r
+	r r r r r r r r r r r r r 
+Please print two y (Separated by spaces)
+	y y
+	y y 
+Please print six y (Separated by spaces)
+	y y y y
+	y y y y y y 
+Please print thirteen u (Separated by spaces)
+	u u u u U u u d u uu u U
+	u u u u u u u u u u u u u 
+Please print eleven X (Separated by spaces)
+	X X X XX X x X X Z X
+	X X X X X X X X X X X 
+Please print five C (Separated by spaces)
+	C C C CC
+	C C C C C 
+Please print four E (Separated by spaces)
+	E E E
+	E E E E 
+Please print twenty F (Separated by spaces)
+	F F F FF F f F F f f F f N F F N F f M
+	F F F F F F F F F F F F F F F F F F F F 
+Please print seventeen F (Separated by spaces)
+	F F F FF F f F F f f F f D F F P
+	F F F F F F F F F F F F F F F F F 
+Please print eight Y (Separated by spaces)
+	Y Y Y YY Y y Y Y y y
+	Y Y Y Y Y Y Y Y 
+Please print two h (Separated by spaces)
+	h h
+	h h 
+Please print eight G (Separated by spaces)
+	G G G G g G G
+	G G G G G G G G 
+Please print eighteen I (Separated by spaces)
+	I I I II I i I I i i I i
+	I I I I I I I I I I I I I I I I I I 
+Please print fourteen k (Separated by spaces)
+	k k k k K k k l k k d k k
+	k k k k k k k k k k k k k k 
+Please print five f (Separated by spaces)
+	f f f f
+	f f f f f 
+Please print eighteen P (Separated by spaces)
+	P P P PP PPP P N P P p P P C P P
+	P P P P P P P P P P P P P P P P P P 
+Please print fourteen D (Separated by spaces)
+	D D D DD DD L D D d D D C D D
+	D D D D D D D D D D D D D D 
+Please print twenty-four f (Separated by spaces)
+	f f f ff fff f d f f df f m f f h f f m d f
+	f f f f f f f f f f f f f f f f f f f f f f f f 
+Please print seventeen x (Separated by spaces)
+	x x x x z x x X x xx x X X x Xx
+	x x x x x x x x x x x x x x x x x 
+Please print fourteen g (Separated by spaces)
+	g g g g G g g
+	g g g g g g g g g g g g g g 
+Please print seven u (Separated by spaces)
+	u u u u U u
+	u u u u u u u 
+Please print twenty-five P (Separated by spaces)
+	P P P PP PPP P U P P UP P N P P NP P Z P P ZP P
+	P P P P P P P P P P P P P P P P P P P P P P P P P 
+Please print two A (Separated by spaces)
+	A A
+	A A 
+Please print three a (Separated by spaces)
+	a a a a
+	a a a 
+Please print two S (Separated by spaces)
+	S S
+	S S 
+Please print nineteen s (Separated by spaces)
+	s s s s S s s o s s c s s a s s h s s
+	s s s s s s s s s s s s s s s s s s s 
+Please print seven P (Separated by spaces)
+	P P P PP PP
+	P P P P P P P 
+Please print twenty-three v (Separated by spaces)
+	v v v vv vvv v c v v c d v v d v
+	v v v v v v v v v v v v v v v v v v v v v v v 
+Please print eleven u (Separated by spaces)
+	u u u u U u u d u u r
+	u u u u u u u u u u u 
+Please print twenty-three w (Separated by spaces)
+	w w w w W w ww w W W w W y w w
+	w w w w w w w w w w w w w w w w w w w w w w w 
+Please print twenty-five D (Separated by spaces)
+	D D D DD DDD D d D D dD D C D D CD D L D D LD D
+	D D D D D D D D D D D D D D D D D D D D D D D D D 
+Please print seventeen r (Separated by spaces)
+	r r r r R r r u r r c r r a r r l
+	r r r r r r r r r r r r r r r r r 
+Please print sixteen b (Separated by spaces)
+	b b b bb bbb b B b b B B b
+	b b b b b b b b b b b b b b b b 
+Please print twenty-four X (Separated by spaces)
+	X X X XX XXX X Z X X ZX X Q X X QX X V X X
+	X X X X X X X X X X X X X X X X X X X X X X X X 
+Please print nine x (Separated by spaces)
+	x x x x z x x X x
+	x x x x x x x x x 
+Please print five T (Separated by spaces)
+	T T T TT
+	T T T T T 
+Please print twenty-three x (Separated by spaces)
+	x x x xx xxx x X x x X X x X z x x z x z z x
+	x x x x x x x x x x x x x x x x x x x x x x x 
+Please print fourteen U (Separated by spaces)
+	U U U UU UU u U U u U u u UU
+	U U U U U U U U U U U U U U 
+Please print eighteen j (Separated by spaces)
+	j j j j r j j p j j m j j J j j a j
+	j j j j j j j j j j j j j j j j j j 
+Please print eight h (Separated by spaces)
+	h h h h c h h
+	h h h h h h h h 
+Please print eighteen R (Separated by spaces)
+	R R R RR RRR R r R R rR R U R R
+	R R R R R R R R R R R R R R R R R R 
+Please print twenty-five e (Separated by spaces)
+	e e e ee eee e i e e ie e
+	e e e e e e e e e e e e e e e e e e e e e e e e e 
+Please print eleven c (Separated by spaces)
+	c c c c C c c a c c
+	c c c c c c c c c c c 
+Please print four V (Separated by spaces)
+	V V V
+	V V V V 
+Please print four J (Separated by spaces)
+	J J J
+	J J J J 
+Please print ten F (Separated by spaces)
+	F F F FF F f F F f
+	F F F F F F F F F F 
+Please print eighteen W (Separated by spaces)
+	W W W WW WWW W w W W wW W Q W W
+	W W W W W W W W W W W W W W W W W W 
+Please print twenty-one s (Separated by spaces)
+	s s s s S s s w s s c s s d s s l s s h
+	s s s s s s s s s s s s s s s s s s s s s 
+Please print twenty E (Separated by spaces)
+	E E E EE EEE E e E E e e E eE E W E
+	E E E E E E E E E E E E E E E E E E E E 
+Please print five t (Separated by spaces)
+	t t t t T
+	t t t t t 
+Please print two F (Separated by spaces)
+	F F
+	F F 
+Please print eight S (Separated by spaces)
+	S S S SS S s S S
+	S S S S S S S S 
+Please print eighteen d (Separated by spaces)
+	d d d d D d dd ddd d Dd d a d d
+	d d d d d d d d d d d d d d d d d d 
+Please print ten Q (Separated by spaces)
+	Q Q Q QQ Q Z Q Q Z Z Q
+	Q Q Q Q Q Q Q Q Q Q 
+Please print twenty-three m (Separated by spaces)
+	m m m mm mmm m l m m
+	m m m m m m m m m m m m m m m m m m m m m m m 
+Please print twenty Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z 20 Z Z 20Z Z R Z Z H Z
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print twenty q (Separated by spaces)
+	q q q qq qqq q Q q q Q Q q Qq q c q
+	q q q q q q q q q q q q q q q q q q q q 
+Please print twenty-four W (Separated by spaces)
+	W W W WW WWW W N W W NW W L W W w W W LW W
+	W W W W W W W W W W W W W W W W W W W W W W W W 
+Please print nineteen R (Separated by spaces)
+	R R R RR RRR R r R R rR R S R R S
+	R R R R R R R R R R R R R R R R R R R 
+Please print twenty-four w (Separated by spaces)
+	w w w w W w ww w W W w Ww ww W www w l w w
+	w w w w w w w w w w w w w w w w w w w w w w w w 
+Please print twenty N (Separated by spaces)
+	N N N NN NNN N n N N nN N L N N W N
+	N N N N N N N N N N N N N N N N N N N N 
+Please print twenty-three K (Separated by spaces)
+	K K K KK KKK K k K K k k KK N K K
+	K K K K K K K K K K K K K K K K K K K K K K K 
+Please print six E (Separated by spaces)
+	E E E EE E
+	E E E E E E 
+Please print twenty-two B (Separated by spaces)
+	B B B BB BBB B b B B bB B A B B AB B
+	B B B B B B B B B B B B B B B B B B B B B B 
+Please print fifteen m (Separated by spaces)
+	m m m mm mmm m M m m M M mm a m m
+	m m m m m m m m m m m m m m m 
+Please print twenty-one Q (Separated by spaces)
+	Q Q Q QQ Q Z Q Q Z Z Q ZQ QQ Z QQQ Q
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print six Z (Separated by spaces)
+	Z Z Z Z
+	Z Z Z Z Z Z 
+Please print six H (Separated by spaces)
+	H H H H
+	H H H H H H 
+Please print eight t (Separated by spaces)
+	t t t t T t t c t t
+	t t t t t t t t 
+Please print six W (Separated by spaces)
+	W W W WW W
+	W W W W W W 
+Please print thirteen j (Separated by spaces)
+	j j j j r j j t j j
+	j j j j j j j j j j j j j 
+Please print seventeen H (Separated by spaces)
+	H H H HH HH h H H h HHH H h h
+	H H H H H H H H H H H H H H H H H 
+Please print fifteen y (Separated by spaces)
+	y y y yy yyy y l y y ly y
+	y y y y y y y y y y y y y y y 
+Please print nineteen t (Separated by spaces)
+	t t t t T t tt ttt t Tt t c t t c
+	t t t t t t t t t t t t t t t t t t t 
+Please print twenty-five t (Separated by spaces)
+	t t t tt tt h t t c t t h t c c tt c t c d t t d t c h
+	t t t t t t t t t t t t t t t t t t t t t t t t t 
+Please print twenty-four y (Separated by spaces)
+	y y y yy yyy y d y y l y y dy y ly y Y y y
+	y y y y y y y y y y y y y y y y y y y y y y y y 
+Please print twenty-one x (Separated by spaces)
+	x x x xx xxx x X x x X X x Xx x z x
+	x x x x x x x x x x x x x x x x x x x x x 
+Please print nine M (Separated by spaces)
+	M M M MM MM
+	M M M M M M M M M 
+Please print twenty U (Separated by spaces)
+	U U U UU UUU U u U U uU U S U U SU
+	U U U U U U U U U U U U U U U U U U U U 
+Please print eight I (Separated by spaces)
+	I I I I i I I
+	I I I I I I I I 
+Please print thirteen r (Separated by spaces)
+	r r r r R r r u r r c r
+	r r r r r r r r r r r r r 
+Please print twenty-four V (Separated by spaces)
+	V V V VV VVV V U V V UV V N V V NV V H V V
+	V V V V V V V V V V V V V V V V V V V V V V V V 
+Please print twenty-four D (Separated by spaces)
+	D D D DD DDD D d D D dD D C D D L D D CD D
+	D D D D D D D D D D D D D D D D D D D D D D D D 
+Please print two W (Separated by spaces)
+	W W
+	W W 
+Please print fifteen a (Separated by spaces)
+	a a a aA a aa aaa a an a a an
+	a a a a a a a a a a a a a a a 
+Please print four f (Separated by spaces)
+	f f f
+	f f f f 
+Please print twenty-three m (Separated by spaces)
+	m m m mm mmm m l m m
+	m m m m m m m m m m m m m m m m m m m m m m m 
+Please print nineteen U (Separated by spaces)
+	U U U UU UUU U u U U uU U S U U S
+	U U U U U U U U U U U U U U U U U U U 
+Please print eight z (Separated by spaces)
+	z z z z x z z
+	z z z z z z z z 
+Please print one f (Separated by spaces)
+	f
+	f 
+Please print nineteen b (Separated by spaces)
+	b b b bb bbb b B b b Bb b a b b a
+	b b b b b b b b b b b b b b b b b b b 
+Please print twenty-one o (Separated by spaces)
+	o o o o O o oo o O O o Oo oo O ooo
+	o o o o o o o o o o o o o o o o o o o o o 
+Please print twenty C (Separated by spaces)
+	C C C CC C N C C N N C N c C C c C N A
+	C C C C C C C C C C C C C C C C C C C C 
+Please print twelve Y (Separated by spaces)
+	Y Y Y YY Y y Y Y y
+	Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print fifteen M (Separated by spaces)
+	M M M MM MM m M M m M m m M
+	M M M M M M M M M M M M M M M 
+Please print seven i (Separated by spaces)
+	i i i i
+	i i i i i i i 
+Please print four U (Separated by spaces)
+	U U U
+	U U U U 
+Please print ten L (Separated by spaces)
+	L L L LL LLL L l L L
+	L L L L L L L L L L 
+Please print eleven M (Separated by spaces)
+	M M M MM M m M M m m
+	M M M M M M M M M M M 
+Please print one l (Separated by spaces)
+	l
+	l 
+Please print three K (Separated by spaces)
+	K K K
+	K K K 
+Please print sixteen I (Separated by spaces)
+	I I I I i I II I i i I i
+	I I I I I I I I I I I I I I I I 
+Please print twenty-four c (Separated by spaces)
+	c c c c C c c a c cc c C C c C a c Cc c a C
+	c c c c c c c c c c c c c c c c c c c c c c c c 
+Please print two l (Separated by spaces)
+	l l
+	l l 
+Please print sixteen H (Separated by spaces)
+	H H H HH HHH H h H H h h H h
+	H H H H H H H H H H H H H H H H 
+Please print ten o (Separated by spaces)
+	o o o oo ooo o O o
+	o o o o o o o o o o 
+Please print five C (Separated by spaces)
+	C C C CC
+	C C C C C 
+Please print ten X (Separated by spaces)
+	X X X XX X Z X X Z Z
+	X X X X X X X X X X 
+Please print twenty-three r (Separated by spaces)
+	r r r rr r u r r u u r u l r r
+	r r r r r r r r r r r r r r r r r r r r r r r 
+Please print ten s (Separated by spaces)
+	s s s s S s ss s
+	s s s s s s s s s s 
+Please print twenty-two k (Separated by spaces)
+	k k k kk kkk k n k k nk k l k k y k k d
+	k k k k k k k k k k k k k k k k k k k k k k 
+Please print four a (Separated by spaces)
+	a a a
+	a a a a 
+Please print one F (Separated by spaces)
+	F
+	F 
+Please print seventeen f (Separated by spaces)
+	f f f ff f c f f cf fff f d f
+	f f f f f f f f f f f f f f f f f 
+Please print twelve i (Separated by spaces)
+	i i i ii ii
+	i i i i i i i i i i i i 
+Please print three p (Separated by spaces)
+	p p p p
+	p p p 
+Please print eleven R (Separated by spaces)
+	R R R RR RRR R r R
+	R R R R R R R R R R R 
+Please print twenty-three y (Separated by spaces)
+	y y y yy yyy y l y y h y y d y y ly y
+	y y y y y y y y y y y y y y y y y y y y y y y 
+Please print twenty-four G (Separated by spaces)
+	G G G GG GGG G V G G g G G L G G V g G L L G
+	G G G G G G G G G G G G G G G G G G G G G G G G 
+Please print two Q (Separated by spaces)
+	Q Q
+	Q Q 
+Please print one J (Separated by spaces)
+	J
+	J 
+Please print twelve v (Separated by spaces)
+	v v v v c v v
+	v v v v v v v v v v v v 
+Please print fifteen N (Separated by spaces)
+	N N N NN NN n N N n N n n NNN N
+	N N N N N N N N N N N N N N N 
+Please print eighteen Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z Q Z Z QZ Z D Z Z
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print one o (Separated by spaces)
+	o
+	o 
+Please print twenty W (Separated by spaces)
+	W W W WW WWW W w W W wW W N W W NW
+	W W W W W W W W W W W W W W W W W W W W 
+Please print twenty-four g (Separated by spaces)
+	g g g g G g gg gg G ggg g Gg g a g g a G g
+	g g g g g g g g g g g g g g g g g g g g g g g g 
+Please print eighteen J (Separated by spaces)
+	J J J JJ JJJ J j J J jJ J H J J
+	J J J J J J J J J J J J J J J J J J 
+Please print two e (Separated by spaces)
+	e e
+	e e 
+Please print eleven X (Separated by spaces)
+	X X X XX X x X X Z X
+	X X X X X X X X X X X 
+Please print sixteen F (Separated by spaces)
+	F F F FF F f F F f f F f D F F
+	F F F F F F F F F F F F F F F F 
+Please print ten X (Separated by spaces)
+	X X X XX X Z X X Z Z
+	X X X X X X X X X X 
+Please print twenty-one L (Separated by spaces)
+	L L L LL LLL L U L L UL L l L L lL
+	L L L L L L L L L L L L L L L L L L L L L 
+Please print six t (Separated by spaces)
+	t t t t
+	t t t t t t 
+Please print fifteen p (Separated by spaces)
+	p p p pp ppp p u p p u u pp
+	p p p p p p p p p p p p p p p 
+Please print eight y (Separated by spaces)
+	y y y yy yy
+	y y y y y y y y 
+Please print six G (Separated by spaces)
+	G G G G
+	G G G G G G 
+Please print sixteen h (Separated by spaces)
+	h h h h c h h o h h H h h w h h
+	h h h h h h h h h h h h h h h h 
+Please print twenty-one T (Separated by spaces)
+	T T T TT TTT T t T T t t T tT T N T
+	T T T T T T T T T T T T T T T T T T T T T 
+Please print one n (Separated by spaces)
+	n
+	n 
+Please print eleven C (Separated by spaces)
+	C C C C c C C N C C
+	C C C C C C C C C C C 
+Please print two S (Separated by spaces)
+	S S
+	S S 
+Please print twenty-one H (Separated by spaces)
+	H H H HH HHH H h H H h h H hH H U H
+	H H H H H H H H H H H H H H H H H H H H H 
+Please print three O (Separated by spaces)
+	O O O
+	O O O 
+Please print fifteen n (Separated by spaces)
+	n n n n N n nn n N N n Nn nn N n
+	n n n n n n n n n n n n n n n 
+Please print seven O (Separated by spaces)
+	O O O O N O O
+	O O O O O O O 
+Please print twenty-four g (Separated by spaces)
+	g g g g G g gg gg G ggg g Gg g a g g a G g
+	g g g g g g g g g g g g g g g g g g g g g g g g 
+Please print seven c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c 
+Please print sixteen V (Separated by spaces)
+	V V V VV VVV V U V V UV V v
+	V V V V V V V V V V V V V V V V 
+Please print ten k (Separated by spaces)
+	k k k kk kkk k
+	k k k k k k k k k k 
+Please print thirteen r (Separated by spaces)
+	r r r r R r r u r r c r
+	r r r r r r r r r r r r r 
+Please print two F (Separated by spaces)
+	F F
+	F F 
+Please print thirteen s (Separated by spaces)
+	s s s s S s s
+	s s s s s s s s s s s s s 
+Please print three N (Separated by spaces)
+	N N N N
+	N N N 
+Please print twenty-three N (Separated by spaces)
+	N N N NN NNN N n N N nN N L N N
+	N N N N N N N N N N N N N N N N N N N N N N N 
+Please print twenty-four m (Separated by spaces)
+	m m m mm mmm m l m m lm m d m m a m m M m m
+	m m m m m m m m m m m m m m m m m m m m m m m m 
+Please print one j (Separated by spaces)
+	j
+	j 
+Please print fifteen R (Separated by spaces)
+	R R R RR RRR R r R R r r R r
+	R R R R R R R R R R R R R R R 
+Please print ten N (Separated by spaces)
+	N N N NN NNN N n N N
+	N N N N N N N N N N 
+Please print sixteen r (Separated by spaces)
+	r r r r R r r u r rr r R R r
+	r r r r r r r r r r r r r r r r 
+Please print twenty-two U (Separated by spaces)
+	U U U UU UUU U u U U uU U A U U AU U
+	U U U U U U U U U U U U U U U U U U U U U U 
+Please print twenty-five U (Separated by spaces)
+	U U U UU UUU U u U U uU U L U U LU U N U U NU U
+	U U U U U U U U U U U U U U U U U U U U U U U U U 
+Please print sixteen j (Separated by spaces)
+	j j j j J j jj j J J j J
+	j j j j j j j j j j j j j j j j 
+Please print seven A (Separated by spaces)
+	A A A A
+	A A A A A A A 
+Please print eleven X (Separated by spaces)
+	X X X XX X x X X Z X
+	X X X X X X X X X X X 
+Please print twenty-two s (Separated by spaces)
+	s s s ss sss s d s s S s s ds s Ss s
+	s s s s s s s s s s s s s s s s s s s s s s 
+Please print fourteen X (Separated by spaces)
+	X X X XX X x X X Z X X x x X Z Z
+	X X X X X X X X X X X X X X 
+Please print twenty-two y (Separated by spaces)
+	y y y yy yyy y d y y Y y y dy y Yy y
+	y y y y y y y y y y y y y y y y y y y y y y 
+Please print twenty d (Separated by spaces)
+	d d d dd ddd d D d d Dd d a d d c d
+	d d d d d d d d d d d d d d d d d d d d 
+Please print two u (Separated by spaces)
+	u u
+	u u 
+Please print eight H (Separated by spaces)
+	H H H HH H h H H h
+	H H H H H H H H 
+Please print five z (Separated by spaces)
+	z z z z x
+	z z z z z 
+Please print seventeen f (Separated by spaces)
+	f f f ff f c f f cf fff f d f
+	f f f f f f f f f f f f f f f f f 
+Please print four w (Separated by spaces)
+	w w w
+	w w w w 
+Please print fourteen O (Separated by spaces)
+	O O O O N O O o O O L O O
+	O O O O O O O O O O O O O O 
+Please print eighteen n (Separated by spaces)
+	n n n n N n nn nnn n Nn nN n n
+	n n n n n n n n n n n n n n n n n n 
+Please print fourteen m (Separated by spaces)
+	m m m mm mmm m l m m l
+	m m m m m m m m m m m m m m 
+Please print three f (Separated by spaces)
+	f f f f
+	f f f 
+Please print two Z (Separated by spaces)
+	Z Z
+	Z Z 
+Please print twenty-one f (Separated by spaces)
+	f f f ff fff f c f f c c f cf f d f
+	f f f f f f f f f f f f f f f f f f f f f 
+Please print eleven P (Separated by spaces)
+	P P P PP PPP P p P
+	P P P P P P P P P P P 
+Please print seven c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c 
+Please print two B (Separated by spaces)
+	B B
+	B B 
+Please print eight Q (Separated by spaces)
+	Q Q Q Q Z Q Q q Q Q X Q Q
+	Q Q Q Q Q Q Q Q 
+Please print twenty-four C (Separated by spaces)
+	C C C CC C N C C N N C N U C C U C NC CC N C
+	C C C C C C C C C C C C C C C C C C C C C C C C 
+Please print four M (Separated by spaces)
+	M M M
+	M M M M 
+Please print twelve F (Separated by spaces)
+	F F F F f F F
+	F F F F F F F F F F F F 
+Please print eleven F (Separated by spaces)
+	F F F F f F F D F F P
+	F F F F F F F F F F F 
+Please print fifteen k (Separated by spaces)
+	k k k k K k k l k kk k K K k K
+	k k k k k k k k k k k k k k k 
+Please print seven s (Separated by spaces)
+	s s s s
+	s s s s s s s 
+Please print one R (Separated by spaces)
+	R
+	R 
+Please print three b (Separated by spaces)
+	b b b b
+	b b b 
+Please print one b (Separated by spaces)
+	b
+	b 
+Please print twenty-four P (Separated by spaces)
+	P P P PP PPP P U P P UP P N P P NP P Z P P
+	P P P P P P P P P P P P P P P P P P P P P P P P 
+Please print thirteen M (Separated by spaces)
+	M M M MM M
+	M M M M M M M M M M M M M 
+Please print nine K (Separated by spaces)
+	K K K K L K KK K
+	K K K K K K K K K 
+Please print one K (Separated by spaces)
+	K
+	K 
+Please print thirteen z (Separated by spaces)
+	z z z z x z z k z z Z z z
+	z z z z z z z z z z z z z 
+Please print seven h (Separated by spaces)
+	h h h h c h h
+	h h h h h h h 
+Please print nineteen P (Separated by spaces)
+	P P P PP PPP P Z P P C P P N P P Z
+	P P P P P P P P P P P P P P P P P P P 
+Please print fifteen C (Separated by spaces)
+	C C C C N C C c C CC C c c C c
+	C C C C C C C C C C C C C C C 
+Please print twenty-four z (Separated by spaces)
+	z z z z d z z y z z x z zz z y y z y d z y r z
+	z z z z z z z z z z z z z z z z z z z z z z z z 
+Please print twenty-four R (Separated by spaces)
+	R R R RR RRR R U R R U U RR U R UR R S R R
+	R R R R R R R R R R R R R R R R R R R R R R R R 
+Please print twenty-three x (Separated by spaces)
+	x x x xx xxx x X x x X X x X z x x z x z z x
+	x x x x x x x x x x x x x x x x x x x x x x x 
+Please print four i (Separated by spaces)
+	i i i
+	i i i i 
+Please print five O (Separated by spaces)
+	O O O O N
+	O O O O O 
+Please print eleven Y (Separated by spaces)
+	Y Y Y YY Y y Y Y y y
+	Y Y Y Y Y Y Y Y Y Y Y 
+Please print twenty-five M (Separated by spaces)
+	M M M MM MMM M A M M
+	M M M M M M M M M M M M M M M M M M M M M M M M M 
+Please print eleven E (Separated by spaces)
+	E E E E e E E N E E
+	E E E E E E E E E E E 
+Please print four L (Separated by spaces)
+	L L L
+	L L L L 
+Please print fourteen Q (Separated by spaces)
+	Q Q Q Q Z Q QQ Q Z Z Q Z q Q Q q
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print seven r (Separated by spaces)
+	r r r r R r r
+	r r r r r r r 
+Please print six w (Separated by spaces)
+	w w w w W w
+	w w w w w w 
+Please print one k (Separated by spaces)
+	k
+	k 
+Please print eleven H (Separated by spaces)
+	H H H HH H h H H h h
+	H H H H H H H H H H H 
+Please print eighteen X (Separated by spaces)
+	X X X XX XXX X Q X X QX X x X X
+	X X X X X X X X X X X X X X X X X X 
+Please print five p (Separated by spaces)
+	p p p pp
+	p p p p p 
+Please print twenty-one r (Separated by spaces)
+	r r r r R r r c r r u r r l r r a r r d
+	r r r r r r r r r r r r r r r r r r r r r 
+Please print twenty H (Separated by spaces)
+	H H H HH HHH H h H H h h H hH H Z H
+	H H H H H H H H H H H H H H H H H H H H 
+Please print ten K (Separated by spaces)
+	K K K KK KKK K L K
+	K K K K K K K K K K 
+Please print seven B (Separated by spaces)
+	B B B BB B b
+	B B B B B B B 
+Please print twenty y (Separated by spaces)
+	y y y yy yyy y l y y l l yy l y l c
+	y y y y y y y y y y y y y y y y y y y y 
+Please print one V (Separated by spaces)
+	V
+	V 
+Please print fifteen t (Separated by spaces)
+	t t t t T t tt t T T t Tt tt
+	t t t t t t t t t t t t t t t 
+Please print twenty-two i (Separated by spaces)
+	i i i ii iii i I i i Ii i
+	i i i i i i i i i i i i i i i i i i i i i i 
+Please print nineteen S (Separated by spaces)
+	S S S SS SSS S s S S s s SS s S N
+	S S S S S S S S S S S S S S S S S S S 
+Please print twenty-three n (Separated by spaces)
+	n n n nn nnn n N n n Nn n c n n
+	n n n n n n n n n n n n n n n n n n n n n n n 
+Please print twenty C (Separated by spaces)
+	C C C CC C N C C N N C N c C C c C N A
+	C C C C C C C C C C C C C C C C C C C C 
+Please print eight R (Separated by spaces)
+	R R R RR RR r R R
+	R R R R R R R R 
+Please print eighteen B (Separated by spaces)
+	B B B BB B b B B b b B bB BB b B
+	B B B B B B B B B B B B B B B B B B 
+Please print one P (Separated by spaces)
+	P
+	P 
+Please print sixteen w (Separated by spaces)
+	w w w w W w ww w W W w Ww ww
+	w w w w w w w w w w w w w w w w 
+Please print seven m (Separated by spaces)
+	m m m m
+	m m m m m m m 
+Please print twenty F (Separated by spaces)
+	F F F FF F f F F f f F f N F F N F f M
+	F F F F F F F F F F F F F F F F F F F F 
+Please print eight W (Separated by spaces)
+	W W W WW WW w W W w
+	W W W W W W W W 
+Please print fifteen Q (Separated by spaces)
+	Q Q Q QQ Q Z Q Q Z Z Q ZQ QQ
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print eleven v (Separated by spaces)
+	v v v v c v v u v v
+	v v v v v v v v v v v 
+Please print twenty-five O (Separated by spaces)
+	O O O OO O N O O N N O NO OO N OOO O U O O o O O
+	O O O O O O O O O O O O O O O O O O O O O O O O O 
+Please print two y (Separated by spaces)
+	y y
+	y y 
+Please print five G (Separated by spaces)
+	G G G G
+	G G G G G 
+Please print eleven B (Separated by spaces)
+	B B B B b B BB B b b
+	B B B B B B B B B B B 
+Please print eighteen z (Separated by spaces)
+	z z z z x z z r z zz z x x z x y z
+	z z z z z z z z z z z z z z z z z z 
+Please print nineteen o (Separated by spaces)
+	o o o oo ooo o O o o Oo o m o o i
+	o o o o o o o o o o o o o o o o o o o 
+Please print twenty-five T (Separated by spaces)
+	T T T TT TTT T t T T t t TT t T tT T N T T
+	T T T T T T T T T T T T T T T T T T T T T T T T T 
+Please print five a (Separated by spaces)
+	a a a a
+	a a a a a 
+Please print twenty-three P (Separated by spaces)
+	P P P PP PPP P Z P P p P P N P P
+	P P P P P P P P P P P P P P P P P P P P P P P 
+Please print three x (Separated by spaces)
+	x x x x
+	x x x 
+Please print three C (Separated by spaces)
+	C C C C
+	C C C 
+Please print twenty-two a (Separated by spaces)
+	a a a aa aaa aA a a A a aAa a Aa a
+	a a a a a a a a a a a a a a a a a a a a a a 
+Please print twenty-five u (Separated by spaces)
+	u u u u U u uu u U U u Uu uu U uuu u d u u d U u d d
+	u u u u u u u u u u u u u u u u u u u u u u u u u 
+Please print eleven l (Separated by spaces)
+	l l l l L l l c l l
+	l l l l l l l l l l l 
+Please print twenty N (Separated by spaces)
+	N N N NN NNN N n N N nN N L N N W N
+	N N N N N N N N N N N N N N N N N N N N 
+Please print twenty m (Separated by spaces)
+	m m m mm mmm m l m m lm m M m m M M
+	m m m m m m m m m m m m m m m m m m m m 
+Please print twenty-five x (Separated by spaces)
+	x x x xx xxx x z x x zx x X x x X z x z z x X
+	x x x x x x x x x x x x x x x x x x x x x x x x x 
+Please print six r (Separated by spaces)
+	r r r r
+	r r r r r r 
+Please print seven h (Separated by spaces)
+	h h h h c h h
+	h h h h h h h 
+Please print fourteen w (Separated by spaces)
+	w w w w W w ww w W W w W
+	w w w w w w w w w w w w w w 
+Please print six Q (Separated by spaces)
+	Q Q Q QQ Q
+	Q Q Q Q Q Q 
+Please print nineteen I (Separated by spaces)
+	I I I II I i I I i i I i
+	I I I I I I I I I I I I I I I I I I I 
+Please print thirteen o (Separated by spaces)
+	o o o o O o oo o O O o O
+	o o o o o o o o o o o o o 
+Please print seventeen e (Separated by spaces)
+	e e e ee eee e i e e ie e E e
+	e e e e e e e e e e e e e e e e e 
+Please print twenty-four j (Separated by spaces)
+	j j j j r j jj j r r jj r j r d j j d j t j j
+	j j j j j j j j j j j j j j j j j j j j j j j j 
+Please print thirteen P (Separated by spaces)
+	P P P PP PPP P Z P P
+	P P P P P P P P P P P P P 
+Please print twenty-one I (Separated by spaces)
+	I I I II I Z I I Z Z I Z N I I U I I N
+	I I I I I I I I I I I I I I I I I I I I I 
+Please print twenty-three j (Separated by spaces)
+	j j j jj j t j j t t j t
+	j j j j j j j j j j j j j j j j j j j j j j j 
+Please print twenty-one b (Separated by spaces)
+	b b b bb bbb b B b b B B b Bb b a b
+	b b b b b b b b b b b b b b b b b b b b b 
+Please print twenty-four w (Separated by spaces)
+	w w w w W w ww w W W w Ww ww W www w l w w
+	w w w w w w w w w w w w w w w w w w w w w w w w 
+Please print thirteen d (Separated by spaces)
+	d d d d D d d c d d a d
+	d d d d d d d d d d d d d 
+Please print four i (Separated by spaces)
+	i i i
+	i i i i 
+Please print two x (Separated by spaces)
+	x x
+	x x 
+Please print nineteen H (Separated by spaces)
+	H H H HH HHH H h H H h h HH h H h
+	H H H H H H H H H H H H H H H H H H H 
+Please print five X (Separated by spaces)
+	X X X X V
+	X X X X X 
+Please print six n (Separated by spaces)
+	n n n n N n
+	n n n n n n 
+Please print thirteen D (Separated by spaces)
+	D D D DD DDD D L D D
+	D D D D D D D D D D D D D 
+Please print twenty-three B (Separated by spaces)
+	B B B BB B b B B b b B bB BB b BBB B A B B
+	B B B B B B B B B B B B B B B B B B B B B B B 
+Please print seventeen P (Separated by spaces)
+	P P P PP PPP P Z P P C P P p P
+	P P P P P P P P P P P P P P P P P 
+Please print twenty-four E (Separated by spaces)
+	E E E EE EEE E N E E NE E U E E UE E e E E
+	E E E E E E E E E E E E E E E E E E E E E E E E 
+Please print seventeen R (Separated by spaces)
+	R R R RR RRR R U R R UR R r R
+	R R R R R R R R R R R R R R R R R 
+Please print twenty-three y (Separated by spaces)
+	y y y yy yyy y l y y h y y d y y ly y
+	y y y y y y y y y y y y y y y y y y y y y y y 
+Please print twelve K (Separated by spaces)
+	K K K K L K K
+	K K K K K K K K K K K K 
+Please print twenty-four h (Separated by spaces)
+	h h h hh hhh h y h h yh h d h h dh h c h h
+	h h h h h h h h h h h h h h h h h h h h h h h h 
+Please print twelve t (Separated by spaces)
+	t t t t T t t
+	t t t t t t t t t t t t 
+Please print nine d (Separated by spaces)
+	d d d d D d dd d
+	d d d d d d d d d 
+Please print ten L (Separated by spaces)
+	L L L LL LLL L l L L
+	L L L L L L L L L L 
+Please print six k (Separated by spaces)
+	k k k k
+	k k k k k k 
+Please print six E (Separated by spaces)
+	E E E EE E
+	E E E E E E 
+Please print fourteen i (Separated by spaces)
+	i i i ii iii i
+	i i i i i i i i i i i i i i 
+Please print twenty y (Separated by spaces)
+	y y y yy yyy y l y y l l yy l y l c
+	y y y y y y y y y y y y y y y y y y y y 
+Please print seventeen Q (Separated by spaces)
+	Q Q Q QQ Q Z Q Q ZQ QQQ Q q Q
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print twenty-one Q (Separated by spaces)
+	Q Q Q QQ Q Z Q Q Z Z Q ZQ QQ Z QQQ Q
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print twenty-two a (Separated by spaces)
+	a a a aa aaa aA a a A a aAa a Aa a
+	a a a a a a a a a a a a a a a a a a a a a a 
+Please print four X (Separated by spaces)
+	X X X
+	X X X X 
+Please print nineteen J (Separated by spaces)
+	J J J JJ JJJ J j J J jJ J H J J H
+	J J J J J J J J J J J J J J J J J J J 
+Please print twenty-three V (Separated by spaces)
+	V V V VV VVV V v V V vV V U V V N V V M V
+	V V V V V V V V V V V V V V V V V V V V V V V 
+Please print eighteen T (Separated by spaces)
+	T T T TT TTT T t T T t t TT t T
+	T T T T T T T T T T T T T T T T T T 
+Please print fourteen M (Separated by spaces)
+	M M M MM M
+	M M M M M M M M M M M M M M 
+Please print three z (Separated by spaces)
+	z z z z
+	z z z 
+Please print twenty-one q (Separated by spaces)
+	q q q qq qqq q Q q q Q Q q Qq q u q
+	q q q q q q q q q q q q q q q q q q q q q 
+Please print twenty-three o (Separated by spaces)
+	o o o oo ooo o O o o Oo o m o o
+	o o o o o o o o o o o o o o o o o o o o o o o 
+Please print fifteen H (Separated by spaces)
+	H H H HH H h H H h h H hH HH
+	H H H H H H H H H H H H H H H 
+Please print twenty-one r (Separated by spaces)
+	r r r r R r r c r r u r r l r r a r r d
+	r r r r r r r r r r r r r r r r r r r r r 
+Please print thirteen e (Separated by spaces)
+	e e e ee ee
+	e e e e e e e e e e e e e 
+Please print four h (Separated by spaces)
+	h h h
+	h h h h 
+Please print three A (Separated by spaces)
+	A A A A
+	A A A 
+Please print eighteen h (Separated by spaces)
+	h h h hh hhh h c h h m h h ch h
+	h h h h h h h h h h h h h h h h h h 
+Please print twenty L (Separated by spaces)
+	L L L LL LLL L l L L lL L N L L NL
+	L L L L L L L L L L L L L L L L L L L L 
+Please print ten Q (Separated by spaces)
+	Q Q Q QQ Q Z Q Q Z Z Q
+	Q Q Q Q Q Q Q Q Q Q 
+Please print seventeen F (Separated by spaces)
+	F F F FF F f F F f f F f D F F P
+	F F F F F F F F F F F F F F F F F 
+Please print fourteen n (Separated by spaces)
+	n n n n N n nn n N N n Nn nn
+	n n n n n n n n n n n n n n 
+Please print one c (Separated by spaces)
+	c
+	c 
+Please print seven C (Separated by spaces)
+	C C C C N C C
+	C C C C C C C 
+Please print seventeen f (Separated by spaces)
+	f f f ff f c f f cf fff f d f
+	f f f f f f f f f f f f f f f f f 
+Please print nineteen L (Separated by spaces)
+	L L L LL LLL L l L L lL L U L L N
+	L L L L L L L L L L L L L L L L L L L 
+Please print seventeen p (Separated by spaces)
+	p p p pp ppp p u p p up p c p
+	p p p p p p p p p p p p p p p p p 
+Please print twenty-three z (Separated by spaces)
+	z z z zz z x z z y z z x y z y y z x x z y
+	z z z z z z z z z z z z z z z z z z z z z z z 
+Please print six O (Separated by spaces)
+	O O O O N O
+	O O O O O O 
+Please print twelve d (Separated by spaces)
+	d d d d D d d
+	d d d d d d d d d d d d 
+Please print seventeen F (Separated by spaces)
+	F F F FF F f F F f f F f D F F P
+	F F F F F F F F F F F F F F F F F 
+Please print twenty-one o (Separated by spaces)
+	o o o o O o oo o O O o Oo oo O ooo
+	o o o o o o o o o o o o o o o o o o o o o 
+Please print eight o (Separated by spaces)
+	o o o o O o o m o o
+	o o o o o o o o 
+Please print eleven e (Separated by spaces)
+	e e e ee eee e
+	e e e e e e e e e e e 
+Please print twenty-one P (Separated by spaces)
+	P P P PP PPP P Z P P ZP P N P P U P
+	P P P P P P P P P P P P P P P P P P P P P 
+Please print twenty-five M (Separated by spaces)
+	M M M MM MMM M A M M
+	M M M M M M M M M M M M M M M M M M M M M M M M M 
+Please print fourteen I (Separated by spaces)
+	I I I I L I I
+	I I I I I I I I I I I I I I 
+Please print twenty-three p (Separated by spaces)
+	p p p pp ppp p u p p up p h p p hp p m p
+	p p p p p p p p p p p p p p p p p p p p p p p 
+Please print three p (Separated by spaces)
+	p p p p
+	p p p 
+Please print twenty-one R (Separated by spaces)
+	R R R RR RRR R U R R U U R r R R N R
+	R R R R R R R R R R R R R R R R R R R R R 
+Please print six X (Separated by spaces)
+	X X X X Z X
+	X X X X X X 
+Please print eight F (Separated by spaces)
+	F F F F f F F D F F
+	F F F F F F F F 
+Please print five z (Separated by spaces)
+	z z z z x
+	z z z z z 
+Please print three n (Separated by spaces)
+	n n n n
+	n n n 
+Please print fifteen s (Separated by spaces)
+	s s s s S s s o s s a s s
+	s s s s s s s s s s s s s s s 
+Please print four B (Separated by spaces)
+	B B B
+	B B B B 
+Please print fourteen g (Separated by spaces)
+	g g g g G g g
+	g g g g g g g g g g g g g g 
+Please print three v (Separated by spaces)
+	v v v v
+	v v v 
+Please print five Y (Separated by spaces)
+	Y Y Y YY
+	Y Y Y Y Y 
+Please print eighteen K (Separated by spaces)
+	K K K KK KKK K Q K K k K K QK K
+	K K K K K K K K K K K K K K K K K K 
+Please print two Y (Separated by spaces)
+	Y Y
+	Y Y 
+Please print twenty-five h (Separated by spaces)
+	h h h hh hhh h c h h ch h d h h l h h d c h c c h d
+	h h h h h h h h h h h h h h h h h h h h h h h h h 
+Please print eleven M (Separated by spaces)
+	M M M MM M m M M m m
+	M M M M M M M M M M M 
+Please print three p (Separated by spaces)
+	p p p p
+	p p p 
+Please print four W (Separated by spaces)
+	W W W
+	W W W W 
+Please print ten s (Separated by spaces)
+	s s s s S s ss s
+	s s s s s s s s s s 
+Please print eighteen P (Separated by spaces)
+	P P P PP PPP P N P P p P P C P P
+	P P P P P P P P P P P P P P P P P P 
+Please print four F (Separated by spaces)
+	F F F
+	F F F F 
+Please print fifteen P (Separated by spaces)
+	P P P PP PPP P Z P P p P P N P P
+	P P P P P P P P P P P P P P P 
+Please print ten B (Separated by spaces)
+	B B B BB BBB B b B B
+	B B B B B B B B B B 
+Please print nine R (Separated by spaces)
+	R R R RR RRR R
+	R R R R R R R R R 
+Please print twenty-one H (Separated by spaces)
+	H H H HH HHH H h H H h h H hH H U H
+	H H H H H H H H H H H H H H H H H H H H H 
+Please print twelve i (Separated by spaces)
+	i i i ii ii
+	i i i i i i i i i i i i 
+Please print nine P (Separated by spaces)
+	P P P PP PPP P
+	P P P P P P P P P 
+Please print twenty-four x (Separated by spaces)
+	x x x xx xxx x z x x zx x X x x X z x z z x
+	x x x x x x x x x x x x x x x x x x x x x x x x 
+Please print fourteen T (Separated by spaces)
+	T T T TT T t T T t t T t
+	T T T T T T T T T T T T T T 
+Please print twenty-five k (Separated by spaces)
+	k k k kk kkk k l k k lk k u k k n k k d k k
+	k k k k k k k k k k k k k k k k k k k k k k k k k 
+Please print twenty-three G (Separated by spaces)
+	G G G GG G g G G g g G g
+	G G G G G G G G G G G G G G G G G G G G G G G 
+Please print twenty-four n (Separated by spaces)
+	n n n nn nnn n N n n Nn n c n nN n n c N n
+	n n n n n n n n n n n n n n n n n n n n n n n n 
+Please print twenty-two t (Separated by spaces)
+	t t t tt ttt t T t t Tt t d t t dt t
+	t t t t t t t t t t t t t t t t t t t t t t 
+Please print twenty-three O (Separated by spaces)
+	O O O OO O o O O N O O o o O oO OO o O N o
+	O O O O O O O O O O O O O O O O O O O O O O O 
+Please print twelve S (Separated by spaces)
+	S S S S N S S
+	S S S S S S S S S S S S 
+Please print twenty-one P (Separated by spaces)
+	P P P PP PPP P Z P P ZP P N P P U P
+	P P P P P P P P P P P P P P P P P P P P P 
+Please print fifteen n (Separated by spaces)
+	n n n n N n nn n N N n Nn nn N n
+	n n n n n n n n n n n n n n n 
+Please print three z (Separated by spaces)
+	z z z z
+	z z z 
+Please print seventeen u (Separated by spaces)
+	u u u u U u u d u uu u U U u U d
+	u u u u u u u u u u u u u u u u u 
+Please print twenty-one O (Separated by spaces)
+	O O O O N O O U O O o O OO O N N O N U
+	O O O O O O O O O O O O O O O O O O O O O 
+Please print one o (Separated by spaces)
+	o
+	o 
+Please print twenty-four d (Separated by spaces)
+	d d d dd ddd d D d d Dd d a d d ad d c d d
+	d d d d d d d d d d d d d d d d d d d d d d d d 
+Please print eighteen G (Separated by spaces)
+	G G G GG G g G G g g G gG GG g G
+	G G G G G G G G G G G G G G G G G G 
+Please print eight t (Separated by spaces)
+	t t t t T t t c t t
+	t t t t t t t t 
+Please print two E (Separated by spaces)
+	E E
+	E E 
+Please print sixteen L (Separated by spaces)
+	L L L LL LLL L l L L l l LL
+	L L L L L L L L L L L L L L L L 
+Please print one z (Separated by spaces)
+	z
+	z 
+Please print seven u (Separated by spaces)
+	u u u u U u
+	u u u u u u u 
+Please print seven p (Separated by spaces)
+	p p p pp pp
+	p p p p p p p 
+Please print nineteen Y (Separated by spaces)
+	Y Y Y YY YYY Y y Y Y y y YY y Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print nine L (Separated by spaces)
+	L L L LL LLL L l L
+	L L L L L L L L L 
+Please print ten l (Separated by spaces)
+	l l l l L l ll l L
+	l l l l l l l l l l 
+Please print seven u (Separated by spaces)
+	u u u u U u
+	u u u u u u u 
+Please print three j (Separated by spaces)
+	j j j j
+	j j j 
+Please print three M (Separated by spaces)
+	M M M M
+	M M M 
+Please print twelve z (Separated by spaces)
+	z z z z x z z k z z r z
+	z z z z z z z z z z z z 
+Please print two B (Separated by spaces)
+	B B
+	B B 
+Please print three Z (Separated by spaces)
+	Z Z Z Z
+	Z Z Z 
+Please print nine K (Separated by spaces)
+	K K K K L K KK K
+	K K K K K K K K K 
+Please print two P (Separated by spaces)
+	P P
+	P P 
+Please print twenty-three H (Separated by spaces)
+	H H H HH H h H H hH HH h H h h HHH H
+	H H H H H H H H H H H H H H H H H H H H H H H 
+Please print twelve H (Separated by spaces)
+	H H H HH HH
+	H H H H H H H H H H H H 
+Please print twenty-four J (Separated by spaces)
+	J J J JJ JJJ J H J J HJ J j J J jJ J V J J
+	J J J J J J J J J J J J J J J J J J J J J J J J 
+Please print sixteen X (Separated by spaces)
+	X X X XX XXX X Z X X ZX X x
+	X X X X X X X X X X X X X X X X 
+Please print seventeen y (Separated by spaces)
+	y y y yy yyy y d y y dy y c
+	y y y y y y y y y y y y y y y y y 
+Please print twenty-one m (Separated by spaces)
+	m m m m M m mm mmm m M M m
+	m m m m m m m m m m m m m m m m m m m m m 
+Please print twenty-four u (Separated by spaces)
+	u u u u U u u d u uu u U U u U d u U r u u r u
+	u u u u u u u u u u u u u u u u u u u u u u u u 
+Please print twenty F (Separated by spaces)
+	F F F FF F f F F f f F f N F F N F f M
+	F F F F F F F F F F F F F F F F F F F F 
+Please print eleven l (Separated by spaces)
+	l l l l L l l c l l
+	l l l l l l l l l l l 
+Please print twenty-five P (Separated by spaces)
+	P P P PP PPP P U P P UP P N P P NP P Z P P ZP P
+	P P P P P P P P P P P P P P P P P P P P P P P P P 
+Please print twenty-three q (Separated by spaces)
+	q q q qq qqq q Q q q Qq q u q q uq q
+	q q q q q q q q q q q q q q q q q q q q q q q 
+Please print one V (Separated by spaces)
+	V
+	V 
+Please print twenty-one A (Separated by spaces)
+	A A A AA A a A A a a A a U A A U A a C
+	A A A A A A A A A A A A A A A A A A A A A 
+Please print sixteen j (Separated by spaces)
+	j j j j J j jj j J J j J
+	j j j j j j j j j j j j j j j j 
+Please print twenty i (Separated by spaces)
+	i i i ii iii i 20 i i 20i i a i i n i
+	i i i i i i i i i i i i i i i i i i i i 
+Please print seven o (Separated by spaces)
+	o o o o O o o
+	o o o o o o o 
+Please print eighteen a (Separated by spaces)
+	a a a aa aaa aA a aAa a an a a
+	a a a a a a a a a a a a a a a a a a 
+Please print twenty-three D (Separated by spaces)
+	D D D DD DDD D d D D dD D L D D
+	D D D D D D D D D D D D D D D D D D D D D D D 
+Please print eleven R (Separated by spaces)
+	R R R RR RRR R r R
+	R R R R R R R R R R R 
+Please print twenty-two Q (Separated by spaces)
+	Q Q Q QQ QQQ Q Z Q Q ZQ Q q Q Q qQ Q
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print twenty T (Separated by spaces)
+	T T T TT TTT T t T T t t T tT T R T
+	T T T T T T T T T T T T T T T T T T T T 
+Please print eighteen S (Separated by spaces)
+	S S S SS SSS S N S S s S S N s S
+	S S S S S S S S S S S S S S S S S S 
+Please print three u (Separated by spaces)
+	u u u u
+	u u u 
+Please print eleven n (Separated by spaces)
+	n n n n N n nn n
+	n n n n n n n n n n n 
+Please print fourteen b (Separated by spaces)
+	b b b b B b bb b B B b Bb bb B
+	b b b b b b b b b b b b b b 
+Please print twenty-three A (Separated by spaces)
+	A A A AA A a A A a a A a
+	A A A A A A A A A A A A A A A A A A A A A A A 
+Please print three f (Separated by spaces)
+	f f f f
+	f f f 
+Please print twenty-five U (Separated by spaces)
+	U U U UU UUU U u U U uU U L U U LU U N U U NU U
+	U U U U U U U U U U U U U U U U U U U U U U U U U 
+Please print five M (Separated by spaces)
+	M M M M
+	M M M M M 
+Please print fifteen F (Separated by spaces)
+	F F F FF F f F F f f F f N F F N F
+	F F F F F F F F F F F F F F F 
+Please print one a (Separated by spaces)
+	a
+	a 
+Please print sixteen p (Separated by spaces)
+	p p p pp ppp p u p p u u
+	p p p p p p p p p p p p p p p p 
+Please print nine c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c c c 
+Please print fifteen m (Separated by spaces)
+	m m m mm mmm m M m m M M mm a m m
+	m m m m m m m m m m m m m m m 
+Please print fifteen C (Separated by spaces)
+	C C C C N C C c C CC C c c C c
+	C C C C C C C C C C C C C C C 
+Please print eight W (Separated by spaces)
+	W W W WW WW w W W w
+	W W W W W W W W 
+Please print ten M (Separated by spaces)
+	M M M MM MMM M
+	M M M M M M M M M M 
+Please print seventeen w (Separated by spaces)
+	w w w w W w ww w W W w Ww ww W
+	w w w w w w w w w w w w w w w w w 
+Please print three c (Separated by spaces)
+	c c c c
+	c c c 
+Please print eight b (Separated by spaces)
+	b b b b B b bb b B B b
+	b b b b b b b b 
+Please print fifteen t (Separated by spaces)
+	t t t t T t tt t T T t Tt tt
+	t t t t t t t t t t t t t t t 
+Please print ten q (Separated by spaces)
+	q q q qq qqq q Q q
+	q q q q q q q q q q 
+Please print twelve j (Separated by spaces)
+	j j j j r j j
+	j j j j j j j j j j j j 
+Please print four n (Separated by spaces)
+	n n n
+	n n n n 
+Please print twelve x (Separated by spaces)
+	x x x x z x x X x x
+	x x x x x x x x x x x x 
+Please print five a (Separated by spaces)
+	a a a a
+	a a a a a 
+Please print eighteen H (Separated by spaces)
+	H H H HH HHH H h H H hH H 18 H H
+	H H H H H H H H H H H H H H H H H H 
+Please print sixteen V (Separated by spaces)
+	V V V VV VVV V U V V UV V v
+	V V V V V V V V V V V V V V V V 
+Please print seventeen x (Separated by spaces)
+	x x x x z x x X x xx x X X x Xx
+	x x x x x x x x x x x x x x x x x 
+Please print ten d (Separated by spaces)
+	d d d d D d dd d D D d
+	d d d d d d d d d d 
+Please print two j (Separated by spaces)
+	j j
+	j j 
+Please print seventeen V (Separated by spaces)
+	V V V VV VVV V U V V v V V C V
+	V V V V V V V V V V V V V V V V V 
+Please print twenty-five t (Separated by spaces)
+	t t t tt tt h t t c t t h t c c tt c t c d t t d t c h
+	t t t t t t t t t t t t t t t t t t t t t t t t t 
+Please print twenty-five o (Separated by spaces)
+	o o o oo ooo o h o o ho o O o o Oo o i o o a o o io
+	o o o o o o o o o o o o o o o o o o o o o o o o o 
+Please print twenty-two W (Separated by spaces)
+	W W W WW WWW W w W W wW W N W W U W W
+	W W W W W W W W W W W W W W W W W W W W W W 
+Please print nineteen g (Separated by spaces)
+	g g g g G g gg gg G ggg g G G g G
+	g g g g g g g g g g g g g g g g g g g 
+Please print sixteen T (Separated by spaces)
+	T T T TT TT t T T t T t t TT
+	T T T T T T T T T T T T T T T T 
+Please print twenty-three Q (Separated by spaces)
+	Q Q Q Q Z Q QQ Q Z Z Q ZQ QQ Z QQQ Q q Q Q
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print thirteen i (Separated by spaces)
+	i i i ii ii I i i I i
+	i i i i i i i i i i i i i 
+Please print four I (Separated by spaces)
+	I I I
+	I I I I 
+Please print ten I (Separated by spaces)
+	I I I II I
+	I I I I I I I I I I 
+Please print eighteen B (Separated by spaces)
+	B B B BB B b B B b b B bB BB b B
+	B B B B B B B B B B B B B B B B B B 
+Please print twenty-five u (Separated by spaces)
+	u u u u U u uu u U U u Uu uu U uuu u d u u d U u d d
+	u u u u u u u u u u u u u u u u u u u u u u u u u 
+Please print twenty z (Separated by spaces)
+	z z z z x z z r z z h z z y z z d z z n
+	z z z z z z z z z z z z z z z z z z z z 
+Please print twenty-two S (Separated by spaces)
+	S S S SS SSS S A S S AS S s S S sS S
+	S S S S S S S S S S S S S S S S S S S S S S 
+Please print ten n (Separated by spaces)
+	n n n n N n nn n N N n
+	n n n n n n n n n n 
+Please print twenty-four K (Separated by spaces)
+	K K K KK KKK K N K K N N K N U K K U K N L K
+	K K K K K K K K K K K K K K K K K K K K K K K K 
+Please print six H (Separated by spaces)
+	H H H H
+	H H H H H H 
+Please print eighteen u (Separated by spaces)
+	u u u u U u uu u U U u Uu uu U u
+	u u u u u u u u u u u u u u u u u u 
+Please print twenty l (Separated by spaces)
+	l l l l L l ll ll L l L L ll r l l n
+	l l l l l l l l l l l l l l l l l l l l 
+Please print three O (Separated by spaces)
+	O O O
+	O O O 
+Please print nineteen C (Separated by spaces)
+	C C C CC C N C C NC CCC C c C C c
+	C C C C C C C C C C C C C C C C C C C 
+Please print three p (Separated by spaces)
+	p p p p
+	p p p 
+Please print twenty-two j (Separated by spaces)
+	j j j jj jjj j J j j Jj j
+	j j j j j j j j j j j j j j j j j j j j j j 
+Please print five X (Separated by spaces)
+	X X X X V
+	X X X X X 
+Please print fifteen n (Separated by spaces)
+	n n n n N n nn n N N n Nn nn N n
+	n n n n n n n n n n n n n n n 
+Please print nineteen E (Separated by spaces)
+	E E E EE EEE E e E E e e E eE E
+	E E E E E E E E E E E E E E E E E E E 
+Please print twenty-five H (Separated by spaces)
+	H H H HH HHH H h H H h h H hH H
+	H H H H H H H H H H H H H H H H H H H H H H H H H 
+Please print twelve k (Separated by spaces)
+	k k k k K k k
+	k k k k k k k k k k k k 
+Please print eighteen d (Separated by spaces)
+	d d d d D d dd ddd d Dd d a d d
+	d d d d d d d d d d d d d d d d d d 
+Please print eighteen m (Separated by spaces)
+	m m m mm mmm m M m m Mm m a m m
+	m m m m m m m m m m m m m m m m m m 
+Please print ten E (Separated by spaces)
+	E E E EE EEE E e E E
+	E E E E E E E E E E 
+Please print sixteen W (Separated by spaces)
+	W W W WW WWW W w W W w w W w
+	W W W W W W W W W W W W W W W W 
+Please print fifteen f (Separated by spaces)
+	f f f f F f f c f f m f f b f f
+	f f f f f f f f f f f f f f f 
+Please print nineteen X (Separated by spaces)
+	X X X XX XXX X Z X X ZX X x X X x
+	X X X X X X X X X X X X X X X X X X X 
+Please print six Y (Separated by spaces)
+	Y Y Y YY Y
+	Y Y Y Y Y Y 
+Please print thirteen L (Separated by spaces)
+	L L L LL LLL L D L L l
+	L L L L L L L L L L L L L 
+Please print one C (Separated by spaces)
+	C
+	C 
+Please print ten N (Separated by spaces)
+	N N N NN NNN N n N N
+	N N N N N N N N N N 
+Please print eighteen k (Separated by spaces)
+	k k k kk kkk k K k k Kk k m k k
+	k k k k k k k k k k k k k k k k k k 
+Please print eight B (Separated by spaces)
+	B B B BB B b B B b b
+	B B B B B B B B 
+Please print seventeen y (Separated by spaces)
+	y y y yy yyy y d y y dy y c
+	y y y y y y y y y y y y y y y y y 
+Please print eighteen b (Separated by spaces)
+	b b b bb bbb b B b b Bb b a b b
+	b b b b b b b b b b b b b b b b b b 
+Please print seven H (Separated by spaces)
+	H H H HH H
+	H H H H H H H 
+Please print six S (Separated by spaces)
+	S S S S
+	S S S S S S 
+Please print fifteen s (Separated by spaces)
+	s s s s S s s o s s a s s
+	s s s s s s s s s s s s s s s 
+Please print two s (Separated by spaces)
+	s s
+	s s 
+Please print two a (Separated by spaces)
+	a a
+	a a 
+Please print twenty-five n (Separated by spaces)
+	n n n nn nnn n N n n Nn n c n n cn n l n n ln n
+	n n n n n n n n n n n n n n n n n n n n n n n n n 
+Please print seven Z (Separated by spaces)
+	Z Z Z ZZ Z
+	Z Z Z Z Z Z Z 
+Please print thirteen c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c c c c c c c 
+Please print four F (Separated by spaces)
+	F F F
+	F F F F 
+Please print two f (Separated by spaces)
+	f f
+	f f 
+Please print one Y (Separated by spaces)
+	Y
+	Y 
+Please print eighteen a (Separated by spaces)
+	a a a aa aaa aA a aAa a an a a
+	a a a a a a a a a a a a a a a a a a 
+Please print three Y (Separated by spaces)
+	Y Y Y Y
+	Y Y Y 
+Please print three F (Separated by spaces)
+	F F F F
+	F F F 
+Please print ten M (Separated by spaces)
+	M M M MM MMM M
+	M M M M M M M M M M 
+Please print eight e (Separated by spaces)
+	e e e ee e
+	e e e e e e e e 
+Please print eight U (Separated by spaces)
+	U U U UU U u U U u u
+	U U U U U U U U 
+Please print twenty-one S (Separated by spaces)
+	S S S SS SSS S N S S s S S N s S s s
+	S S S S S S S S S S S S S S S S S S S S S 
+Please print seventeen P (Separated by spaces)
+	P P P PP PPP P Z P P C P P p P
+	P P P P P P P P P P P P P P P P P 
+Please print seven k (Separated by spaces)
+	k k k k
+	k k k k k k k 
+Please print ten B (Separated by spaces)
+	B B B BB BBB B b B B
+	B B B B B B B B B B 
+Please print eighteen c (Separated by spaces)
+	c c c c C c cc c C C c Cc cc C c
+	c c c c c c c c c c c c c c c c c c 
+Please print thirteen H (Separated by spaces)
+	H H H HH H h H H h h H h
+	H H H H H H H H H H H H H 
+Please print six D (Separated by spaces)
+	D D D DD D
+	D D D D D D 
+Please print twenty-three c (Separated by spaces)
+	c c c cc c C c c Cc c
+	c c c c c c c c c c c c c c c c c c c c c c c 
+Please print twenty-four H (Separated by spaces)
+	H H H HH HHH H h H H h h HH h H hH H U H H
+	H H H H H H H H H H H H H H H H H H H H H H H H 
+Please print six M (Separated by spaces)
+	M M M M
+	M M M M M M 
+Please print six h (Separated by spaces)
+	h h h h
+	h h h h h h 
+Please print two E (Separated by spaces)
+	E E
+	E E 
+Please print twenty-five G (Separated by spaces)
+	G G G GG GGG G L G G L
+	G G G G G G G G G G G G G G G G G G G G G G G G G 
+Please print thirteen l (Separated by spaces)
+	l l l l L l l
+	l l l l l l l l l l l l l 
+Please print twelve c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c c c c c c 
+Please print twenty-four i (Separated by spaces)
+	i i i ii iii i I i i Ii i h i i hi i
+	i i i i i i i i i i i i i i i i i i i i i i i i 
+Please print three w (Separated by spaces)
+	w w w
+	w w w 
+Please print two k (Separated by spaces)
+	k k
+	k k 
+Please print three I (Separated by spaces)
+	I I I I
+	I I I 
+Please print twelve q (Separated by spaces)
+	q q q q Q q q
+	q q q q q q q q q q q q 
+Please print nine V (Separated by spaces)
+	V V V VV VVV V
+	V V V V V V V V V 
+Please print eighteen u (Separated by spaces)
+	u u u u U u uu u U U u Uu uu U u
+	u u u u u u u u u u u u u u u u u u 
+Please print nine y (Separated by spaces)
+	y y y yy yyy y
+	y y y y y y y y y 
+Please print seven a (Separated by spaces)
+	a a a a
+	a a a a a a a 
+Please print fifteen v (Separated by spaces)
+	v v v vv v c v v c c v c u v v u v
+	v v v v v v v v v v v v v v v 
+Please print two A (Separated by spaces)
+	A A
+	A A 
+Please print sixteen T (Separated by spaces)
+	T T T TT TT t T T t T t t TT
+	T T T T T T T T T T T T T T T T 
+Please print eleven d (Separated by spaces)
+	d d d d D d d c d d
+	d d d d d d d d d d d 
+Please print eleven m (Separated by spaces)
+	m m m mm mmm m
+	m m m m m m m m m m m 
+Please print one B (Separated by spaces)
+	B
+	B 
+Please print twenty-five a (Separated by spaces)
+	a a a aa aaa a no a a noa a an a a- a a ana a
+	a a a a a a a a a a a a a a a a a a a a a a a a a 
+Please print twenty l (Separated by spaces)
+	l l l l L l ll ll L l L L ll r l l n
+	l l l l l l l l l l l l l l l l l l l l 
+Please print five t (Separated by spaces)
+	t t t t T
+	t t t t t 
+Please print twenty L (Separated by spaces)
+	L L L LL LLL L l L L lL L N L L NL
+	L L L L L L L L L L L L L L L L L L L L 
+Please print eight U (Separated by spaces)
+	U U U UU U u U U u u
+	U U U U U U U U 
+Please print sixteen h (Separated by spaces)
+	h h h h c h h o h h H h h w h h
+	h h h h h h h h h h h h h h h h 
+Please print nineteen l (Separated by spaces)
+	l l l l L l ll lll l Ll l c l l c
+	l l l l l l l l l l l l l l l l l l l 
+Please print thirteen C (Separated by spaces)
+	C C C CC C c C C c c C c
+	C C C C C C C C C C C C C 
+Please print eleven U (Separated by spaces)
+	U U U UU UUU U u U
+	U U U U U U U U U U U 
+Please print twenty-four d (Separated by spaces)
+	d d d dd ddd d D d d Dd d a d d ad d c d d
+	d d d d d d d d d d d d d d d d d d d d d d d d 
+Please print seven C (Separated by spaces)
+	C C C C N C C
+	C C C C C C C 
+Please print fifteen Q (Separated by spaces)
+	Q Q Q QQ Q Z Q Q Z Z Q ZQ QQ
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print nineteen C (Separated by spaces)
+	C C C CC C N C C NC CCC C c C C c
+	C C C C C C C C C C C C C C C C C C C 
+Please print twenty-two e (Separated by spaces)
+	e e e ee eee e E e e Ee e i e e ie e
+	e e e e e e e e e e e e e e e e e e e e e e 
+Please print eleven P (Separated by spaces)
+	P P P PP PPP P p P
+	P P P P P P P P P P P 
+Please print sixteen d (Separated by spaces)
+	d d d d D d dd dd D ddd d D
+	d d d d d d d d d d d d d d d d 
+Please print three M (Separated by spaces)
+	M M M M
+	M M M 
+Please print fifteen u (Separated by spaces)
+	u u u u U u uu u U U u U r u u r u U
+	u u u u u u u u u u u u u u u 
+Please print fourteen T (Separated by spaces)
+	T T T TT T t T T t t T t
+	T T T T T T T T T T T T T T 
+Please print twenty-three U (Separated by spaces)
+	U U U UU UUU U u U U uU U L U U
+	U U U U U U U U U U U U U U U U U U U U U U U 
+Please print five y (Separated by spaces)
+	y y y y
+	y y y y y 
+Please print five t (Separated by spaces)
+	t t t t T
+	t t t t t 
+Please print thirteen r (Separated by spaces)
+	r r r r R r r u r r c r
+	r r r r r r r r r r r r r 
+Please print twenty-two T (Separated by spaces)
+	T T T TT TTT T t T T tT T U T T UT T
+	T T T T T T T T T T T T T T T T T T T T T T 
+Please print six C (Separated by spaces)
+	C C C C
+	C C C C C C 
+Please print six c (Separated by spaces)
+	c c c c C c
+	c c c c c c 
+Please print ten O (Separated by spaces)
+	O O O OO OOO O o O O
+	O O O O O O O O O O 
+Please print nine v (Separated by spaces)
+	v v v v V v v c v
+	v v v v v v v v v 
+Please print twenty-five O (Separated by spaces)
+	O O O OO O N O O N N O NO OO N OOO O U O O o O O
+	O O O O O O O O O O O O O O O O O O O O O O O O O 
+Please print twenty-four a (Separated by spaces)
+	a a a aa aaa a the a a- a a thea a-a a
+	a a a a a a a a a a a a a a a a a a a a a a a a 
+Please print thirteen c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c c c c c c c 
+Please print three a (Separated by spaces)
+	a a a a
+	a a a 
+Please print fourteen O (Separated by spaces)
+	O O O O N O O o O O L O O
+	O O O O O O O O O O O O O O 
+Please print nine V (Separated by spaces)
+	V V V VV VVV V
+	V V V V V V V V V 
+Please print eight b (Separated by spaces)
+	b b b b B b bb b B B b
+	b b b b b b b b 
+Please print five o (Separated by spaces)
+	o o o o O
+	o o o o o 
+Please print twenty-three J (Separated by spaces)
+	J J J JJ JJJ J j J J j j JJ j J jJ J
+	J J J J J J J J J J J J J J J J J J J J J J J 
+Please print one I (Separated by spaces)
+	I
+	I 
+Please print seven r (Separated by spaces)
+	r r r r R r r
+	r r r r r r r 
+Please print eighteen i (Separated by spaces)
+	i i i ii iii i I i i 18 i i m i i
+	i i i i i i i i i i i i i i i i i i 
+Please print twenty-two C (Separated by spaces)
+	C C C CC CCC C A C C AC C c C C cC C
+	C C C C C C C C C C C C C C C C C C C C C C 
+Please print fourteen E (Separated by spaces)
+	E E E E e E E N E EE E e
+	E E E E E E E E E E E E E E 
+Please print three X (Separated by spaces)
+	X X X X
+	X X X 
+Please print seventeen c (Separated by spaces)
+	c c c c C c c a c cc c C C c C a
+	c c c c c c c c c c c c c c c c c 
+Please print twenty-five B (Separated by spaces)
+	B B B BB BBB B b B B b b B bB B A B B A b B A A B b A
+	B B B B B B B B B B B B B B B B B B B B B B B B B 
+Please print eleven c (Separated by spaces)
+	c c c c C c c a c c
+	c c c c c c c c c c c 
+Please print twenty-three g (Separated by spaces)
+	g g g gg ggg g l g g
+	g g g g g g g g g g g g g g g g g g g g g g g 
+Please print eight a (Separated by spaces)
+	a a a a, a a
+	a a a a a a a a 
+Please print nine D (Separated by spaces)
+	D D D DD DDD D
+	D D D D D D D D D 
+Please print nineteen g (Separated by spaces)
+	g g g g G g gg gg G ggg g G G g G
+	g g g g g g g g g g g g g g g g g g g 
+Please print seven s (Separated by spaces)
+	s s s s
+	s s s s s s s 
+Please print twenty-five x (Separated by spaces)
+	x x x xx xxx x z x x zx x X x x X z x z z x X
+	x x x x x x x x x x x x x x x x x x x x x x x x x 
+Please print seven n (Separated by spaces)
+	n n n n N n n
+	n n n n n n n 
+Please print twenty-four Q (Separated by spaces)
+	Q Q Q QQ QQQ Q Z Q Q ZQ Q q Q Q q Z Q Z Z Q
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print twenty-four p (Separated by spaces)
+	p p p pp ppp p u p p a p p up p ap p m p p
+	p p p p p p p p p p p p p p p p p p p p p p p p 
+Please print eighteen p (Separated by spaces)
+	p p p pp ppp p u p p up p m p p
+	p p p p p p p p p p p p p p p p p p 
+Please print two l (Separated by spaces)
+	l l
+	l l 
+Please print twenty-five o (Separated by spaces)
+	o o o oo ooo o h o o ho o O o o Oo o i o o a o o io
+	o o o o o o o o o o o o o o o o o o o o o o o o o 
+Please print twenty-one Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z N Z Z NZ Z D Z Z DZ
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print eleven S (Separated by spaces)
+	S S S S L S S N S S
+	S S S S S S S S S S S 
+Please print ten O (Separated by spaces)
+	O O O OO OOO O o O O
+	O O O O O O O O O O 
+Please print ten s (Separated by spaces)
+	s s s s S s ss s
+	s s s s s s s s s s 
+Please print twenty-five f (Separated by spaces)
+	f f f ff fff f c f f cf f h f f hf f d f f d c f c c
+	f f f f f f f f f f f f f f f f f f f f f f f f f 
+Please print fifteen H (Separated by spaces)
+	H H H HH H h H H h h H hH HH
+	H H H H H H H H H H H H H H H 
+Please print eight W (Separated by spaces)
+	W W W WW WW w W W w
+	W W W W W W W W 
+Please print eleven K (Separated by spaces)
+	K K K K Q K K k K K L
+	K K K K K K K K K K K 
+Please print nine h (Separated by spaces)
+	h h h h H h h
+	h h h h h h h h h 
+Please print thirteen Y (Separated by spaces)
+	Y Y Y YY Y y Y Y y y Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print eleven p (Separated by spaces)
+	p p p pp ppp p u p
+	p p p p p p p p p p p 
+Please print twelve m (Separated by spaces)
+	m m m mm m
+	m m m m m m m m m m m m 
+Please print one j (Separated by spaces)
+	j
+	j 
+Please print ten B (Separated by spaces)
+	B B B BB BBB B b B B
+	B B B B B B B B B B 
+Please print eighteen T (Separated by spaces)
+	T T T TT TTT T t T T t t TT t T
+	T T T T T T T T T T T T T T T T T T 
+Please print eighteen a (Separated by spaces)
+	a a a aa aaa aA a aAa a an a a
+	a a a a a a a a a a a a a a a a a a 
+Please print five T (Separated by spaces)
+	T T T TT
+	T T T T T 
+Please print twenty-four W (Separated by spaces)
+	W W W WW WWW W N W W NW W L W W w W W LW W
+	W W W W W W W W W W W W W W W W W W W W W W W W 
+Please print seven w (Separated by spaces)
+	w w w w W w w
+	w w w w w w w 
+Please print twenty-four P (Separated by spaces)
+	P P P PP PPP P U P P UP P N P P NP P Z P P
+	P P P P P P P P P P P P P P P P P P P P P P P P 
+Please print thirteen u (Separated by spaces)
+	u u u u U u u d u uu u U
+	u u u u u u u u u u u u u 
+Please print eighteen D (Separated by spaces)
+	D D D DD DDD D d D D dD D C D D
+	D D D D D D D D D D D D D D D D D D 
+Please print twenty-two C (Separated by spaces)
+	C C C CC CCC C A C C AC C c C C cC C
+	C C C C C C C C C C C C C C C C C C C C C C 
+Please print fourteen h (Separated by spaces)
+	h h h h c h h o h h H h h
+	h h h h h h h h h h h h h h 
+Please print nine N (Separated by spaces)
+	N N N NN NNN N
+	N N N N N N N N N 
+Please print four A (Separated by spaces)
+	A A A
+	A A A A 
+Please print ten I (Separated by spaces)
+	I I I II I
+	I I I I I I I I I I 
+Please print eighteen r (Separated by spaces)
+	r r r r R r r u r rr r R R r R u r
+	r r r r r r r r r r r r r r r r r r 
+Please print six r (Separated by spaces)
+	r r r r
+	r r r r r r 
+Please print sixteen g (Separated by spaces)
+	g g g g G g gg g G G g Gg gg
+	g g g g g g g g g g g g g g g g 
+Please print sixteen w (Separated by spaces)
+	w w w w W w ww w W W w Ww ww
+	w w w w w w w w w w w w w w w w 
+Please print seven o (Separated by spaces)
+	o o o o O o o
+	o o o o o o o 
+Please print fourteen K (Separated by spaces)
+	K K K K Q K K L K K k
+	K K K K K K K K K K K K K K 
+Please print twenty g (Separated by spaces)
+	g g g g G g gg g G G g Gg gg G g l g
+	g g g g g g g g g g g g g g g g g g g g 
+Please print thirteen g (Separated by spaces)
+	g g g g G g g
+	g g g g g g g g g g g g g 
+Please print twelve n (Separated by spaces)
+	n n n n N n n
+	n n n n n n n n n n n n 
+Please print twenty-one O (Separated by spaces)
+	O O O O N O O U O O o O OO O N N O N U
+	O O O O O O O O O O O O O O O O O O O O O 
+Please print eighteen X (Separated by spaces)
+	X X X XX XXX X Q X X QX X x X X
+	X X X X X X X X X X X X X X X X X X 
+Please print six y (Separated by spaces)
+	y y y y
+	y y y y y y 
+Please print fifteen P (Separated by spaces)
+	P P P PP PPP P Z P P p P P N P P
+	P P P P P P P P P P P P P P P 
+Please print seventeen e (Separated by spaces)
+	e e e ee eee e i e e ie e E e
+	e e e e e e e e e e e e e e e e e 
+Please print sixteen U (Separated by spaces)
+	U U U UU UUU U u U U u u
+	U U U U U U U U U U U U U U U U 
+Please print twenty-three p (Separated by spaces)
+	p p p pp ppp p u p p up p h p p hp p m p
+	p p p p p p p p p p p p p p p p p p p p p p p 
+Please print eleven F (Separated by spaces)
+	F F F F f F F D F F P
+	F F F F F F F F F F F 
+Please print twenty-four G (Separated by spaces)
+	G G G GG GGG G V G G g G G L G G V g G L L G
+	G G G G G G G G G G G G G G G G G G G G G G G G 
+Please print fourteen j (Separated by spaces)
+	j j j j r j j t j j J j j
+	j j j j j j j j j j j j j j 
+Please print five e (Separated by spaces)
+	e e e e
+	e e e e e 
+Please print twenty-two f (Separated by spaces)
+	f f f ff fff f b f f bf f d f f df f
+	f f f f f f f f f f f f f f f f f f f f f f 
+Please print three F (Separated by spaces)
+	F F F F
+	F F F 
+Please print seventeen h (Separated by spaces)
+	h h h h c h h o h h d h h H h h w
+	h h h h h h h h h h h h h h h h h 
+Please print fifteen a (Separated by spaces)
+	a a a aA a aa aaa a an a a an
+	a a a a a a a a a a a a a a a 
+Please print sixteen w (Separated by spaces)
+	w w w w W w ww w W W w Ww ww
+	w w w w w w w w w w w w w w w w 
+Please print eight W (Separated by spaces)
+	W W W WW WW w W W w
+	W W W W W W W W 
+Please print twenty-three a (Separated by spaces)
+	a a a aa a A a a an a a A A aaa a
+	a a a a a a a a a a a a a a a a a a a a a a a 
+Please print four r (Separated by spaces)
+	r r r
+	r r r r 
+Please print sixteen z (Separated by spaces)
+	z z z z x z z u z z r z z y z z
+	z z z z z z z z z z z z z z z z 
+Please print seventeen E (Separated by spaces)
+	E E E EE E e E E e e E eE EE e
+	E E E E E E E E E E E E E E E E E 
+Please print eighteen u (Separated by spaces)
+	u u u u U u uu u U U u Uu uu U u
+	u u u u u u u u u u u u u u u u u u 
+Please print nineteen r (Separated by spaces)
+	r r r r R r rr r R R r Rr rr R r c
+	r r r r r r r r r r r r r r r r r r r 
+Please print three J (Separated by spaces)
+	J J J J
+	J J J 
+Please print nine S (Separated by spaces)
+	S S S SS SSS S
+	S S S S S S S S S 
+Please print sixteen n (Separated by spaces)
+	n n n n N n nn n N N n Nn
+	n n n n n n n n n n n n n n n n 
+Please print twenty-two o (Separated by spaces)
+	o o o oo ooo o O o o Oo o a o o ao o
+	o o o o o o o o o o o o o o o o o o o o o o 
+Please print seven o (Separated by spaces)
+	o o o o O o o
+	o o o o o o o 
+Please print twenty-one S (Separated by spaces)
+	S S S SS SSS S N S S s S S N s S s s
+	S S S S S S S S S S S S S S S S S S S S S 
+Please print eleven F (Separated by spaces)
+	F F F F f F F D F F P
+	F F F F F F F F F F F 
+Please print nineteen T (Separated by spaces)
+	T T T TT TTT T t T T t t T tT T
+	T T T T T T T T T T T T T T T T T T T 
+Please print four g (Separated by spaces)
+	g g g
+	g g g g 
+Please print twenty-three H (Separated by spaces)
+	H H H HH H h H H hH HH h H h h HHH H
+	H H H H H H H H H H H H H H H H H H H H H H H 
+Please print twenty-five u (Separated by spaces)
+	u u u u U u uu u U U u Uu uu U uuu u d u u d U u d d
+	u u u u u u u u u u u u u u u u u u u u u u u u u 
+Please print nine z (Separated by spaces)
+	z z z z Z z z y z
+	z z z z z z z z z 
+Please print seven g (Separated by spaces)
+	g g g g
+	g g g g g g g 
+Please print three J (Separated by spaces)
+	J J J J
+	J J J 
+Please print twenty-two U (Separated by spaces)
+	U U U UU UUU U u U U uU U A U U AU U
+	U U U U U U U U U U U U U U U U U U U U U U 
+Please print ten Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z
+	Z Z Z Z Z Z Z Z Z Z 
+Please print six g (Separated by spaces)
+	g g g g
+	g g g g g g 
+Please print seven E (Separated by spaces)
+	E E E E e E E
+	E E E E E E E 
+Please print fourteen M (Separated by spaces)
+	M M M MM M
+	M M M M M M M M M M M M M M 
+Please print twenty-three Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z D Z Z DZ Z N Z Z
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print three H (Separated by spaces)
+	H H H H
+	H H H 
+Please print sixteen H (Separated by spaces)
+	H H H HH HHH H h H H h h H h
+	H H H H H H H H H H H H H H H H 
+Please print eleven D (Separated by spaces)
+	D D D DD DDD D L D
+	D D D D D D D D D D D 
+Please print ten R (Separated by spaces)
+	R R R RR RRR R
+	R R R R R R R R R R 
+Please print nineteen o (Separated by spaces)
+	o o o oo ooo o O o o Oo o m o o i
+	o o o o o o o o o o o o o o o o o o o 
+Please print twenty-four W (Separated by spaces)
+	W W W WW WWW W N W W NW W L W W w W W LW W
+	W W W W W W W W W W W W W W W W W W W W W W W W 
+Please print nineteen r (Separated by spaces)
+	r r r r R r rr r R R r Rr rr R r c
+	r r r r r r r r r r r r r r r r r r r 
+Please print twenty T (Separated by spaces)
+	T T T TT TTT T t T T t t T tT T R T
+	T T T T T T T T T T T T T T T T T T T T 
+Please print seventeen P (Separated by spaces)
+	P P P PP PPP P Z P P C P P p P
+	P P P P P P P P P P P P P P P P P 
+Please print two I (Separated by spaces)
+	I I
+	I I 
+Please print eleven r (Separated by spaces)
+	r r r r R r r u r r
+	r r r r r r r r r r r 
+Please print fifteen h (Separated by spaces)
+	h h h h c h h H h hh h H H hh
+	h h h h h h h h h h h h h h h 
+Please print fourteen a (Separated by spaces)
+	a a a aA a a
+	a a a a a a a a a a a a a a 
+Please print nine g (Separated by spaces)
+	g g g g G g g
+	g g g g g g g g g 
+Please print twenty-one B (Separated by spaces)
+	B B B BB B b B B b b B bB BB b BBB B
+	B B B B B B B B B B B B B B B B B B B B B 
+Please print twenty-five Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z U Z Z L Z Z A Z Z N Z Z C Z Z
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print one d (Separated by spaces)
+	d
+	d 
+Please print twenty-two T (Separated by spaces)
+	T T T TT TTT T t T T tT T U T T UT T
+	T T T T T T T T T T T T T T T T T T T T T T 
+Please print twenty-three u (Separated by spaces)
+	u u u u U u uu u U U u Uu uu U uuu u d u
+	u u u u u u u u u u u u u u u u u u u u u u u 
+Please print twenty q (Separated by spaces)
+	q q q qq qqq q Q q q Q Q q Qq q c q
+	q q q q q q q q q q q q q q q q q q q q 
+Please print nineteen d (Separated by spaces)
+	d d d d D d dd ddd d Dd d c d d c
+	d d d d d d d d d d d d d d d d d d d 
+Please print twenty-four G (Separated by spaces)
+	G G G GG GGG G V G G g G G L G G V g G L L G
+	G G G G G G G G G G G G G G G G G G G G G G G G 
+Please print six W (Separated by spaces)
+	W W W WW W
+	W W W W W W 
+Please print twenty-two f (Separated by spaces)
+	f f f ff fff f b f f bf f d f f df f
+	f f f f f f f f f f f f f f f f f f f f f f 
+Please print twenty-two K (Separated by spaces)
+	K K K KK KKK K A K K AK K k K K U K K
+	K K K K K K K K K K K K K K K K K K K K K K 
+Please print twenty t (Separated by spaces)
+	t t t t T t tt ttt t Tt t h t t c t
+	t t t t t t t t t t t t t t t t t t t t 
+Please print thirteen c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c c c c c c c 
+Please print nineteen K (Separated by spaces)
+	K K K KK KKK K L K K k K K L k K k
+	K K K K K K K K K K K K K K K K K K K 
+Please print twenty-five W (Separated by spaces)
+	W W W WW WWW W w W W wW W N W W NW W L W W L w W w w
+	W W W W W W W W W W W W W W W W W W W W W W W W W 
+Please print six x (Separated by spaces)
+	x x x x z x
+	x x x x x x 
+Please print seventeen D (Separated by spaces)
+	D D D DD DDD D d D D d d D dD
+	D D D D D D D D D D D D D D D D D 
+Please print ten M (Separated by spaces)
+	M M M MM MMM M
+	M M M M M M M M M M 
+Please print eighteen V (Separated by spaces)
+	V V V VV VVV V Q V V QV V C V V
+	V V V V V V V V V V V V V V V V V V 
+Please print nineteen F (Separated by spaces)
+	F F F FF F f F F f f F fF FF f F N
+	F F F F F F F F F F F F F F F F F F F 
+Please print sixteen D (Separated by spaces)
+	D D D DD DDD D d D D d d D d
+	D D D D D D D D D D D D D D D D 
+Please print eighteen Q (Separated by spaces)
+	Q Q Q QQ QQQ Q Z Q Q q Q Q ZQ Q
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print twenty-five N (Separated by spaces)
+	N N N NN NNN N n N N nN N L N N W N N LN N
+	N N N N N N N N N N N N N N N N N N N N N N N N N 
+Please print four X (Separated by spaces)
+	X X X
+	X X X X 
+Please print eight Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z D Z Z
+	Z Z Z Z Z Z Z Z 
+Please print thirteen O (Separated by spaces)
+	O O O O N O O o O O L O O
+	O O O O O O O O O O O O O 
+Please print eight k (Separated by spaces)
+	k k k k l k k
+	k k k k k k k k 
+Please print eighteen N (Separated by spaces)
+	N N N NN NNN N n N N nN N L N N
+	N N N N N N N N N N N N N N N N N N 
+Please print eighteen p (Separated by spaces)
+	p p p pp ppp p u p p up p m p p
+	p p p p p p p p p p p p p p p p p p 
+Please print fifteen L (Separated by spaces)
+	L L L LL LLL L l L L l l LL l L
+	L L L L L L L L L L L L L L L 
+Please print ten M (Separated by spaces)
+	M M M MM MMM M
+	M M M M M M M M M M 
+Please print two q (Separated by spaces)
+	q q
+	q q 
+Please print ten Q (Separated by spaces)
+	Q Q Q QQ Q Z Q Q Z Z Q
+	Q Q Q Q Q Q Q Q Q Q 
+Please print eleven S (Separated by spaces)
+	S S S S L S S N S S
+	S S S S S S S S S S S 
+Please print seven Q (Separated by spaces)
+	Q Q Q QQ Q Z
+	Q Q Q Q Q Q Q 
+Please print twenty-five l (Separated by spaces)
+	l l l ll lll l u l l ul l r l l n l l c l l d l l
+	l l l l l l l l l l l l l l l l l l l l l l l l l 
+Please print four R (Separated by spaces)
+	R R R
+	R R R R 
+Please print twenty-four F (Separated by spaces)
+	F F F FF F N F F N N F f F F f f F f N F N f F
+	F F F F F F F F F F F F F F F F F F F F F F F F 
+Please print thirteen h (Separated by spaces)
+	h h h h c h h
+	h h h h h h h h h h h h h 
+Please print seventeen n (Separated by spaces)
+	n n n n N n nn n N N n Nn nn N
+	n n n n n n n n n n n n n n n n n 
+Please print five R (Separated by spaces)
+	R R R RR
+	R R R R R 
+Please print fourteen s (Separated by spaces)
+	s s s s S s s d s s a s s
+	s s s s s s s s s s s s s s 
+Please print two j (Separated by spaces)
+	j j
+	j j 
+Please print one X (Separated by spaces)
+	X
+	X 
+Please print twelve v (Separated by spaces)
+	v v v v c v v
+	v v v v v v v v v v v v 
+Please print twenty-two v (Separated by spaces)
+	v v v vv vvv v V v v Vv v c v v d v v
+	v v v v v v v v v v v v v v v v v v v v v v 
+Please print fifteen y (Separated by spaces)
+	y y y yy yyy y l y y ly y
+	y y y y y y y y y y y y y y y 
+Please print six i (Separated by spaces)
+	i i i i
+	i i i i i i 
+Please print eleven Z (Separated by spaces)
+	Z Z Z ZZ ZZ D Z Z D
+	Z Z Z Z Z Z Z Z Z Z Z 
+Please print sixteen N (Separated by spaces)
+	N N N NN NNN N n N N n n N n
+	N N N N N N N N N N N N N N N N 
+Please print eighteen I (Separated by spaces)
+	I I I II I i I I i i I i
+	I I I I I I I I I I I I I I I I I I 
+Please print nineteen u (Separated by spaces)
+	u u u u U u uu u U U u Uu uu U uu
+	u u u u u u u u u u u u u u u u u u u 
+Please print seventeen x (Separated by spaces)
+	x x x x z x x X x xx x X X x Xx
+	x x x x x x x x x x x x x x x x x 
+Please print eleven L (Separated by spaces)
+	L L L LL LLL L l L
+	L L L L L L L L L L L 
+Please print twenty y (Separated by spaces)
+	y y y yy yyy y l y y l l yy l y l c
+	y y y y y y y y y y y y y y y y y y y y 
+Please print twelve a (Separated by spaces)
+	a a a aA a a
+	a a a a a a a a a a a a 
+Please print sixteen f (Separated by spaces)
+	f f f ff fff f d f f df f
+	f f f f f f f f f f f f f f f f 
+Please print seventeen f (Separated by spaces)
+	f f f ff f c f f cf fff f d f
+	f f f f f f f f f f f f f f f f f 
+Please print sixteen W (Separated by spaces)
+	W W W WW WWW W w W W w w W w
+	W W W W W W W W W W W W W W W W 
+Please print seventeen m (Separated by spaces)
+	m m m mm mmm m M m m M M m Mm
+	m m m m m m m m m m m m m m m m m 
+Please print twenty L (Separated by spaces)
+	L L L LL LLL L l L L lL L N L L NL
+	L L L L L L L L L L L L L L L L L L L L 
+Please print four U (Separated by spaces)
+	U U U
+	U U U U 
+Please print four c (Separated by spaces)
+	c c c
+	c c c c 
+Please print two k (Separated by spaces)
+	k k
+	k k 
+Please print four l (Separated by spaces)
+	l l l
+	l l l l 
+Please print twenty-one j (Separated by spaces)
+	j j j j J j jj j J J j J c j j r j j c
+	j j j j j j j j j j j j j j j j j j j j j 
+Please print eight d (Separated by spaces)
+	d d d d D d d c d d
+	d d d d d d d d 
+Please print twenty-four v (Separated by spaces)
+	v v v vv vvv v V v v Vv v c v v cv v u v v
+	v v v v v v v v v v v v v v v v v v v v v v v v 
+Please print one b (Separated by spaces)
+	b
+	b 
+Please print eight m (Separated by spaces)
+	m m m mm mm
+	m m m m m m m m 
+Please print two u (Separated by spaces)
+	u u
+	u u 
+Please print two w (Separated by spaces)
+	w w
+	w w 
+Please print seventeen x (Separated by spaces)
+	x x x x z x x X x xx x X X x Xx
+	x x x x x x x x x x x x x x x x x 
+Please print three f (Separated by spaces)
+	f f f f
+	f f f 
+Please print twenty-three G (Separated by spaces)
+	G G G GG G g G G g g G g
+	G G G G G G G G G G G G G G G G G G G G G G G 
+Please print nine y (Separated by spaces)
+	y y y yy yyy y
+	y y y y y y y y y 
+Please print twelve M (Separated by spaces)
+	M M M MM M
+	M M M M M M M M M M M M 
+Please print eighteen n (Separated by spaces)
+	n n n n N n nn nnn n Nn nN n n
+	n n n n n n n n n n n n n n n n n n 
+Please print ten x (Separated by spaces)
+	x x x x z x x X x x
+	x x x x x x x x x x 
+Please print seven A (Separated by spaces)
+	A A A A
+	A A A A A A A 
+Please print sixteen b (Separated by spaces)
+	b b b bb bbb b B b b B B b
+	b b b b b b b b b b b b b b b b 
+Please print three t (Separated by spaces)
+	t t t t
+	t t t 
+Please print fourteen X (Separated by spaces)
+	X X X XX X x X X Z X X x x X Z Z
+	X X X X X X X X X X X X X X 
+Please print twenty-one B (Separated by spaces)
+	B B B BB B b B B b b B bB BB b BBB B
+	B B B B B B B B B B B B B B B B B B B B B 
+Please print ten E (Separated by spaces)
+	E E E EE EEE E e E E
+	E E E E E E E E E E 
+Please print three G (Separated by spaces)
+	G G G G
+	G G G 
+Please print twenty-four e (Separated by spaces)
+	e e e ee eee e i e e ie e l e e le e E e e
+	e e e e e e e e e e e e e e e e e e e e e e e e 
+Please print five b (Separated by spaces)
+	b b b b B
+	b b b b b 
+Please print fifteen E (Separated by spaces)
+	E E E EE E e E E e e E eE E N E E
+	E E E E E E E E E E E E E E E 
+Please print nineteen z (Separated by spaces)
+	z z z z x z z r z z y z z h z z m z z
+	z z z z z z z z z z z z z z z z z z z 
+Please print twenty-four D (Separated by spaces)
+	D D D DD DDD D d D D dD D C D D L D D CD D
+	D D D D D D D D D D D D D D D D D D D D D D D D 
+Please print one H (Separated by spaces)
+	H
+	H 
+Please print twelve y (Separated by spaces)
+	y y y yy yyy y l
+	y y y y y y y y y y y y 
+Please print seventeen T (Separated by spaces)
+	T T T TT T t T T t t T tT TT t
+	T T T T T T T T T T T T T T T T T 
+Please print three Q (Separated by spaces)
+	Q Q Q Q
+	Q Q Q 
+Please print two S (Separated by spaces)
+	S S
+	S S 
+Please print fourteen F (Separated by spaces)
+	F F F F P F F f F F D F F
+	F F F F F F F F F F F F F F 
+Please print twelve U (Separated by spaces)
+	U U U UU UUU U u
+	U U U U U U U U U U U U 
+Please print nineteen Y (Separated by spaces)
+	Y Y Y YY YYY Y y Y Y y y YY y Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print twenty v (Separated by spaces)
+	v v v vv vvv v c v v c c v c
+	v v v v v v v v v v v v v v v v v v v v 
+Please print nine m (Separated by spaces)
+	m m m mm mmm m
+	m m m m m m m m m 
+Please print seventeen R (Separated by spaces)
+	R R R RR RRR R U R R UR R r R
+	R R R R R R R R R R R R R R R R R 
+Please print nine x (Separated by spaces)
+	x x x x z x x X x
+	x x x x x x x x x 
+Please print seventeen I (Separated by spaces)
+	I I I I i I I Z I I U I I a I I 17
+	I I I I I I I I I I I I I I I I I 
+Please print ten O (Separated by spaces)
+	O O O OO OOO O o O O
+	O O O O O O O O O O 
+Please print twenty-two S (Separated by spaces)
+	S S S SS SSS S A S S AS S s S S sS S
+	S S S S S S S S S S S S S S S S S S S S S S 
+Please print eleven V (Separated by spaces)
+	V V V VV VVV V v V
+	V V V V V V V V V V V 
+Please print fourteen E (Separated by spaces)
+	E E E E e E E N E EE E e
+	E E E E E E E E E E E E E E 
+Please print two t (Separated by spaces)
+	t t
+	t t 
+Please print two u (Separated by spaces)
+	u u
+	u u 
+Please print twenty-three v (Separated by spaces)
+	v v v vv vvv v c v v c d v v d v
+	v v v v v v v v v v v v v v v v v v v v v v v 
+Please print one o (Separated by spaces)
+	o
+	o 
+Please print three j (Separated by spaces)
+	j j j j
+	j j j 
+Please print thirteen x (Separated by spaces)
+	x x x x z x x X x x y x x
+	x x x x x x x x x x x x x 
+Please print eighteen f (Separated by spaces)
+	f f f ff fff f m f f m m ff m f
+	f f f f f f f f f f f f f f f f f f 
+Please print two f (Separated by spaces)
+	f f
+	f f 
+Please print twenty-three f (Separated by spaces)
+	f f f ff fff f d f f h f f df f
+	f f f f f f f f f f f f f f f f f f f f f f f 
+Please print twenty-four J (Separated by spaces)
+	J J J JJ JJJ J H J J HJ J j J J jJ J V J J
+	J J J J J J J J J J J J J J J J J J J J J J J J 
+Please print twenty-five j (Separated by spaces)
+	j j j jj jj r j j r j r r j t j j t r j d j j
+	j j j j j j j j j j j j j j j j j j j j j j j j j 
+Please print twenty-three c (Separated by spaces)
+	c c c cc c C c c Cc c
+	c c c c c c c c c c c c c c c c c c c c c c c 
+Please print twenty-three p (Separated by spaces)
+	p p p pp ppp p u p p up p h p p hp p m p
+	p p p p p p p p p p p p p p p p p p p p p p p 
+Please print fourteen b (Separated by spaces)
+	b b b b B b bb b B B b Bb bb B
+	b b b b b b b b b b b b b b 
+Please print twelve h (Separated by spaces)
+	h h h h c h h
+	h h h h h h h h h h h h 
+Please print eight C (Separated by spaces)
+	C C C CC C c C C c
+	C C C C C C C C 
+Please print eighteen q (Separated by spaces)
+	q q q qq qqq q Q q q Qq q u q q
+	q q q q q q q q q q q q q q q q q q 
+Please print three N (Separated by spaces)
+	N N N N
+	N N N 
+Please print ten U (Separated by spaces)
+	U U U UU UUU U u U
+	U U U U U U U U U U 
+Please print four h (Separated by spaces)
+	h h h
+	h h h h 
+Please print nine b (Separated by spaces)
+	b b b bb bbb b B b
+	b b b b b b b b b 
+Please print fifteen z (Separated by spaces)
+	z z z z x z z r z z k z z u z z y z z
+	z z z z z z z z z z z z z z z 
+Please print twelve L (Separated by spaces)
+	L L L LL LLL L l
+	L L L L L L L L L L L L 
+Please print twenty-two l (Separated by spaces)
+	l l l ll lll l d l l L l l dl l Ll l
+	l l l l l l l l l l l l l l l l l l l l l l 
+Please print eight N (Separated by spaces)
+	N N N NN N n N N n n N
+	N N N N N N N N 
+Please print seven o (Separated by spaces)
+	o o o o O o o
+	o o o o o o o 
+Please print eighteen f (Separated by spaces)
+	f f f ff fff f m f f m m ff m f
+	f f f f f f f f f f f f f f f f f f 
+Please print twenty-five z (Separated by spaces)
+	z z z zz z x z z x x z x y z z r z z y z y y z x d z z d
+	z z z z z z z z z z z z z z z z z z z z z z z z z 
+Please print one A (Separated by spaces)
+	A
+	A 
+Please print two t (Separated by spaces)
+	t t
+	t t 
+Please print seventeen l (Separated by spaces)
+	l l l l L l l d l ll l L L l L c
+	l l l l l l l l l l l l l l l l l 
+Please print fourteen E (Separated by spaces)
+	E E E E e E E N E EE E e
+	E E E E E E E E E E E E E E 
+Please print twenty-five K (Separated by spaces)
+	K K K KK KKK K L K K L N K K N K N N K L L K
+	K K K K K K K K K K K K K K K K K K K K K K K K K 
+Please print twelve j (Separated by spaces)
+	j j j j r j j
+	j j j j j j j j j j j j 
+Please print twenty d (Separated by spaces)
+	d d d dd ddd d D d d Dd d a d d c d
+	d d d d d d d d d d d d d d d d d d d d 
+Please print one J (Separated by spaces)
+	J
+	J 
+Please print twenty-one n (Separated by spaces)
+	n n n n N n nn nn N nnn n Nn n c n
+	n n n n n n n n n n n n n n n n n n n n n 
+Please print twelve I (Separated by spaces)
+	I I I I i I I
+	I I I I I I I I I I I I 
+Please print eleven U (Separated by spaces)
+	U U U UU UUU U u U
+	U U U U U U U U U U U 
+Please print seventeen x (Separated by spaces)
+	x x x x z x x X x xx x X X x Xx
+	x x x x x x x x x x x x x x x x x 
+Please print twenty u (Separated by spaces)
+	u u u u U u uu u U U u U r u u r u U d u
+	u u u u u u u u u u u u u u u u u u u u 
+Please print twenty-three X (Separated by spaces)
+	X X X XX XXX X Z X X Z Z X ZX X x X X x Z
+	X X X X X X X X X X X X X X X X X X X X X X X 
+Please print sixteen a (Separated by spaces)
+	a a a aa aaa aA a aAa a
+	a a a a a a a a a a a a a a a a 
+Please print twelve I (Separated by spaces)
+	I I I I i I I
+	I I I I I I I I I I I I 
+Please print twenty-three i (Separated by spaces)
+	i i i i I i ii ii I iii i I I i Ii i
+	i i i i i i i i i i i i i i i i i i i i i i i 
+Please print nineteen S (Separated by spaces)
+	S S S SS SSS S s S S s s SS s S N
+	S S S S S S S S S S S S S S S S S S S 
+Please print twenty-four h (Separated by spaces)
+	h h h hh hhh h y h h yh h d h h dh h c h h
+	h h h h h h h h h h h h h h h h h h h h h h h h 
+Please print three x (Separated by spaces)
+	x x x x
+	x x x 
+Please print twelve k (Separated by spaces)
+	k k k k K k k
+	k k k k k k k k k k k k 
+Please print twenty-two o (Separated by spaces)
+	o o o oo ooo o O o o Oo o a o o ao o
+	o o o o o o o o o o o o o o o o o o o o o o 
+Please print fourteen E (Separated by spaces)
+	E E E E e E E N E EE E e
+	E E E E E E E E E E E E E E 
+Please print one C (Separated by spaces)
+	C
+	C 
+Please print thirteen d (Separated by spaces)
+	d d d d D d d c d d a d
+	d d d d d d d d d d d d d 
+Please print sixteen L (Separated by spaces)
+	L L L LL LLL L l L L l l LL
+	L L L L L L L L L L L L L L L L 
+Please print twenty-three I (Separated by spaces)
+	I I I II I
+	I I I I I I I I I I I I I I I I I I I I I I I 
+Please print seven l (Separated by spaces)
+	l l l l
+	l l l l l l l 
+Please print twenty-five E (Separated by spaces)
+	E E E EE EEE E e E E e e EE e E eE E N E E
+	E E E E E E E E E E E E E E E E E E E E E E E E E 
+Please print seven Z (Separated by spaces)
+	Z Z Z ZZ Z
+	Z Z Z Z Z Z Z 
+Please print three d (Separated by spaces)
+	d d d d
+	d d d 
+Please print eighteen x (Separated by spaces)
+	x x x x z x x X x xx x X X x Xx x
+	x x x x x x x x x x x x x x x x x x 
+Please print fifteen j (Separated by spaces)
+	j j j j r j j t j j m j j a j j
+	j j j j j j j j j j j j j j j 
+Please print one W (Separated by spaces)
+	W
+	W 
+Please print thirteen d (Separated by spaces)
+	d d d d D d d c d d a d
+	d d d d d d d d d d d d d 
+Please print sixteen q (Separated by spaces)
+	q q q qq qqq q Q q q Q Q q Q
+	q q q q q q q q q q q q q q q q 
+Please print one O (Separated by spaces)
+	O
+	O 
+Please print eleven i (Separated by spaces)
+	i i i ii ii e i i
+	i i i i i i i i i i i 
+Please print three q (Separated by spaces)
+	q q q q
+	q q q 
+Please print nineteen O (Separated by spaces)
+	O O O OO OOO O o O O o o O oO O
+	O O O O O O O O O O O O O O O O O O O 
+Please print twenty-three S (Separated by spaces)
+	S S S SS S s S S N S S s s SSS S
+	S S S S S S S S S S S S S S S S S S S S S S S 
+Please print ten v (Separated by spaces)
+	v v v vv vv u v v
+	v v v v v v v v v v 
+Please print twenty Q (Separated by spaces)
+	Q Q Q QQ Q Z Q Q Z Z Q ZQ QQ Z QQQ Q
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print four m (Separated by spaces)
+	m m m
+	m m m m 
+Please print eighteen x (Separated by spaces)
+	x x x x z x x X x xx x X X x Xx x
+	x x x x x x x x x x x x x x x x x x 
+Please print twenty g (Separated by spaces)
+	g g g g G g gg g G G g Gg gg G g l g
+	g g g g g g g g g g g g g g g g g g g g 
+Please print twenty-three j (Separated by spaces)
+	j j j jj j t j j t t j t
+	j j j j j j j j j j j j j j j j j j j j j j j 
+Please print thirteen D (Separated by spaces)
+	D D D DD DDD D L D D
+	D D D D D D D D D D D D D 
+Please print twenty-two i (Separated by spaces)
+	i i i ii iii i I i i Ii i
+	i i i i i i i i i i i i i i i i i i i i i i 
+Please print five M (Separated by spaces)
+	M M M M
+	M M M M M 
+Please print ten I (Separated by spaces)
+	I I I II I
+	I I I I I I I I I I 
+Please print thirteen C (Separated by spaces)
+	C C C CC C c C C c c C c
+	C C C C C C C C C C C C C 
+Please print eleven S (Separated by spaces)
+	S S S S L S S N S S
+	S S S S S S S S S S S 
+Please print eleven u (Separated by spaces)
+	u u u u U u u d u u r
+	u u u u u u u u u u u 
+Please print twenty-three o (Separated by spaces)
+	o o o oo ooo o O o o Oo o m o o
+	o o o o o o o o o o o o o o o o o o o o o o o 
+Please print twenty-two t (Separated by spaces)
+	t t t tt ttt t T t t Tt t d t t dt t
+	t t t t t t t t t t t t t t t t t t t t t t 
+Please print eighteen z (Separated by spaces)
+	z z z z x z z r z zz z x x z x y z
+	z z z z z z z z z z z z z z z z z z 
+Please print three f (Separated by spaces)
+	f f f f
+	f f f 
+Please print fourteen u (Separated by spaces)
+	u u u u U u u d u u r u u
+	u u u u u u u u u u u u u u 
+Please print two D (Separated by spaces)
+	D D
+	D D 
+Please print five J (Separated by spaces)
+	J J J JJ
+	J J J J J 
+Please print sixteen Y (Separated by spaces)
+	Y Y Y YY YY y Y Y y Y y y YY
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print eighteen d (Separated by spaces)
+	d d d d D d dd ddd d Dd d a d d
+	d d d d d d d d d d d d d d d d d d 
+Please print eight a (Separated by spaces)
+	a a a a, a a
+	a a a a a a a a 
+Please print fifteen H (Separated by spaces)
+	H H H HH H h H H h h H hH HH
+	H H H H H H H H H H H H H H H 
+Please print twenty Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z 20 Z Z 20Z Z R Z Z H Z
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print twenty-two c (Separated by spaces)
+	c c c cc ccc c C c c Cc c a c c ac c
+	c c c c c c c c c c c c c c c c c c c c c c 
+Please print twelve K (Separated by spaces)
+	K K K K L K K
+	K K K K K K K K K K K K 
+Please print eleven r (Separated by spaces)
+	r r r r R r r u r r
+	r r r r r r r r r r r 
+Please print twelve s (Separated by spaces)
+	s s s s S s s
+	s s s s s s s s s s s s 
+Please print five x (Separated by spaces)
+	x x x x z
+	x x x x x 
+Please print eighteen j (Separated by spaces)
+	j j j j r j j p j j m j j J j j a j
+	j j j j j j j j j j j j j j j j j j 
+Please print twenty-two B (Separated by spaces)
+	B B B BB BBB B b B B bB B A B B AB B
+	B B B B B B B B B B B B B B B B B B B B B B 
+Please print seventeen s (Separated by spaces)
+	s s s s S s s d s s c s s a s s w
+	s s s s s s s s s s s s s s s s s 
+Please print nineteen z (Separated by spaces)
+	z z z z x z z r z z y z z h z z m z z
+	z z z z z z z z z z z z z z z z z z z 
+Please print one z (Separated by spaces)
+	z
+	z 
+Please print twenty-five R (Separated by spaces)
+	R R R RR RRR R U R R UR R C R R
+	R R R R R R R R R R R R R R R R R R R R R R R R R 
+Please print nine o (Separated by spaces)
+	o o o o O o oo o
+	o o o o o o o o o 
+Please print eight f (Separated by spaces)
+	f f f f F f f
+	f f f f f f f f 
+Please print two I (Separated by spaces)
+	I I
+	I I 
+Please print sixteen B (Separated by spaces)
+	B B B BB B b B B b b B bB BB
+	B B B B B B B B B B B B B B B B 
+Please print twenty-two i (Separated by spaces)
+	i i i ii iii i I i i Ii i
+	i i i i i i i i i i i i i i i i i i i i i i 
+Please print eight E (Separated by spaces)
+	E E E EE E e E E e e E
+	E E E E E E E E 
+Please print nineteen M (Separated by spaces)
+	M M M MM MMM M m M M m m MM m M m
+	M M M M M M M M M M M M M M M M M M M 
+Please print eight V (Separated by spaces)
+	V V V VV VVV V v V V
+	V V V V V V V V 
+Please print eighteen l (Separated by spaces)
+	l l l l L l ll lll l
+	l l l l l l l l l l l l l l l l l l 
+Please print twenty-one x (Separated by spaces)
+	x x x xx xxx x X x x X X x Xx x z x
+	x x x x x x x x x x x x x x x x x x x x x 
+Please print two E (Separated by spaces)
+	E E
+	E E 
+Please print seven a (Separated by spaces)
+	a a a a
+	a a a a a a a 
+Please print twenty-one m (Separated by spaces)
+	m m m m M m mm mmm m M M m
+	m m m m m m m m m m m m m m m m m m m m m 
+Please print four g (Separated by spaces)
+	g g g
+	g g g g 
+Please print one X (Separated by spaces)
+	X
+	X 
+Please print twenty-five i (Separated by spaces)
+	i i i ii iii i u i i 20 i i I i i
+	i i i i i i i i i i i i i i i i i i i i i i i i i 
+Please print eight g (Separated by spaces)
+	g g g g G g g
+	g g g g g g g g 
+Please print twelve O (Separated by spaces)
+	O O O O N O O
+	O O O O O O O O O O O O 
+Please print eighteen o (Separated by spaces)
+	o o o oo ooo o O o o Oo o m o o
+	o o o o o o o o o o o o o o o o o o 
+Please print twenty-two q (Separated by spaces)
+	q q q qq qqq q Q q q Qq q u q qQ q q u
+	q q q q q q q q q q q q q q q q q q q q q q 
+Please print eighteen V (Separated by spaces)
+	V V V VV VVV V Q V V QV V C V V
+	V V V V V V V V V V V V V V V V V V 
+Please print five W (Separated by spaces)
+	W W W WW
+	W W W W W 
+Please print thirteen R (Separated by spaces)
+	R R R RR RR
+	R R R R R R R R R R R R R 
+Please print seven e (Separated by spaces)
+	e e e e
+	e e e e e e e 
+Please print six w (Separated by spaces)
+	w w w w W w
+	w w w w w w 
+Please print twenty L (Separated by spaces)
+	L L L LL LLL L l L L lL L N L L NL
+	L L L L L L L L L L L L L L L L L L L L 
+Please print twenty-three U (Separated by spaces)
+	U U U UU UUU U u U U uU U L U U
+	U U U U U U U U U U U U U U U U U U U U U U U 
+Please print five w (Separated by spaces)
+	w w w w W
+	w w w w w 
+Please print eighteen p (Separated by spaces)
+	p p p pp ppp p u p p up p m p p
+	p p p p p p p p p p p p p p p p p p 
+Please print eighteen C (Separated by spaces)
+	C C C CC CCC C N C C c C C N c C
+	C C C C C C C C C C C C C C C C C C 
+Please print eight z (Separated by spaces)
+	z z z z x z z
+	z z z z z z z z 
+Please print twenty N (Separated by spaces)
+	N N N NN NNN N n N N nN N L N N W N
+	N N N N N N N N N N N N N N N N N N N N 
+Please print twelve e (Separated by spaces)
+	e e e ee e
+	e e e e e e e e e e e e 
+Please print five K (Separated by spaces)
+	K K K K L
+	K K K K K 
+Please print twenty-five S (Separated by spaces)
+	S S S SS SSS S N S S N N SS N S N A S S A S N s S S
+	S S S S S S S S S S S S S S S S S S S S S S S S S 
+Please print thirteen b (Separated by spaces)
+	b b b bb bbb b B b b B
+	b b b b b b b b b b b b b 
+Please print five l (Separated by spaces)
+	l l l l L
+	l l l l l 
+Please print two C (Separated by spaces)
+	C C
+	C C 
+Please print twenty-one a (Separated by spaces)
+	a a a aA a aa aAA aA A a a A a A A
+	a a a a a a a a a a a a a a a a a a a a a 
+Please print six i (Separated by spaces)
+	i i i i
+	i i i i i i 
+Please print thirteen P (Separated by spaces)
+	P P P PP PPP P Z P P
+	P P P P P P P P P P P P P 
+Please print seven j (Separated by spaces)
+	j j j j
+	j j j j j j j 
+Please print sixteen f (Separated by spaces)
+	f f f ff fff f d f f df f
+	f f f f f f f f f f f f f f f f 
+Please print four z (Separated by spaces)
+	z z z
+	z z z z 
+Please print sixteen S (Separated by spaces)
+	S S S SS SSS S s S S s s S s
+	S S S S S S S S S S S S S S S S 
+Please print seventeen u (Separated by spaces)
+	u u u u U u u d u uu u U U u U d
+	u u u u u u u u u u u u u u u u u 
+Please print ten h (Separated by spaces)
+	h h h hh hhh h
+	h h h h h h h h h h 
+Please print two d (Separated by spaces)
+	d d
+	d d 
+Please print twelve Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z D
+	Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print five e (Separated by spaces)
+	e e e e
+	e e e e e 
+Please print twelve L (Separated by spaces)
+	L L L LL LLL L l
+	L L L L L L L L L L L L 
+Please print six u (Separated by spaces)
+	u u u u U
+	u u u u u u 
+Please print twenty-three O (Separated by spaces)
+	O O O OO O o O O N O O o o O oO OO o O N o
+	O O O O O O O O O O O O O O O O O O O O O O O 
+Please print two y (Separated by spaces)
+	y y
+	y y 
+Please print twenty-four V (Separated by spaces)
+	V V V VV VVV V U V V UV V N V V NV V H V V
+	V V V V V V V V V V V V V V V V V V V V V V V V 
+Please print five D (Separated by spaces)
+	D D D D C
+	D D D D D 
+Please print twenty-four i (Separated by spaces)
+	i i i ii iii i I i i Ii i h i i hi i
+	i i i i i i i i i i i i i i i i i i i i i i i i 
+Please print twenty v (Separated by spaces)
+	v v v vv vvv v c v v c c v c
+	v v v v v v v v v v v v v v v v v v v v 
+Please print thirteen V (Separated by spaces)
+	V V V VV VVV V U V V
+	V V V V V V V V V V V V V 
+Please print eleven J (Separated by spaces)
+	J J J JJ J j J J j j
+	J J J J J J J J J J J 
+Please print eleven r (Separated by spaces)
+	r r r r R r r u r r
+	r r r r r r r r r r r 
+Please print nine j (Separated by spaces)
+	j j j j r j j
+	j j j j j j j j j 
+Please print twelve D (Separated by spaces)
+	D D D DD DDD D L
+	D D D D D D D D D D D D 
+Please print one m (Separated by spaces)
+	m
+	m 
+Please print fourteen R (Separated by spaces)
+	R R R RR RR r R R r R r
+	R R R R R R R R R R R R R R 
+Please print eighteen j (Separated by spaces)
+	j j j j r j j p j j m j j J j j a j
+	j j j j j j j j j j j j j j j j j j 
+Please print eleven D (Separated by spaces)
+	D D D DD DDD D L D
+	D D D D D D D D D D D 
+Please print nineteen H (Separated by spaces)
+	H H H HH HHH H h H H h h HH h H h
+	H H H H H H H H H H H H H H H H H H H 
+Please print twenty-two l (Separated by spaces)
+	l l l ll lll l d l l L l l dl l Ll l
+	l l l l l l l l l l l l l l l l l l l l l l 
+Please print nineteen f (Separated by spaces)
+	f f f ff fff f m f f mf f s f f c
+	f f f f f f f f f f f f f f f f f f f 
+Please print thirteen f (Separated by spaces)
+	f f f ff ff c f f c f
+	f f f f f f f f f f f f f 
+Please print twenty-three x (Separated by spaces)
+	x x x xx xxx x X x x X X x X z x x z x z z x
+	x x x x x x x x x x x x x x x x x x x x x x x 
+Please print ten r (Separated by spaces)
+	r r r r R r r u r r
+	r r r r r r r r r r 
+Please print fifteen O (Separated by spaces)
+	O O O O N O O o O OO O o o O o
+	O O O O O O O O O O O O O O O 
+Please print seventeen N (Separated by spaces)
+	N N N NN NNN N n N N nN N C N
+	N N N N N N N N N N N N N N N N N 
+Please print four L (Separated by spaces)
+	L L L
+	L L L L 
+Please print eight p (Separated by spaces)
+	p p p pp ppp p u p p
+	p p p p p p p p 
+Please print two U (Separated by spaces)
+	U U
+	U U 
+Please print fourteen v (Separated by spaces)
+	v v v v c v v u v v d v v
+	v v v v v v v v v v v v v v 
+Please print twenty v (Separated by spaces)
+	v v v vv vvv v c v v c c v c
+	v v v v v v v v v v v v v v v v v v v v 
+Please print nine w (Separated by spaces)
+	w w w w W w ww w
+	w w w w w w w w w 
+Please print twelve i (Separated by spaces)
+	i i i ii ii
+	i i i i i i i i i i i i 
+Please print twenty-two N (Separated by spaces)
+	N N N NN NNN N n N N nN N A N N AN N
+	N N N N N N N N N N N N N N N N N N N N N N 
+Please print twenty-five b (Separated by spaces)
+	b b b bb bbb b B b b Bb b a b b ab b c b b cb b
+	b b b b b b b b b b b b b b b b b b b b b b b b b 
+Please print nine a (Separated by spaces)
+	a a a aa a, a a
+	a a a a a a a a a 
+Please print ten Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z
+	Z Z Z Z Z Z Z Z Z Z 
+Please print twenty-four n (Separated by spaces)
+	n n n nn nnn n N n n Nn n c n nN n n c N n
+	n n n n n n n n n n n n n n n n n n n n n n n n 
+Please print eleven l (Separated by spaces)
+	l l l l L l l c l l
+	l l l l l l l l l l l 
+Please print two X (Separated by spaces)
+	X X
+	X X 
+Please print three r (Separated by spaces)
+	r r r r
+	r r r 
+Please print ten g (Separated by spaces)
+	g g g gg g
+	g g g g g g g g g g 
+Please print eleven Q (Separated by spaces)
+	Q Q Q Q Z Q QQ Q Z Z
+	Q Q Q Q Q Q Q Q Q Q Q 
+Please print four p (Separated by spaces)
+	p p p
+	p p p p 
+Please print seventeen J (Separated by spaces)
+	J J J JJ JJJ J j J J H J J V J
+	J J J J J J J J J J J J J J J J J 
+Please print two w (Separated by spaces)
+	w w
+	w w 
+Please print twelve t (Separated by spaces)
+	t t t t T t t
+	t t t t t t t t t t t t 
+Please print fourteen n (Separated by spaces)
+	n n n n N n nn n N N n Nn nn
+	n n n n n n n n n n n n n n 
+Please print nine G (Separated by spaces)
+	G G G GG G g G G
+	G G G G G G G G G 
+Please print twenty-one q (Separated by spaces)
+	q q q qq qqq q Q q q Q Q q Qq q u q
+	q q q q q q q q q q q q q q q q q q q q q 
+Please print fourteen J (Separated by spaces)
+	J J J JJ J j J J j j J j
+	J J J J J J J J J J J J J J 
+Please print six U (Separated by spaces)
+	U U U UU U
+	U U U U U U 
+Please print one A (Separated by spaces)
+	A
+	A 
+Please print twenty-two F (Separated by spaces)
+	F F F FF FFF F f F F f f F fF F N F F
+	F F F F F F F F F F F F F F F F F F F F F F 
+Please print six t (Separated by spaces)
+	t t t t
+	t t t t t t 
+Please print twenty h (Separated by spaces)
+	h h h hh hhh h H h h Hh h c h h c c
+	h h h h h h h h h h h h h h h h h h h h 
+Please print six s (Separated by spaces)
+	s s s s
+	s s s s s s 
+Please print twenty-five p (Separated by spaces)
+	p p p pp ppp p u p p up p c p p h p p cp p a p p ap
+	p p p p p p p p p p p p p p p p p p p p p p p p p 
+Please print sixteen W (Separated by spaces)
+	W W W WW WWW W w W W w w W w
+	W W W W W W W W W W W W W W W W 
+Please print twenty-two Q (Separated by spaces)
+	Q Q Q QQ QQQ Q Z Q Q ZQ Q q Q Q qQ Q
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print twenty-one s (Separated by spaces)
+	s s s s S s s w s s c s s d s s l s s h
+	s s s s s s s s s s s s s s s s s s s s s 
+Please print eighteen l (Separated by spaces)
+	l l l l L l ll lll l
+	l l l l l l l l l l l l l l l l l l 
+Please print twenty-one z (Separated by spaces)
+	z z z z Z z zz z Z Z z y z z y y z Z y
+	z z z z z z z z z z z z z z z z z z z z z 
+Please print twenty-two Q (Separated by spaces)
+	Q Q Q QQ QQQ Q Z Q Q ZQ Q q Q Q qQ Q
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print sixteen U (Separated by spaces)
+	U U U UU UUU U u U U u u
+	U U U U U U U U U U U U U U U U 
+Please print six A (Separated by spaces)
+	A A A A
+	A A A A A A 
+Please print twenty-one W (Separated by spaces)
+	W W W WW WWW W w W W w w W wW W N W
+	W W W W W W W W W W W W W W W W W W W W W 
+Please print eight u (Separated by spaces)
+	u u u u U u u d u u
+	u u u u u u u u 
+Please print seven E (Separated by spaces)
+	E E E E e E E
+	E E E E E E E 
+Please print nine E (Separated by spaces)
+	E E E EE E e E E
+	E E E E E E E E E 
+Please print fourteen L (Separated by spaces)
+	L L L LL LLL L l L L l l L l
+	L L L L L L L L L L L L L L 
+Please print sixteen Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z D Z Z DZ Z V
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print twenty-four Y (Separated by spaces)
+	Y Y Y YY YYY Y y Y Y y y YY y Y yY Y S Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print twenty-five c (Separated by spaces)
+	c c c c C c cc c a c c a a c a C c a n c c n c
+	c c c c c c c c c c c c c c c c c c c c c c c c c 
+Please print one L (Separated by spaces)
+	L
+	L 
+Please print seventeen c (Separated by spaces)
+	c c c c C c c a c cc c C C c C a
+	c c c c c c c c c c c c c c c c c 
+Please print twenty-four Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z N Z Z NZ Z U Z Z UZ Z H Z Z
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print seven R (Separated by spaces)
+	R R R RR R
+	R R R R R R R 
+Please print twenty-one y (Separated by spaces)
+	y y y yy yyy y Y y y c y y
+	y y y y y y y y y y y y y y y y y y y y y 
+Please print five r (Separated by spaces)
+	r r r r R
+	r r r r r 
+Please print four B (Separated by spaces)
+	B B B
+	B B B B 
+Please print nineteen G (Separated by spaces)
+	G G G GG G g G G g g G gG GG g G
+	G G G G G G G G G G G G G G G G G G G 
+Please print twenty-five J (Separated by spaces)
+	J J J JJ JJJ J H J J HJ J j J J jJ J Z J J
+	J J J J J J J J J J J J J J J J J J J J J J J J J 
+Please print six A (Separated by spaces)
+	A A A A
+	A A A A A A 
+Please print three b (Separated by spaces)
+	b b b b
+	b b b 
+Please print twelve t (Separated by spaces)
+	t t t t T t t
+	t t t t t t t t t t t t 
+Please print ten A (Separated by spaces)
+	A A A AA A
+	A A A A A A A A A A 
+Please print two x (Separated by spaces)
+	x x
+	x x 
+Please print ten X (Separated by spaces)
+	X X X XX X Z X X Z Z
+	X X X X X X X X X X 
+Please print eleven H (Separated by spaces)
+	H H H HH H h H H h h
+	H H H H H H H H H H H 
+Please print thirteen j (Separated by spaces)
+	j j j j r j j t j j
+	j j j j j j j j j j j j j 
+Please print eighteen c (Separated by spaces)
+	c c c c C c cc c C C c Cc cc C c
+	c c c c c c c c c c c c c c c c c c 
+Please print fifteen Y (Separated by spaces)
+	Y Y Y YY Y y Y Y y y Y yY YY y Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print twenty-three O (Separated by spaces)
+	O O O OO O o O O N O O o o O oO OO o O N o
+	O O O O O O O O O O O O O O O O O O O O O O O 
+Please print twelve r (Separated by spaces)
+	r r r r R r r
+	r r r r r r r r r r r r 
+Please print three s (Separated by spaces)
+	s s s s
+	s s s 
+Please print fifteen s (Separated by spaces)
+	s s s s S s s o s s a s s
+	s s s s s s s s s s s s s s s 
+Please print six S (Separated by spaces)
+	S S S S
+	S S S S S S 
+Please print nine V (Separated by spaces)
+	V V V VV VVV V
+	V V V V V V V V V 
+Please print twelve E (Separated by spaces)
+	E E E E e E E
+	E E E E E E E E E E E E 
+Please print fifteen f (Separated by spaces)
+	f f f f F f f c f f m f f b f f
+	f f f f f f f f f f f f f f f 
+Please print six v (Separated by spaces)
+	v v v v
+	v v v v v v 
+Please print eleven o (Separated by spaces)
+	o o o o O o oo o O O
+	o o o o o o o o o o o 
+Please print eight c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c c 
+Please print seventeen D (Separated by spaces)
+	D D D DD DDD D d D D d d D dD
+	D D D D D D D D D D D D D D D D D 
+Please print fourteen p (Separated by spaces)
+	p p p pp ppp p u p p u u p u
+	p p p p p p p p p p p p p p 
+Please print eleven g (Separated by spaces)
+	g g g g G g g
+	g g g g g g g g g g g 
+Please print thirteen A (Separated by spaces)
+	A A A A a A A
+	A A A A A A A A A A A A A 
+Please print fourteen W (Separated by spaces)
+	W W W WW W w W W w w W w
+	W W W W W W W W W W W W W W 
+Please print two u (Separated by spaces)
+	u u
+	u u 
+Please print six a (Separated by spaces)
+	a a a a
+	a a a a a a 
+Please print one i (Separated by spaces)
+	i
+	i 
+Please print seven b (Separated by spaces)
+	b b b b B b b
+	b b b b b b b 
+Please print three I (Separated by spaces)
+	I I I I
+	I I I 
+Please print four T (Separated by spaces)
+	T T T
+	T T T T 
+Please print nineteen r (Separated by spaces)
+	r r r r R r rr r R R r Rr rr R r c
+	r r r r r r r r r r r r r r r r r r r 
+Please print twenty-five T (Separated by spaces)
+	T T T TT TTT T t T T t t TT t T tT T N T T
+	T T T T T T T T T T T T T T T T T T T T T T T T T 
+Please print twenty-one Y (Separated by spaces)
+	Y Y Y YY YYY Y y Y Y y y Y yY Y N Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print three M (Separated by spaces)
+	M M M M
+	M M M 
+Please print five n (Separated by spaces)
+	n n n n N
+	n n n n n 
+Please print six N (Separated by spaces)
+	N N N NN N
+	N N N N N N 
+Please print four u (Separated by spaces)
+	u u u
+	u u u u 
+Please print twenty l (Separated by spaces)
+	l l l l L l ll ll L l L L ll r l l n
+	l l l l l l l l l l l l l l l l l l l l 
+Please print eleven h (Separated by spaces)
+	h h h h c h h
+	h h h h h h h h h h h 
+Please print ten T (Separated by spaces)
+	T T T TT TTT T t T T
+	T T T T T T T T T T 
+Please print twenty-five k (Separated by spaces)
+	k k k kk kkk k l k k lk k u k k n k k d k k
+	k k k k k k k k k k k k k k k k k k k k k k k k k 
+Please print seventeen X (Separated by spaces)
+	X X X XX XXX X Z X X ZX X V X
+	X X X X X X X X X X X X X X X X X 
+Please print eight n (Separated by spaces)
+	n n n n N n nn n N N n
+	n n n n n n n n 
+Please print eleven s (Separated by spaces)
+	s s s s S s s c s s
+	s s s s s s s s s s s 
+Please print three W (Separated by spaces)
+	W W W W
+	W W W 
+Please print fifteen i (Separated by spaces)
+	i i i ii iii i I i i Ii i
+	i i i i i i i i i i i i i i i 
+Please print one u (Separated by spaces)
+	u
+	u 
+Please print nine Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z
+	Z Z Z Z Z Z Z Z Z 
+Please print one h (Separated by spaces)
+	h
+	h 
+Please print five A (Separated by spaces)
+	A A A A
+	A A A A A 
+Please print eighteen L (Separated by spaces)
+	L L L LL LLL L l L L lL L U L L
+	L L L L L L L L L L L L L L L L L L 
+Please print nine k (Separated by spaces)
+	k k k k K k k n k
+	k k k k k k k k k 
+Please print sixteen G (Separated by spaces)
+	G G G GG G g G G g g G gG GG
+	G G G G G G G G G G G G G G G G 
+Please print sixteen h (Separated by spaces)
+	h h h h c h h o h h H h h w h h
+	h h h h h h h h h h h h h h h h 
+Please print seventeen W (Separated by spaces)
+	W W W WW WWW W w W W wW W L W
+	W W W W W W W W W W W W W W W W W 
+Please print nineteen v (Separated by spaces)
+	v v v vv vvv v c v v cv v u v v V
+	v v v v v v v v v v v v v v v v v v v 
+Please print sixteen W (Separated by spaces)
+	W W W WW WWW W w W W w w W w
+	W W W W W W W W W W W W W W W W 
+Please print eighteen t (Separated by spaces)
+	t t t t T t tt ttt t Tt t c t t
+	t t t t t t t t t t t t t t t t t t 
+Please print eighteen R (Separated by spaces)
+	R R R RR RRR R r R R rR R U R R
+	R R R R R R R R R R R R R R R R R R 
+Please print eighteen g (Separated by spaces)
+	g g g g G g gg ggg g Gg g a g g
+	g g g g g g g g g g g g g g g g g g 
+Please print seven R (Separated by spaces)
+	R R R RR R
+	R R R R R R R 
+Please print fourteen b (Separated by spaces)
+	b b b b B b bb b B B b Bb bb B
+	b b b b b b b b b b b b b b 
+Please print eight y (Separated by spaces)
+	y y y yy yy
+	y y y y y y y y 
+Please print nine N (Separated by spaces)
+	N N N NN NNN N
+	N N N N N N N N N 
+Please print sixteen M (Separated by spaces)
+	M M M MM MMM M m M M m m M m
+	M M M M M M M M M M M M M M M M 
+Please print eight b (Separated by spaces)
+	b b b b B b bb b B B b
+	b b b b b b b b 
+Please print twenty-two i (Separated by spaces)
+	i i i ii iii i I i i Ii i
+	i i i i i i i i i i i i i i i i i i i i i i 
+Please print twenty-four k (Separated by spaces)
+	k k k kk kkk k d k k l k k dk k l d k d d k
+	k k k k k k k k k k k k k k k k k k k k k k k k 
+Please print one a (Separated by spaces)
+	a
+	a 
+Please print twenty-four X (Separated by spaces)
+	X X X XX XXX X Z X X ZX X Q X X QX X V X X
+	X X X X X X X X X X X X X X X X X X X X X X X X 
+Please print ten d (Separated by spaces)
+	d d d d D d dd d D D d
+	d d d d d d d d d d 
+Please print ten g (Separated by spaces)
+	g g g gg g
+	g g g g g g g g g g 
+Please print fifteen U (Separated by spaces)
+	U U U UU UUU U u U U u u U uU U
+	U U U U U U U U U U U U U U U 
+Please print twenty-five o (Separated by spaces)
+	o o o oo ooo o h o o ho o O o o Oo o i o o a o o io
+	o o o o o o o o o o o o o o o o o o o o o o o o o 
+Please print six F (Separated by spaces)
+	F F F F
+	F F F F F F 
+Please print sixteen G (Separated by spaces)
+	G G G GG G g G G g g G gG GG
+	G G G G G G G G G G G G G G G G 
+Please print fourteen h (Separated by spaces)
+	h h h h c h h o h h H h h
+	h h h h h h h h h h h h h h 
+Please print two u (Separated by spaces)
+	u u
+	u u 
+Please print one H (Separated by spaces)
+	H
+	H 
+Please print nineteen Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z D Z Z DZ Z Q Z Z Q
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print five z (Separated by spaces)
+	z z z z x
+	z z z z z 
+Please print ten p (Separated by spaces)
+	p p p pp ppp p u p
+	p p p p p p p p p p 
+Please print nine K (Separated by spaces)
+	K K K K L K KK K
+	K K K K K K K K K 
+Please print two F (Separated by spaces)
+	F F
+	F F 
+Please print eight T (Separated by spaces)
+	T T T TT T t T T t
+	T T T T T T T T 
+Please print three h (Separated by spaces)
+	h h h h
+	h h h 
+Please print five y (Separated by spaces)
+	y y y y
+	y y y y y 
+Please print twenty-two K (Separated by spaces)
+	K K K KK KKK K A K K AK K k K K U K K
+	K K K K K K K K K K K K K K K K K K K K K K 
+Please print twenty-one C (Separated by spaces)
+	C C C C N C C c C C U C C A C CC C N N
+	C C C C C C C C C C C C C C C C C C C C C 
+Please print three q (Separated by spaces)
+	q q q q
+	q q q 
+Please print seven k (Separated by spaces)
+	k k k k
+	k k k k k k k 
+Please print twenty-two t (Separated by spaces)
+	t t t tt ttt t T t t Tt t d t t dt t
+	t t t t t t t t t t t t t t t t t t t t t t 
+Please print four v (Separated by spaces)
+	v v v
+	v v v v 
+Please print twenty-four q (Separated by spaces)
+	q q q qq qqq q u q q uq q Q q q Qq q c q q
+	q q q q q q q q q q q q q q q q q q q q q q q q 
+Please print fourteen r (Separated by spaces)
+	r r r r R r r u r r c
+	r r r r r r r r r r r r r r 
+Please print twenty-five e (Separated by spaces)
+	e e e ee eee e i e e ie e
+	e e e e e e e e e e e e e e e e e e e e e e e e e 
+Please print eleven J (Separated by spaces)
+	J J J JJ J j J J j j
+	J J J J J J J J J J J 
+Please print three g (Separated by spaces)
+	g g g g
+	g g g 
+Please print thirteen B (Separated by spaces)
+	B B B BB B b B B b b B b
+	B B B B B B B B B B B B B 
+Please print seventeen i (Separated by spaces)
+	i i i ii iii i I i i I I i I e
+	i i i i i i i i i i i i i i i i i 
+Please print one m (Separated by spaces)
+	m
+	m 
+Please print six R (Separated by spaces)
+	R R R R
+	R R R R R R 
+Please print ten J (Separated by spaces)
+	J J J JJ JJJ J
+	J J J J J J J J J J 
+Please print three p (Separated by spaces)
+	p p p p
+	p p p 
+Please print thirteen x (Separated by spaces)
+	x x x x z x x X x x y x x
+	x x x x x x x x x x x x x 
+Please print eighteen r (Separated by spaces)
+	r r r r R r r u r rr r R R r R u r
+	r r r r r r r r r r r r r r r r r r 
+Please print twenty-four N (Separated by spaces)
+	N N N NN NNN N n N N nN N L N N U N N S N N
+	N N N N N N N N N N N N N N N N N N N N N N N N 
+Please print fifteen k (Separated by spaces)
+	k k k k K k k l k kk k K K k K
+	k k k k k k k k k k k k k k k 
+Please print four u (Separated by spaces)
+	u u u
+	u u u u 
+Please print seventeen N (Separated by spaces)
+	N N N NN NNN N n N N nN N C N
+	N N N N N N N N N N N N N N N N N 
+Please print nine v (Separated by spaces)
+	v v v v V v v c v
+	v v v v v v v v v 
+Please print nine B (Separated by spaces)
+	B B B BB BB b B
+	B B B B B B B B B 
+Please print nine j (Separated by spaces)
+	j j j j r j j
+	j j j j j j j j j 
+Please print one W (Separated by spaces)
+	W
+	W 
+Please print sixteen V (Separated by spaces)
+	V V V VV VVV V U V V UV V v
+	V V V V V V V V V V V V V V V V 
+Please print ten u (Separated by spaces)
+	u u u u U u uu u U U u
+	u u u u u u u u u u 
+Please print twenty-five u (Separated by spaces)
+	u u u u U u uu u U U u Uu uu U uuu u d u u d U u d d
+	u u u u u u u u u u u u u u u u u u u u u u u u u 
+Please print three Z (Separated by spaces)
+	Z Z Z Z
+	Z Z Z 
+Please print four f (Separated by spaces)
+	f f f
+	f f f f 
+Please print fourteen Y (Separated by spaces)
+	Y Y Y YY Y y Y Y y y Y y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print one t (Separated by spaces)
+	t
+	t 
+Please print twenty-four c (Separated by spaces)
+	c c c c C c c a c cc c C C c C a c Cc c a C
+	c c c c c c c c c c c c c c c c c c c c c c c c 
+Please print twenty-one u (Separated by spaces)
+	u u u u U u uu u U U u Uu uu U u d u
+	u u u u u u u u u u u u u u u u u u u u u 
+Please print seventeen W (Separated by spaces)
+	W W W WW WWW W w W W wW W L W
+	W W W W W W W W W W W W W W W W W 
+Please print three G (Separated by spaces)
+	G G G G
+	G G G 
+Please print five Y (Separated by spaces)
+	Y Y Y YY
+	Y Y Y Y Y 
+Please print nineteen P (Separated by spaces)
+	P P P PP PPP P Z P P C P P N P P Z
+	P P P P P P P P P P P P P P P P P P P 
+Please print one b (Separated by spaces)
+	b
+	b 
+Please print two u (Separated by spaces)
+	u u
+	u u 
+Please print twenty d (Separated by spaces)
+	d d d dd ddd d D d d Dd d a d d c d
+	d d d d d d d d d d d d d d d d d d d d 
+Please print eight A (Separated by spaces)
+	A A A A a A A
+	A A A A A A A A 
+Please print seventeen y (Separated by spaces)
+	y y y yy yyy y d y y dy y c
+	y y y y y y y y y y y y y y y y y 
+Please print one H (Separated by spaces)
+	H
+	H 
+Please print eighteen h (Separated by spaces)
+	h h h hh hhh h c h h m h h ch h
+	h h h h h h h h h h h h h h h h h h 
+Please print seventeen D (Separated by spaces)
+	D D D DD DDD D d D D d d D dD
+	D D D D D D D D D D D D D D D D D 
+Please print five b (Separated by spaces)
+	b b b b B
+	b b b b b 
+Please print three E (Separated by spaces)
+	E E E E
+	E E E 
+Please print six V (Separated by spaces)
+	V V V VV V
+	V V V V V V 
+Please print eight d (Separated by spaces)
+	d d d d D d d c d d
+	d d d d d d d d 
+Please print fifteen J (Separated by spaces)
+	J J J JJ JJ j J J j J j j JJ
+	J J J J J J J J J J J J J J J 
+Please print seven i (Separated by spaces)
+	i i i i
+	i i i i i i i 
+Please print twenty Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z 20 Z Z 20Z Z R Z Z H Z
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print nine D (Separated by spaces)
+	D D D DD DDD D
+	D D D D D D D D D 
+Please print five w (Separated by spaces)
+	w w w w W
+	w w w w w 
+Please print twenty-one F (Separated by spaces)
+	F F F F N F F f F F Z F F U F F C F F D
+	F F F F F F F F F F F F F F F F F F F F F 
+Please print three J (Separated by spaces)
+	J J J J
+	J J J 
+Please print six j (Separated by spaces)
+	j j j j
+	j j j j j j 
+Please print nineteen y (Separated by spaces)
+	y y y yy yyy y l y y ly y c y y c
+	y y y y y y y y y y y y y y y y y y y 
+Please print twelve c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c c c c c c 
+Please print twelve x (Separated by spaces)
+	x x x x z x x X x x
+	x x x x x x x x x x x x 
+Please print twenty o (Separated by spaces)
+	o o o oo ooo o O o o Oo o m o o m O
+	o o o o o o o o o o o o o o o o o o o o 
+Please print twenty-two t (Separated by spaces)
+	t t t tt ttt t T t t Tt t d t t dt t
+	t t t t t t t t t t t t t t t t t t t t t t 
+Please print sixteen m (Separated by spaces)
+	m m m mm mmm m M m m M M m
+	m m m m m m m m m m m m m m m m 
+Please print three U (Separated by spaces)
+	U U U U
+	U U U 
+Please print eighteen J (Separated by spaces)
+	J J J JJ JJJ J j J J jJ J H J J
+	J J J J J J J J J J J J J J J J J J 
+Please print fourteen S (Separated by spaces)
+	S S S S L S S N S S s S S
+	S S S S S S S S S S S S S S 
+Please print seven P (Separated by spaces)
+	P P P PP PP
+	P P P P P P P 
+Please print thirteen n (Separated by spaces)
+	n n n n N n nn n N N n N
+	n n n n n n n n n n n n n 
+Please print fourteen u (Separated by spaces)
+	u u u u U u u d u u r u u
+	u u u u u u u u u u u u u u 
+Please print seventeen x (Separated by spaces)
+	x x x x z x x X x xx x X X x Xx
+	x x x x x x x x x x x x x x x x x 
+Please print fourteen l (Separated by spaces)
+	l l l l L l l
+	l l l l l l l l l l l l l l 
+Please print five t (Separated by spaces)
+	t t t t T
+	t t t t t 
+Please print five E (Separated by spaces)
+	E E E EE
+	E E E E E 
+Please print nineteen M (Separated by spaces)
+	M M M MM MMM M m M M m m MM m M m
+	M M M M M M M M M M M M M M M M M M M 
+Please print fifteen S (Separated by spaces)
+	S S S S L S S N S S s S SS S s
+	S S S S S S S S S S S S S S S 
+Please print four p (Separated by spaces)
+	p p p
+	p p p p 
+Please print twenty-two e (Separated by spaces)
+	e e e ee eee e E e e Ee e i e e ie e
+	e e e e e e e e e e e e e e e e e e e e e e 
+Please print four P (Separated by spaces)
+	P P P
+	P P P P 
+Please print twelve l (Separated by spaces)
+	l l l l L l l
+	l l l l l l l l l l l l 
+Please print ten q (Separated by spaces)
+	q q q qq qqq q Q q
+	q q q q q q q q q q 
+Please print fifteen B (Separated by spaces)
+	B B B BB B b B B b b B bB BB
+	B B B B B B B B B B B B B B B 
+Please print six B (Separated by spaces)
+	B B B B A B
+	B B B B B B 
+Please print twenty-two E (Separated by spaces)
+	E E E EE EEE E e E E eE E
+	E E E E E E E E E E E E E E E E E E E E E E 
+Please print twenty y (Separated by spaces)
+	y y y yy yyy y l y y l l yy l y l c
+	y y y y y y y y y y y y y y y y y y y y 
+Please print eight g (Separated by spaces)
+	g g g g G g g
+	g g g g g g g g 
+Please print thirteen l (Separated by spaces)
+	l l l l L l l
+	l l l l l l l l l l l l l 
+Please print fifteen Y (Separated by spaces)
+	Y Y Y YY Y y Y Y y y Y yY YY y Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print thirteen C (Separated by spaces)
+	C C C CC C c C C c c C c
+	C C C C C C C C C C C C C 
+Please print twenty-three b (Separated by spaces)
+	b b b bb bbb b B b b Bb b a b b ab b
+	b b b b b b b b b b b b b b b b b b b b b b b 
+Please print fifteen w (Separated by spaces)
+	w w w w W w ww w W W w Ww w
+	w w w w w w w w w w w w w w w 
+Please print seventeen a (Separated by spaces)
+	a a a aa aaa a an a a ana a A a
+	a a a a a a a a a a a a a a a a a 
+Please print fourteen H (Separated by spaces)
+	H H H HH H h H H h h H h
+	H H H H H H H H H H H H H H 
+Please print two q (Separated by spaces)
+	q q
+	q q 
+Please print thirteen Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z D Z Z
+	Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print twenty-four G (Separated by spaces)
+	G G G GG GGG G V G G g G G L G G V g G L L G
+	G G G G G G G G G G G G G G G G G G G G G G G G 
+Please print twenty-one f (Separated by spaces)
+	f f f ff fff f c f f c c f cf f d f
+	f f f f f f f f f f f f f f f f f f f f f 
+Please print eight s (Separated by spaces)
+	s s s s S s s
+	s s s s s s s s 
+Please print twenty-two V (Separated by spaces)
+	V V V VV VVV V U V V UV V N V V NV V
+	V V V V V V V V V V V V V V V V V V V V V V 
+Please print seven d (Separated by spaces)
+	d d d d D d d
+	d d d d d d d 
+Please print five p (Separated by spaces)
+	p p p pp
+	p p p p p 
+Please print sixteen D (Separated by spaces)
+	D D D DD DDD D d D D d d D d
+	D D D D D D D D D D D D D D D D 
+Please print thirteen L (Separated by spaces)
+	L L L LL LLL L D L L l
+	L L L L L L L L L L L L L 
+Please print eighteen C (Separated by spaces)
+	C C C CC CCC C N C C c C C N c C
+	C C C C C C C C C C C C C C C C C C 
+Please print fifteen i (Separated by spaces)
+	i i i ii iii i I i i Ii i
+	i i i i i i i i i i i i i i i 
+Please print two E (Separated by spaces)
+	E E
+	E E 
+Please print seven A (Separated by spaces)
+	A A A A
+	A A A A A A A 
+Please print four c (Separated by spaces)
+	c c c
+	c c c c 
+Please print eight Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z D Z Z
+	Z Z Z Z Z Z Z Z 
+Please print twenty c (Separated by spaces)
+	c c c c C c c a c cc c C C c C a c C n
+	c c c c c c c c c c c c c c c c c c c c 
+Please print twenty-two o (Separated by spaces)
+	o o o oo ooo o O o o Oo o a o o ao o
+	o o o o o o o o o o o o o o o o o o o o o o 
+Please print twenty-two w (Separated by spaces)
+	w w w w W w ww ww W www w Ww w y w w
+	w w w w w w w w w w w w w w w w w w w w w w 
+Please print three H (Separated by spaces)
+	H H H H
+	H H H 
+Please print five I (Separated by spaces)
+	I I I I
+	I I I I I 
+Please print fifteen l (Separated by spaces)
+	l l l l L l ll l L L l L r l l r l
+	l l l l l l l l l l l l l l l 
+Please print eleven b (Separated by spaces)
+	b b b b B b bb b B B
+	b b b b b b b b b b b 
+Please print ten g (Separated by spaces)
+	g g g gg g
+	g g g g g g g g g g 
+Please print nineteen e (Separated by spaces)
+	e e e ee eee e i e e ie e
+	e e e e e e e e e e e e e e e e e e e 
+Please print twenty w (Separated by spaces)
+	w w w w W w ww w W W w Ww w l w w l W
+	w w w w w w w w w w w w w w w w w w w w 
+Please print eighteen T (Separated by spaces)
+	T T T TT TTT T t T T t t TT t T
+	T T T T T T T T T T T T T T T T T T 
+Please print sixteen B (Separated by spaces)
+	B B B BB B b B B b b B bB BB
+	B B B B B B B B B B B B B B B B 
+Please print twenty-two a (Separated by spaces)
+	a a a aa aaa aA a a A a aAa a Aa a
+	a a a a a a a a a a a a a a a a a a a a a a 
+Please print twenty n (Separated by spaces)
+	n n n nn nnn n N n n Nn n c n n c N
+	n n n n n n n n n n n n n n n n n n n n 
+Please print seven Q (Separated by spaces)
+	Q Q Q QQ Q Z
+	Q Q Q Q Q Q Q 
+Please print four m (Separated by spaces)
+	m m m
+	m m m m 
+Please print twenty J (Separated by spaces)
+	J J J JJ JJJ J j J J j j JJ j J jJ
+	J J J J J J J J J J J J J J J J J J J J 
+Please print eleven c (Separated by spaces)
+	c c c c C c c a c c
+	c c c c c c c c c c c 
+Please print one F (Separated by spaces)
+	F
+	F 
+Please print ten l (Separated by spaces)
+	l l l l L l ll l L
+	l l l l l l l l l l 
+Please print three E (Separated by spaces)
+	E E E E
+	E E E 
+Please print fifteen p (Separated by spaces)
+	p p p pp ppp p u p p u u pp
+	p p p p p p p p p p p p p p p 
+Please print eight z (Separated by spaces)
+	z z z z x z z
+	z z z z z z z z 
+Please print two z (Separated by spaces)
+	z z
+	z z 
+Please print thirteen M (Separated by spaces)
+	M M M MM M
+	M M M M M M M M M M M M M 
+Please print thirteen O (Separated by spaces)
+	O O O O N O O o O O L O O
+	O O O O O O O O O O O O O 
+Please print twenty-four i (Separated by spaces)
+	i i i ii iii i I i i Ii i h i i hi i
+	i i i i i i i i i i i i i i i i i i i i i i i i 
+Please print nineteen B (Separated by spaces)
+	B B B BB BBB B b B B b b B bB B
+	B B B B B B B B B B B B B B B B B B B 
+Please print twelve k (Separated by spaces)
+	k k k k K k k
+	k k k k k k k k k k k k 
+Please print eleven i (Separated by spaces)
+	i i i ii ii e i i
+	i i i i i i i i i i i 
+Please print eighteen F (Separated by spaces)
+	F F F FF F f F F f f F fF FF f F
+	F F F F F F F F F F F F F F F F F F 
+Please print seventeen H (Separated by spaces)
+	H H H HH HH h H H h HHH H h h
+	H H H H H H H H H H H H H H H H H 
+Please print six c (Separated by spaces)
+	c c c c C c
+	c c c c c c 
+Please print eleven n (Separated by spaces)
+	n n n n N n nn n
+	n n n n n n n n n n n 
+Please print four b (Separated by spaces)
+	b b b
+	b b b b 
+Please print eight w (Separated by spaces)
+	w w w w W w w
+	w w w w w w w w 
+Please print three r (Separated by spaces)
+	r r r r
+	r r r 
+Please print sixteen c (Separated by spaces)
+	c c c c C c c a c cc c C C c C
+	c c c c c c c c c c c c c c c c 
+Please print two V (Separated by spaces)
+	V V
+	V V 
+Please print twenty-two Y (Separated by spaces)
+	Y Y Y YY YYY Y y Y Y yY Y A Y Y AY Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print seventeen y (Separated by spaces)
+	y y y yy yyy y d y y dy y c
+	y y y y y y y y y y y y y y y y y 
+Please print twenty-four W (Separated by spaces)
+	W W W WW WWW W N W W NW W L W W w W W LW W
+	W W W W W W W W W W W W W W W W W W W W W W W W 
+Please print twelve u (Separated by spaces)
+	u u u u U u u d u u
+	u u u u u u u u u u u u 
+Please print two y (Separated by spaces)
+	y y
+	y y 
+Please print twenty-four Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z N Z Z NZ Z U Z Z UZ Z H Z Z
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print twenty-two d (Separated by spaces)
+	d d d dd ddd d D d d Dd d a d d ad d
+	d d d d d d d d d d d d d d d d d d d d d d 
+Please print twenty A (Separated by spaces)
+	A A A AA A a A A a a A a 20 A A
+	A A A A A A A A A A A A A A A A A A A A 
+Please print sixteen A (Separated by spaces)
+	A A A AA A a A A a a A a
+	A A A A A A A A A A A A A A A A 
+Please print one M (Separated by spaces)
+	M
+	M 
+Please print three j (Separated by spaces)
+	j j j j
+	j j j 
+Please print ten W (Separated by spaces)
+	W W W WW WWW W w W W
+	W W W W W W W W W W 
+Please print twenty-four A (Separated by spaces)
+	A A A AA A a A A a a A a U A A U A a N A A
+	A A A A A A A A A A A A A A A A A A A A A A A A 
+Please print four Q (Separated by spaces)
+	Q Q Q
+	Q Q Q Q 
+Please print fifteen T (Separated by spaces)
+	T T T TT T t T T t t T tT TT t T
+	T T T T T T T T T T T T T T T 
+Please print twenty-three T (Separated by spaces)
+	T T T TT T t T T tT TTT T N T T
+	T T T T T T T T T T T T T T T T T T T T T T T 
+Please print twenty-four y (Separated by spaces)
+	y y y yy yyy y d y y l y y dy y ly y Y y y
+	y y y y y y y y y y y y y y y y y y y y y y y y 
+Please print four H (Separated by spaces)
+	H H H
+	H H H H 
+Please print twenty-two T (Separated by spaces)
+	T T T TT TTT T t T T tT T U T T UT T
+	T T T T T T T T T T T T T T T T T T T T T T 
+Please print eight c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c c 
+Please print fourteen B (Separated by spaces)
+	B B B B b B BB B b b
+	B B B B B B B B B B B B B B 
+Please print twenty L (Separated by spaces)
+	L L L LL LLL L l L L lL L N L L NL
+	L L L L L L L L L L L L L L L L L L L L 
+Please print fourteen h (Separated by spaces)
+	h h h h c h h o h h H h h
+	h h h h h h h h h h h h h h 
+Please print eight C (Separated by spaces)
+	C C C CC C c C C c
+	C C C C C C C C 
+Please print three e (Separated by spaces)
+	e e e e
+	e e e 
+Please print twenty-one G (Separated by spaces)
+	G G G GG GGG G g G G g g G
+	G G G G G G G G G G G G G G G G G G G G G 
+Please print nineteen F (Separated by spaces)
+	F F F FF F f F F f f F fF FF f F N
+	F F F F F F F F F F F F F F F F F F F 
+Please print fifteen e (Separated by spaces)
+	e e e ee eee e i e e ie e
+	e e e e e e e e e e e e e e e 
+Please print one X (Separated by spaces)
+	X
+	X 
+Please print fifteen t (Separated by spaces)
+	t t t t T t tt t T T t Tt tt
+	t t t t t t t t t t t t t t t 
+Please print five s (Separated by spaces)
+	s s s s
+	s s s s s 
+Please print twenty-three J (Separated by spaces)
+	J J J JJ JJJ J j J J j j JJ j J jJ J
+	J J J J J J J J J J J J J J J J J J J J J J J 
+Please print two g (Separated by spaces)
+	g g
+	g g 
+Please print thirteen V (Separated by spaces)
+	V V V VV VVV V U V V
+	V V V V V V V V V V V V V 
+Please print nine K (Separated by spaces)
+	K K K K L K KK K
+	K K K K K K K K K 
+Please print fifteen M (Separated by spaces)
+	M M M MM MM m M M m M m m M
+	M M M M M M M M M M M M M M M 
+Please print fifteen K (Separated by spaces)
+	K K K K Q K K L K K k K KK K k
+	K K K K K K K K K K K K K K K 
+Please print twenty-three g (Separated by spaces)
+	g g g gg ggg g l g g
+	g g g g g g g g g g g g g g g g g g g g g g g 
+Please print two n (Separated by spaces)
+	n n
+	n n 
+Please print seven S (Separated by spaces)
+	S S S S N S S
+	S S S S S S S 
+Please print eighteen L (Separated by spaces)
+	L L L LL LLL L l L L lL L U L L
+	L L L L L L L L L L L L L L L L L L 
+Please print six X (Separated by spaces)
+	X X X X Z X
+	X X X X X X 
+Please print eighteen O (Separated by spaces)
+	O O O OO OO o O O o O o o OOO O
+	O O O O O O O O O O O O O O O O O O 
+Please print seven O (Separated by spaces)
+	O O O O N O O
+	O O O O O O O 
+Please print four y (Separated by spaces)
+	y y y
+	y y y y 
+Please print twenty U (Separated by spaces)
+	U U U UU UUU U u U U uU U S U U SU
+	U U U U U U U U U U U U U U U U U U U U 
+Please print eleven O (Separated by spaces)
+	O O O O o O O N O O L
+	O O O O O O O O O O O 
+Please print three y (Separated by spaces)
+	y y y y
+	y y y 
+Please print twenty-three O (Separated by spaces)
+	O O O OO O o O O N O O o o O oO OO o O N o
+	O O O O O O O O O O O O O O O O O O O O O O O 
+Please print five C (Separated by spaces)
+	C C C CC
+	C C C C C 
+Please print six x (Separated by spaces)
+	x x x x z x
+	x x x x x x 
+Please print eleven j (Separated by spaces)
+	j j j j r j j p j j
+	j j j j j j j j j j j 
+Please print nine q (Separated by spaces)
+	q q q q Q q qq q
+	q q q q q q q q q 
+Please print twelve h (Separated by spaces)
+	h h h h c h h
+	h h h h h h h h h h h h 
+Please print three m (Separated by spaces)
+	m m m m
+	m m m 
+Please print twenty-three Y (Separated by spaces)
+	Y Y Y YY Y y Y Y y y Y yY YY y YYY Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print one K (Separated by spaces)
+	K
+	K 
+Please print nine J (Separated by spaces)
+	J J J JJ JJJ J
+	J J J J J J J J J 
+Please print four n (Separated by spaces)
+	n n n
+	n n n n 
+Please print twenty-three S (Separated by spaces)
+	S S S SS S s S S N S S s s SSS S
+	S S S S S S S S S S S S S S S S S S S S S S S 
+Please print five e (Separated by spaces)
+	e e e e
+	e e e e e 
+Please print twenty-five U (Separated by spaces)
+	U U U UU UUU U u U U uU U L U U LU U N U U NU U
+	U U U U U U U U U U U U U U U U U U U U U U U U U 
+Please print twenty-two L (Separated by spaces)
+	L L L LL LLL L U L L UL L l L L lL L
+	L L L L L L L L L L L L L L L L L L L L L L 
+Please print fifteen B (Separated by spaces)
+	B B B BB B b B B b b B bB BB
+	B B B B B B B B B B B B B B B 
+Please print twenty-five R (Separated by spaces)
+	R R R RR RRR R U R R UR R C R R
+	R R R R R R R R R R R R R R R R R R R R R R R R R 
+Please print one H (Separated by spaces)
+	H
+	H 
+Please print twenty-three n (Separated by spaces)
+	n n n nn nnn n N n n Nn n c n n
+	n n n n n n n n n n n n n n n n n n n n n n n 
+Please print fourteen g (Separated by spaces)
+	g g g g G g g
+	g g g g g g g g g g g g g g 
+Please print twenty-five e (Separated by spaces)
+	e e e ee eee e i e e ie e
+	e e e e e e e e e e e e e e e e e e e e e e e e e 
+Please print six j (Separated by spaces)
+	j j j j
+	j j j j j j 
+Please print twenty-three o (Separated by spaces)
+	o o o oo ooo o O o o Oo o m o o
+	o o o o o o o o o o o o o o o o o o o o o o o 
+Please print twenty-one y (Separated by spaces)
+	y y y yy yyy y Y y y c y y
+	y y y y y y y y y y y y y y y y y y y y y 
+Please print seventeen V (Separated by spaces)
+	V V V VV VVV V U V V v V V C V
+	V V V V V V V V V V V V V V V V V 
+Please print thirteen A (Separated by spaces)
+	A A A A a A A
+	A A A A A A A A A A A A A 
+Please print ten Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z
+	Z Z Z Z Z Z Z Z Z Z 
+Please print twelve w (Separated by spaces)
+	w w w w W w w
+	w w w w w w w w w w w w 
+Please print twenty Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z 20 Z Z 20Z Z R Z Z H Z
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print twenty-three L (Separated by spaces)
+	L L L LL LLL L l L L lL L U L L UL L
+	L L L L L L L L L L L L L L L L L L L L L L L 
+Please print three J (Separated by spaces)
+	J J J J
+	J J J 
+Please print one c (Separated by spaces)
+	c
+	c 
+Please print six U (Separated by spaces)
+	U U U UU U
+	U U U U U U 
+Please print five G (Separated by spaces)
+	G G G G
+	G G G G G 
+Please print nineteen m (Separated by spaces)
+	m m m mm mmm m l m m lm m M m m c
+	m m m m m m m m m m m m m m m m m m m 
+Please print twenty G (Separated by spaces)
+	G G G GG GG g G G g G g g GG
+	G G G G G G G G G G G G G G G G G G G G 
+Please print four I (Separated by spaces)
+	I I I
+	I I I I 
+Please print eight B (Separated by spaces)
+	B B B BB B b B B b b
+	B B B B B B B B 
+Please print twenty-four w (Separated by spaces)
+	w w w w W w ww w W W w Ww ww W www w l w w
+	w w w w w w w w w w w w w w w w w w w w w w w w 
+Please print six x (Separated by spaces)
+	x x x x z x
+	x x x x x x 
+Please print one F (Separated by spaces)
+	F
+	F 
+Please print twelve l (Separated by spaces)
+	l l l l L l l
+	l l l l l l l l l l l l 
+Please print fourteen r (Separated by spaces)
+	r r r r R r r u r r c
+	r r r r r r r r r r r r r r 
+Please print fourteen y (Separated by spaces)
+	y y y yy yyy y l y y l
+	y y y y y y y y y y y y y y 
+Please print four o (Separated by spaces)
+	o o o
+	o o o o 
+Please print nineteen h (Separated by spaces)
+	h h h hh hhh h c h h ch h H h h H
+	h h h h h h h h h h h h h h h h h h h 
+Please print nineteen C (Separated by spaces)
+	C C C CC C N C C NC CCC C c C C c
+	C C C C C C C C C C C C C C C C C C C 
+Please print twenty-five o (Separated by spaces)
+	o o o oo ooo o h o o ho o O o o Oo o i o o a o o io
+	o o o o o o o o o o o o o o o o o o o o o o o o o 
+Please print nine g (Separated by spaces)
+	g g g g G g g
+	g g g g g g g g g 
+Please print twenty q (Separated by spaces)
+	q q q qq qqq q Q q q Q Q q Qq q c q
+	q q q q q q q q q q q q q q q q q q q q 
+Please print ten S (Separated by spaces)
+	S S S SS SSS S N S S
+	S S S S S S S S S S 
+Please print fifteen J (Separated by spaces)
+	J J J JJ JJ j J J j J j j JJ
+	J J J J J J J J J J J J J J J 
+Please print nine m (Separated by spaces)
+	m m m mm mmm m
+	m m m m m m m m m 
+Please print eleven v (Separated by spaces)
+	v v v v c v v u v v
+	v v v v v v v v v v v 
+Please print seventeen t (Separated by spaces)
+	t t t t T t t d t tt t T T t Tt
+	t t t t t t t t t t t t t t t t t 
+Please print twenty-five t (Separated by spaces)
+	t t t tt tt h t t c t t h t c c tt c t c d t t d t c h
+	t t t t t t t t t t t t t t t t t t t t t t t t t 
+Please print six k (Separated by spaces)
+	k k k k
+	k k k k k k 
+Please print fifteen C (Separated by spaces)
+	C C C C N C C c C CC C c c C c
+	C C C C C C C C C C C C C C C 
+Please print twelve G (Separated by spaces)
+	G G G G g G G
+	G G G G G G G G G G G G 
+Please print nineteen M (Separated by spaces)
+	M M M MM MMM M m M M m m MM m M m
+	M M M M M M M M M M M M M M M M M M M 
+Please print three t (Separated by spaces)
+	t t t t
+	t t t 
+Please print seventeen I (Separated by spaces)
+	I I I I i I I Z I I U I I a I I 17
+	I I I I I I I I I I I I I I I I I 
+Please print eight w (Separated by spaces)
+	w w w w W w w
+	w w w w w w w w 
+Please print twenty a (Separated by spaces)
+	a a a aa aaa a an a a an an a ana a the a
+	a a a a a a a a a a a a a a a a a a a a 
+Please print seventeen A (Separated by spaces)
+	A A A A a A A C A AA A a a A a
+	A A A A A A A A A A A A A A A A A 
+Please print ten a (Separated by spaces)
+	a a a aa aaa a
+	a a a a a a a a a a 
+Please print thirteen o (Separated by spaces)
+	o o o o O o oo o O O o O
+	o o o o o o o o o o o o o 
+Please print eleven S (Separated by spaces)
+	S S S S L S S N S S
+	S S S S S S S S S S S 
+Please print seven l (Separated by spaces)
+	l l l l
+	l l l l l l l 
+Please print nineteen b (Separated by spaces)
+	b b b bb bbb b B b b Bb b a b b a
+	b b b b b b b b b b b b b b b b b b b 
+Please print four Q (Separated by spaces)
+	Q Q Q
+	Q Q Q Q 
+Please print eleven p (Separated by spaces)
+	p p p pp ppp p u p
+	p p p p p p p p p p p 
+Please print twenty-five R (Separated by spaces)
+	R R R RR RRR R U R R UR R C R R
+	R R R R R R R R R R R R R R R R R R R R R R R R R 
+Please print twenty-one G (Separated by spaces)
+	G G G GG GGG G g G G g g G
+	G G G G G G G G G G G G G G G G G G G G G 
+Please print nine Y (Separated by spaces)
+	Y Y Y YY Y y Y Y
+	Y Y Y Y Y Y Y Y Y 
+Please print twenty-five F (Separated by spaces)
+	F F F F U F F f F F N F F L F F P F F C F F B F F
+	F F F F F F F F F F F F F F F F F F F F F F F F F 
+Please print twenty-five S (Separated by spaces)
+	S S S SS SSS S N S S N N SS N S N A S S A S N s S S
+	S S S S S S S S S S S S S S S S S S S S S S S S S 
+Please print sixteen c (Separated by spaces)
+	c c c c C c c a c cc c C C c C
+	c c c c c c c c c c c c c c c c 
+Please print seventeen U (Separated by spaces)
+	U U U UU UUU U u U U u u UU u
+	U U U U U U U U U U U U U U U U U 
+Please print eighteen f (Separated by spaces)
+	f f f ff fff f m f f m m ff m f
+	f f f f f f f f f f f f f f f f f f 
+Please print twenty-two A (Separated by spaces)
+	A A A AA AAA A a A A a a A aA A
+	A A A A A A A A A A A A A A A A A A A A A A 
+Please print eighteen l (Separated by spaces)
+	l l l l L l ll lll l
+	l l l l l l l l l l l l l l l l l l 
+Please print ten W (Separated by spaces)
+	W W W WW WWW W w W W
+	W W W W W W W W W W 
+Please print twenty-five k (Separated by spaces)
+	k k k kk kkk k l k k lk k u k k n k k d k k
+	k k k k k k k k k k k k k k k k k k k k k k k k k 
+Please print twenty-two c (Separated by spaces)
+	c c c cc ccc c C c c Cc c a c c ac c
+	c c c c c c c c c c c c c c c c c c c c c c 
+Please print eight f (Separated by spaces)
+	f f f f F f f
+	f f f f f f f f 
+Please print eight c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c c 
+Please print twenty h (Separated by spaces)
+	h h h hh hhh h H h h Hh h c h h c c
+	h h h h h h h h h h h h h h h h h h h h 
+Please print thirteen Y (Separated by spaces)
+	Y Y Y YY Y y Y Y y y Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print fourteen v (Separated by spaces)
+	v v v v c v v u v v d v v
+	v v v v v v v v v v v v v v 
+Please print one F (Separated by spaces)
+	F
+	F 
+Please print nineteen P (Separated by spaces)
+	P P P PP PPP P Z P P C P P N P P Z
+	P P P P P P P P P P P P P P P P P P P 
+Please print four u (Separated by spaces)
+	u u u
+	u u u u 
+Please print nineteen O (Separated by spaces)
+	O O O OO OOO O o O O o o O oO O
+	O O O O O O O O O O O O O O O O O O O 
+Please print fourteen r (Separated by spaces)
+	r r r r R r r u r r c
+	r r r r r r r r r r r r r r 
+Please print twelve o (Separated by spaces)
+	o o o o O o o
+	o o o o o o o o o o o o 
+Please print ten l (Separated by spaces)
+	l l l l L l ll l L
+	l l l l l l l l l l 
+Please print twenty-five k (Separated by spaces)
+	k k k kk kkk k l k k lk k u k k n k k d k k
+	k k k k k k k k k k k k k k k k k k k k k k k k k 
+Please print nine M (Separated by spaces)
+	M M M MM MM
+	M M M M M M M M M 
+Please print twenty-four h (Separated by spaces)
+	h h h hh hhh h y h h yh h d h h dh h c h h
+	h h h h h h h h h h h h h h h h h h h h h h h h 
+Please print twenty-two O (Separated by spaces)
+	O O O OO OOO O o O O oO O N O O U O O
+	O O O O O O O O O O O O O O O O O O O O O O 
+Please print fifteen I (Separated by spaces)
+	I I I I L I I i I I H I I
+	I I I I I I I I I I I I I I I 
+Please print five D (Separated by spaces)
+	D D D D C
+	D D D D D 
+Please print fifteen v (Separated by spaces)
+	v v v vv v c v v c c v c u v v u v
+	v v v v v v v v v v v v v v v 
+Please print twelve C (Separated by spaces)
+	C C C C N C C
+	C C C C C C C C C C C C 
+Please print twenty-four T (Separated by spaces)
+	T T T TT TTT T N T T NT T t T T tT T L T
+	T T T T T T T T T T T T T T T T T T T T T T T T 
+Please print fifteen S (Separated by spaces)
+	S S S S L S S N S S s S SS S s
+	S S S S S S S S S S S S S S S 
+Please print two U (Separated by spaces)
+	U U
+	U U 
+Please print two H (Separated by spaces)
+	H H
+	H H 
+Please print twenty-one Q (Separated by spaces)
+	Q Q Q QQ Q Z Q Q Z Z Q ZQ QQ Z QQQ Q
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print thirteen J (Separated by spaces)
+	J J J JJ J j J J j j J j
+	J J J J J J J J J J J J J 
+Please print twenty-five T (Separated by spaces)
+	T T T TT TTT T t T T t t TT t T tT T N T T
+	T T T T T T T T T T T T T T T T T T T T T T T T T 
+Please print fourteen O (Separated by spaces)
+	O O O O N O O o O O L O O
+	O O O O O O O O O O O O O O 
+Please print fifteen B (Separated by spaces)
+	B B B BB B b B B b b B bB BB
+	B B B B B B B B B B B B B B B 
+Please print eight O (Separated by spaces)
+	O O O OO O o O O o o
+	O O O O O O O O 
+Please print seven e (Separated by spaces)
+	e e e e
+	e e e e e e e 
+Please print nineteen Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z D Z Z DZ Z Q Z Z Q
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print seven I (Separated by spaces)
+	I I I I
+	I I I I I I I 
+Please print thirteen S (Separated by spaces)
+	S S S S N S S s S S L S S
+	S S S S S S S S S S S S S 
+Please print seventeen W (Separated by spaces)
+	W W W WW WWW W w W W wW W L W
+	W W W W W W W W W W W W W W W W W 
+Please print seven X (Separated by spaces)
+	X X X X Z X
+	X X X X X X X 
+Please print ten M (Separated by spaces)
+	M M M MM MMM M
+	M M M M M M M M M M 
+Please print twenty-two n (Separated by spaces)
+	n n n nn nnn n N n n Nn n y n nN n n c
+	n n n n n n n n n n n n n n n n n n n n n n 
+Please print thirteen u (Separated by spaces)
+	u u u u U u u d u uu u U
+	u u u u u u u u u u u u u 
+Please print six b (Separated by spaces)
+	b b b b B b
+	b b b b b b 
+Please print twenty b (Separated by spaces)
+	b b b bb bbb b B b b Bb b a b b a B
+	b b b b b b b b b b b b b b b b b b b b 
+Please print twenty g (Separated by spaces)
+	g g g g G g gg g G G g Gg gg G g l g
+	g g g g g g g g g g g g g g g g g g g g 
+Please print twenty-four S (Separated by spaces)
+	S S S SS SSS S N S S N N SS N S NS S L S S
+	S S S S S S S S S S S S S S S S S S S S S S S S 
+Please print seventeen o (Separated by spaces)
+	o o o o O o oo o O O o Oo oo O
+	o o o o o o o o o o o o o o o o o 
+Please print twenty-three D (Separated by spaces)
+	D D D DD DDD D d D D dD D L D D
+	D D D D D D D D D D D D D D D D D D D D D D D 
+Please print seventeen w (Separated by spaces)
+	w w w w W w ww w W W w Ww ww W
+	w w w w w w w w w w w w w w w w w 
+Please print sixteen W (Separated by spaces)
+	W W W WW WWW W w W W w w W w
+	W W W W W W W W W W W W W W W W 
+Please print twenty-three V (Separated by spaces)
+	V V V VV VVV V v V V vV V U V V N V V M V
+	V V V V V V V V V V V V V V V V V V V V V V V 
+Please print seven d (Separated by spaces)
+	d d d d D d d
+	d d d d d d d 
+Please print eleven j (Separated by spaces)
+	j j j j r j j p j j
+	j j j j j j j j j j j 
+Please print six y (Separated by spaces)
+	y y y y
+	y y y y y y 
+Please print three c (Separated by spaces)
+	c c c c
+	c c c 
+Please print seven s (Separated by spaces)
+	s s s s
+	s s s s s s s 
+Please print twenty-one P (Separated by spaces)
+	P P P PP PPP P Z P P ZP P N P P U P
+	P P P P P P P P P P P P P P P P P P P P P 
+Please print twenty-three x (Separated by spaces)
+	x x x xx xxx x X x x X X x X z x x z x z z x
+	x x x x x x x x x x x x x x x x x x x x x x x 
+Please print thirteen g (Separated by spaces)
+	g g g g G g g
+	g g g g g g g g g g g g g 
+Please print twenty-two T (Separated by spaces)
+	T T T TT TTT T t T T tT T U T T UT T
+	T T T T T T T T T T T T T T T T T T T T T T 
+Please print fifteen q (Separated by spaces)
+	q q q qq q Q q q Q Q q Q u q q u q
+	q q q q q q q q q q q q q q q 
+Please print twenty-four X (Separated by spaces)
+	X X X XX XXX X Z X X ZX X Q X X QX X V X X
+	X X X X X X X X X X X X X X X X X X X X X X X X 
+Please print sixteen M (Separated by spaces)
+	M M M MM MMM M m M M m m M m
+	M M M M M M M M M M M M M M M M 
+Please print three w (Separated by spaces)
+	w w w
+	w w w 
+Please print twenty E (Separated by spaces)
+	E E E EE EEE E e E E e e E eE E W E
+	E E E E E E E E E E E E E E E E E E E E 
+Please print fifteen S (Separated by spaces)
+	S S S S L S S N S S s S SS S s
+	S S S S S S S S S S S S S S S 
+Please print seven I (Separated by spaces)
+	I I I I
+	I I I I I I I 
+Please print fifteen T (Separated by spaces)
+	T T T TT T t T T t t T tT TT t T
+	T T T T T T T T T T T T T T T 
+Please print three E (Separated by spaces)
+	E E E E
+	E E E 
+Please print seventeen F (Separated by spaces)
+	F F F FF F f F F f f F f D F F P
+	F F F F F F F F F F F F F F F F F 
+Please print twenty-one U (Separated by spaces)
+	U U U UU UUU U u U U uU U N U U NU
+	U U U U U U U U U U U U U U U U U U U U U 
+Please print seven O (Separated by spaces)
+	O O O O N O O
+	O O O O O O O 
+Please print twenty-two U (Separated by spaces)
+	U U U UU UUU U u U U uU U A U U AU U
+	U U U U U U U U U U U U U U U U U U U U U U 
+Please print eight d (Separated by spaces)
+	d d d d D d d c d d
+	d d d d d d d d 
+Please print thirteen A (Separated by spaces)
+	A A A A a A A
+	A A A A A A A A A A A A A 
+Please print seven j (Separated by spaces)
+	j j j j
+	j j j j j j j 
+Please print seven A (Separated by spaces)
+	A A A A
+	A A A A A A A 
+Please print twenty-three q (Separated by spaces)
+	q q q qq qqq q Q q q Qq q u q q uq q
+	q q q q q q q q q q q q q q q q q q q q q q q 
+Please print twenty-five n (Separated by spaces)
+	n n n nn nnn n N n n Nn n c n n cn n l n n ln n
+	n n n n n n n n n n n n n n n n n n n n n n n n n 
+Please print eleven b (Separated by spaces)
+	b b b b B b bb b B B
+	b b b b b b b b b b b 
+Please print eighteen T (Separated by spaces)
+	T T T TT TTT T t T T t t TT t T
+	T T T T T T T T T T T T T T T T T T 
+Please print fifteen e (Separated by spaces)
+	e e e ee eee e i e e ie e
+	e e e e e e e e e e e e e e e 
+Please print eight c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c c 
+Please print twenty-five V (Separated by spaces)
+	V V V VV VVV V U V V UV V C V V N V V CV V
+	V V V V V V V V V V V V V V V V V V V V V V V V V 
+Please print fifteen x (Separated by spaces)
+	x x x x z x x X x xx x z z x z
+	x x x x x x x x x x x x x x x 
+Please print two S (Separated by spaces)
+	S S
+	S S 
+Please print three G (Separated by spaces)
+	G G G G
+	G G G 
+Please print eight C (Separated by spaces)
+	C C C CC C c C C c
+	C C C C C C C C 
+Please print twenty-five l (Separated by spaces)
+	l l l ll lll l u l l ul l r l l n l l c l l d l l
+	l l l l l l l l l l l l l l l l l l l l l l l l l 
+Please print six h (Separated by spaces)
+	h h h h
+	h h h h h h 
+Please print eight r (Separated by spaces)
+	r r r r R r r u r r
+	r r r r r r r r 
+Please print thirteen o (Separated by spaces)
+	o o o o O o oo o O O o O
+	o o o o o o o o o o o o o 
+Please print one P (Separated by spaces)
+	P
+	P 
+Please print four y (Separated by spaces)
+	y y y
+	y y y y 
+Please print twenty-two L (Separated by spaces)
+	L L L LL LLL L U L L UL L l L L lL L
+	L L L L L L L L L L L L L L L L L L L L L L 
+Please print twenty-four H (Separated by spaces)
+	H H H HH HHH H h H H h h HH h H hH H U H H
+	H H H H H H H H H H H H H H H H H H H H H H H H 
+Please print four L (Separated by spaces)
+	L L L
+	L L L L 
+Please print sixteen T (Separated by spaces)
+	T T T TT TT t T T t T t t TT
+	T T T T T T T T T T T T T T T T 
+Please print one X (Separated by spaces)
+	X
+	X 
+Please print thirteen u (Separated by spaces)
+	u u u u U u u d u uu u U
+	u u u u u u u u u u u u u 
+Please print eight y (Separated by spaces)
+	y y y yy yy
+	y y y y y y y y 
+Please print one F (Separated by spaces)
+	F
+	F 
+Please print six d (Separated by spaces)
+	d d d d
+	d d d d d d 
+Please print twenty-three K (Separated by spaces)
+	K K K KK KKK K k K K k k KK N K K
+	K K K K K K K K K K K K K K K K K K K K K K K 
+Please print sixteen j (Separated by spaces)
+	j j j j J j jj j J J j J
+	j j j j j j j j j j j j j j j j 
+Please print fourteen q (Separated by spaces)
+	q q q q Q q qq q Q Q q Q u q q u
+	q q q q q q q q q q q q q q 
+Please print seventeen i (Separated by spaces)
+	i i i ii iii i I i i I I i I e
+	i i i i i i i i i i i i i i i i i 
+Please print twenty-two x (Separated by spaces)
+	x x x xx xxx x X x x Xx x z x x zx x
+	x x x x x x x x x x x x x x x x x x x x x x 
+Please print twenty-three G (Separated by spaces)
+	G G G GG G g G G g g G g
+	G G G G G G G G G G G G G G G G G G G G G G G 
+Please print one m (Separated by spaces)
+	m
+	m 
+Please print twelve a (Separated by spaces)
+	a a a aA a a
+	a a a a a a a a a a a a 
+Please print fifteen g (Separated by spaces)
+	g g g g G g gg g G G g Gg g
+	g g g g g g g g g g g g g g g 
+Please print ten m (Separated by spaces)
+	m m m mm mmm m
+	m m m m m m m m m m 
+Please print twenty H (Separated by spaces)
+	H H H HH HHH H h H H h h H hH H Z H
+	H H H H H H H H H H H H H H H H H H H H 
+Please print sixteen V (Separated by spaces)
+	V V V VV VVV V U V V UV V v
+	V V V V V V V V V V V V V V V V 
+Please print six U (Separated by spaces)
+	U U U UU U
+	U U U U U U 
+Please print five e (Separated by spaces)
+	e e e e
+	e e e e e 
+Please print seven G (Separated by spaces)
+	G G G G
+	G G G G G G G 
+Please print eight Q (Separated by spaces)
+	Q Q Q Q Z Q Q q Q Q X Q Q
+	Q Q Q Q Q Q Q Q 
+Please print nine v (Separated by spaces)
+	v v v v V v v c v
+	v v v v v v v v v 
+Please print eighteen A (Separated by spaces)
+	A A A A a A AA A a a A a
+	A A A A A A A A A A A A A A A A A A 
+Please print thirteen Q (Separated by spaces)
+	Q Q Q Q Z Q QQ Q Z Z Q Z
+	Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print two l (Separated by spaces)
+	l l
+	l l 
+Please print twenty-one M (Separated by spaces)
+	M M M MM MMM M A M M m M M
+	M M M M M M M M M M M M M M M M M M M M M 
+Please print eight I (Separated by spaces)
+	I I I I i I I
+	I I I I I I I I 
+Please print twenty-one v (Separated by spaces)
+	v v v v V v v c v v u v v d v v w v v n
+	v v v v v v v v v v v v v v v v v v v v v 
+Please print twenty-two K (Separated by spaces)
+	K K K KK KKK K A K K AK K k K K U K K
+	K K K K K K K K K K K K K K K K K K K K K K 
+Please print eleven r (Separated by spaces)
+	r r r r R r r u r r
+	r r r r r r r r r r r 
+Please print twenty-one s (Separated by spaces)
+	s s s s S s s w s s c s s d s s l s s h
+	s s s s s s s s s s s s s s s s s s s s s 
+Please print three n (Separated by spaces)
+	n n n n
+	n n n 
+Please print one n (Separated by spaces)
+	n
+	n 
+Please print one W (Separated by spaces)
+	W
+	W 
+Please print three V (Separated by spaces)
+	V V V V
+	V V V 
+Please print twenty Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z 20 Z Z 20Z Z R Z Z H Z
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print five F (Separated by spaces)
+	F F F F C
+	F F F F F 
+Please print twenty-four o (Separated by spaces)
+	o o o oo ooo o y o o yo o O o o a o o Oo o
+	o o o o o o o o o o o o o o o o o o o o o o o o 
+Please print one X (Separated by spaces)
+	X
+	X 
+Please print nine y (Separated by spaces)
+	y y y yy yyy y
+	y y y y y y y y y 
+Please print eighteen N (Separated by spaces)
+	N N N NN NNN N n N N nN N L N N
+	N N N N N N N N N N N N N N N N N N 
+Please print fifteen y (Separated by spaces)
+	y y y yy yyy y l y y ly y
+	y y y y y y y y y y y y y y y 
+Please print seven T (Separated by spaces)
+	T T T TT T t
+	T T T T T T T 
+Please print nine Y (Separated by spaces)
+	Y Y Y YY Y y Y Y
+	Y Y Y Y Y Y Y Y Y 
+Please print one i (Separated by spaces)
+	i
+	i 
+Please print sixteen w (Separated by spaces)
+	w w w w W w ww w W W w Ww ww
+	w w w w w w w w w w w w w w w w 
+Please print eight h (Separated by spaces)
+	h h h h c h h
+	h h h h h h h h 
+Please print one h (Separated by spaces)
+	h
+	h 
+Please print ten J (Separated by spaces)
+	J J J JJ JJJ J
+	J J J J J J J J J J 
+Please print fifteen h (Separated by spaces)
+	h h h h c h h H h hh h H H hh
+	h h h h h h h h h h h h h h h 
+Please print seven O (Separated by spaces)
+	O O O O N O O
+	O O O O O O O 
+Please print fifteen V (Separated by spaces)
+	V V V VV VVV V C V V CV V H V V
+	V V V V V V V V V V V V V V V 
+Please print twenty Q (Separated by spaces)
+	Q Q Q QQ Q Z Q Q Z Z Q ZQ QQ Z QQQ Q
+	Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print twenty-two S (Separated by spaces)
+	S S S SS SSS S A S S AS S s S S sS S
+	S S S S S S S S S S S S S S S S S S S S S S 
+Please print six c (Separated by spaces)
+	c c c c C c
+	c c c c c c 
+Please print nineteen x (Separated by spaces)
+	x x x x z x x X x xx x z z x z X x z
+	x x x x x x x x x x x x x x x x x x x 
+Please print two w (Separated by spaces)
+	w w
+	w w 
+Please print fourteen i (Separated by spaces)
+	i i i ii iii i
+	i i i i i i i i i i i i i i 
+Please print eleven r (Separated by spaces)
+	r r r r R r r u r r
+	r r r r r r r r r r r 
+Please print eighteen q (Separated by spaces)
+	q q q qq qqq q Q q q Qq q u q q
+	q q q q q q q q q q q q q q q q q q 
+Please print twenty C (Separated by spaces)
+	C C C CC C N C C N N C N c C C c C N A
+	C C C C C C C C C C C C C C C C C C C C 
+Please print twelve Q (Separated by spaces)
+	Q Q Q Q Z Q Q
+	Q Q Q Q Q Q Q Q Q Q Q Q 
+Please print eighteen x (Separated by spaces)
+	x x x x z x x X x xx x X X x Xx x
+	x x x x x x x x x x x x x x x x x x 
+Please print nine o (Separated by spaces)
+	o o o o O o oo o
+	o o o o o o o o o 
+Please print twenty-one w (Separated by spaces)
+	w w w w W w ww w W W w Ww ww W www
+	w w w w w w w w w w w w w w w w w w w w w 
+Please print twenty-one m (Separated by spaces)
+	m m m m M m mm mmm m M M m
+	m m m m m m m m m m m m m m m m m m m m m 
+Please print eight R (Separated by spaces)
+	R R R RR RR r R R
+	R R R R R R R R 
+Please print twenty-three G (Separated by spaces)
+	G G G GG G g G G g g G g
+	G G G G G G G G G G G G G G G G G G G G G G G 
+Please print fourteen i (Separated by spaces)
+	i i i ii iii i
+	i i i i i i i i i i i i i i 
+Please print five m (Separated by spaces)
+	m m m m
+	m m m m m 
+Please print fifteen W (Separated by spaces)
+	W W W WW WWW W w W W w w W w
+	W W W W W W W W W W W W W W W 
+Please print eighteen j (Separated by spaces)
+	j j j j r j j p j j m j j J j j a j
+	j j j j j j j j j j j j j j j j j j 
+Please print sixteen U (Separated by spaces)
+	U U U UU UUU U u U U u u
+	U U U U U U U U U U U U U U U U 
+Please print thirteen e (Separated by spaces)
+	e e e ee ee
+	e e e e e e e e e e e e e 
+Please print twenty-five j (Separated by spaces)
+	j j j jj jj r j j r j r r j t j j t r j d j j
+	j j j j j j j j j j j j j j j j j j j j j j j j j 
+Please print two w (Separated by spaces)
+	w w
+	w w 
+Please print nine Q (Separated by spaces)
+	Q Q Q Q Z Q QQ Q Z
+	Q Q Q Q Q Q Q Q Q 
+Please print six I (Separated by spaces)
+	I I I I
+	I I I I I I 
+Please print nine d (Separated by spaces)
+	d d d d D d dd d
+	d d d d d d d d d 
+Please print twenty-three w (Separated by spaces)
+	w w w w W w ww w W W w W y w w
+	w w w w w w w w w w w w w w w w w w w w w w w 
+Please print fifteen a (Separated by spaces)
+	a a a aA a aa aaa a an a a an
+	a a a a a a a a a a a a a a a 
+Please print twelve A (Separated by spaces)
+	A A A A a A A
+	A A A A A A A A A A A A 
+Please print nineteen v (Separated by spaces)
+	v v v vv vvv v c v v cv v u v v V
+	v v v v v v v v v v v v v v v v v v v 
+Please print ten U (Separated by spaces)
+	U U U UU UUU U u U
+	U U U U U U U U U U 
+Please print four u (Separated by spaces)
+	u u u
+	u u u u 
+Please print twenty-one t (Separated by spaces)
+	t t t t T t t c t tt t T T t T c t T d
+	t t t t t t t t t t t t t t t t t t t t t 
+Please print three c (Separated by spaces)
+	c c c c
+	c c c 
+Please print four D (Separated by spaces)
+	D D D
+	D D D D 
+Please print thirteen y (Separated by spaces)
+	y y y yy yyy y l y y
+	y y y y y y y y y y y y y 
+Please print twenty-one O (Separated by spaces)
+	O O O O N O O U O O o O OO O N N O N U
+	O O O O O O O O O O O O O O O O O O O O O 
+Please print twelve x (Separated by spaces)
+	x x x x z x x X x x
+	x x x x x x x x x x x x 
+Please print nine W (Separated by spaces)
+	W W W WW WWW W w
+	W W W W W W W W W 
+Please print eleven x (Separated by spaces)
+	x x x x z x x X x x
+	x x x x x x x x x x x 
+Please print four b (Separated by spaces)
+	b b b
+	b b b b 
+Please print six Z (Separated by spaces)
+	Z Z Z Z
+	Z Z Z Z Z Z 
+Please print fifteen t (Separated by spaces)
+	t t t t T t tt t T T t Tt tt
+	t t t t t t t t t t t t t t t 
+Please print ten g (Separated by spaces)
+	g g g gg g
+	g g g g g g g g g g 
+Please print nineteen a (Separated by spaces)
+	a a a aa aaa a an a a ana a the a a
+	a a a a a a a a a a a a a a a a a a a 
+Please print twenty-five m (Separated by spaces)
+	m m m mm mmm m l m m lm m c m m c l m c c m
+	m m m m m m m m m m m m m m m m m m m m m m m m m 
+Please print twenty-three s (Separated by spaces)
+	s s s ss s h s s d s s
+	s s s s s s s s s s s s s s s s s s s s s s s 
+Please print eight b (Separated by spaces)
+	b b b b B b bb b B B b
+	b b b b b b b b 
+Please print one N (Separated by spaces)
+	N
+	N 
+Please print eighteen X (Separated by spaces)
+	X X X XX XXX X Q X X QX X x X X
+	X X X X X X X X X X X X X X X X X X 
+Please print twenty-three V (Separated by spaces)
+	V V V VV VVV V v V V vV V U V V N V V M V
+	V V V V V V V V V V V V V V V V V V V V V V V 
+Please print twenty W (Separated by spaces)
+	W W W WW WWW W w W W wW W N W W NW
+	W W W W W W W W W W W W W W W W W W W W 
+Please print six F (Separated by spaces)
+	F F F F
+	F F F F F F 
+Please print twenty-two p (Separated by spaces)
+	p p p pp ppp p n p p b p p u p p a p p m
+	p p p p p p p p p p p p p p p p p p p p p p 
+Please print sixteen u (Separated by spaces)
+	u u u u U u uu u U U u Uu
+	u u u u u u u u u u u u u u u u 
+Please print sixteen s (Separated by spaces)
+	s s s s S s s o s s a s s d s s
+	s s s s s s s s s s s s s s s s 
+Please print twenty c (Separated by spaces)
+	c c c c C c c a c cc c C C c C a c C n
+	c c c c c c c c c c c c c c c c c c c c 
+Please print seven t (Separated by spaces)
+	t t t t T t t
+	t t t t t t t 
+Please print ten u (Separated by spaces)
+	u u u u U u uu u U U u
+	u u u u u u u u u u 
+Please print six E (Separated by spaces)
+	E E E EE E
+	E E E E E E 
+Please print thirteen E (Separated by spaces)
+	E E E EE E e E E e e E e
+	E E E E E E E E E E E E E 
+Please print twenty-four y (Separated by spaces)
+	y y y yy yyy y d y y l y y dy y ly y Y y y
+	y y y y y y y y y y y y y y y y y y y y y y y y 
+Please print nineteen G (Separated by spaces)
+	G G G GG G g G G g g G gG GG g G
+	G G G G G G G G G G G G G G G G G G G 
+Please print nineteen G (Separated by spaces)
+	G G G GG G g G G g g G gG GG g G
+	G G G G G G G G G G G G G G G G G G G 
+Please print two z (Separated by spaces)
+	z z
+	z z 
+Please print nineteen Y (Separated by spaces)
+	Y Y Y YY YYY Y y Y Y y y YY y Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print twenty-three Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z D Z Z DZ Z N Z Z
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print one t (Separated by spaces)
+	t
+	t 
+Please print nineteen K (Separated by spaces)
+	K K K KK KKK K L K K k K K L k K k
+	K K K K K K K K K K K K K K K K K K K 
+Please print eighteen p (Separated by spaces)
+	p p p pp ppp p u p p up p m p p
+	p p p p p p p p p p p p p p p p p p 
+Please print eight a (Separated by spaces)
+	a a a a, a a
+	a a a a a a a a 
+Please print eight J (Separated by spaces)
+	J J J JJ J j J J j
+	J J J J J J J J 
+Please print thirteen P (Separated by spaces)
+	P P P PP PPP P Z P P
+	P P P P P P P P P P P P P 
+Please print fourteen O (Separated by spaces)
+	O O O O N O O o O O L O O
+	O O O O O O O O O O O O O O 
+Please print twenty-one q (Separated by spaces)
+	q q q qq qqq q Q q q Q Q q Qq q u q
+	q q q q q q q q q q q q q q q q q q q q q 
+Please print two S (Separated by spaces)
+	S S
+	S S 
+Please print four C (Separated by spaces)
+	C C C
+	C C C C 
+Please print three G (Separated by spaces)
+	G G G G
+	G G G 
+Please print twenty-five o (Separated by spaces)
+	o o o oo ooo o h o o ho o O o o Oo o i o o a o o io
+	o o o o o o o o o o o o o o o o o o o o o o o o o 
+Please print sixteen c (Separated by spaces)
+	c c c c C c c a c cc c C C c C
+	c c c c c c c c c c c c c c c c 
+Please print ten U (Separated by spaces)
+	U U U UU UUU U u U
+	U U U U U U U U U U 
+Please print eighteen d (Separated by spaces)
+	d d d d D d dd ddd d Dd d a d d
+	d d d d d d d d d d d d d d d d d d 
+Please print one R (Separated by spaces)
+	R
+	R 
+Please print five m (Separated by spaces)
+	m m m m
+	m m m m m 
+Please print one j (Separated by spaces)
+	j
+	j 
+Please print twenty-two E (Separated by spaces)
+	E E E EE EEE E e E E eE E
+	E E E E E E E E E E E E E E E E E E E E E E 
+Please print twenty-three U (Separated by spaces)
+	U U U UU UUU U u U U uU U L U U
+	U U U U U U U U U U U U U U U U U U U U U U U 
+Please print ten D (Separated by spaces)
+	D D D DD DDD D d D D
+	D D D D D D D D D D 
+Please print thirteen i (Separated by spaces)
+	i i i ii ii I i i I i
+	i i i i i i i i i i i i i 
+Please print seventeen W (Separated by spaces)
+	W W W WW WWW W w W W wW W L W
+	W W W W W W W W W W W W W W W W W 
+Please print three p (Separated by spaces)
+	p p p p
+	p p p 
+Please print one S (Separated by spaces)
+	S
+	S 
+Please print twenty-five A (Separated by spaces)
+	A A A AA A U A A a A A
+	A A A A A A A A A A A A A A A A A A A A A A A A A 
+Please print three V (Separated by spaces)
+	V V V V
+	V V V 
+Please print twenty S (Separated by spaces)
+	S S S SS SSS S s S S s s S s N S S N
+	S S S S S S S S S S S S S S S S S S S S 
+Please print nineteen d (Separated by spaces)
+	d d d d D d dd ddd d Dd d c d d c
+	d d d d d d d d d d d d d d d d d d d 
+Please print seventeen N (Separated by spaces)
+	N N N NN NNN N n N N nN N C N
+	N N N N N N N N N N N N N N N N N 
+Please print eleven j (Separated by spaces)
+	j j j j r j j p j j
+	j j j j j j j j j j j 
+Please print thirteen W (Separated by spaces)
+	W W W WW WW w W W w W
+	W W W W W W W W W W W W W 
+Please print six V (Separated by spaces)
+	V V V VV V
+	V V V V V V 
+Please print four r (Separated by spaces)
+	r r r
+	r r r r 
+Please print six M (Separated by spaces)
+	M M M M
+	M M M M M M 
+Please print fifteen F (Separated by spaces)
+	F F F FF F f F F f f F f N F F N F
+	F F F F F F F F F F F F F F F 
+Please print one r (Separated by spaces)
+	r
+	r 
+Please print fourteen N (Separated by spaces)
+	N N N NN N n N N n n N nN NN n
+	N N N N N N N N N N N N N N 
+Please print nine G (Separated by spaces)
+	G G G GG G g G G
+	G G G G G G G G G 
+Please print one T (Separated by spaces)
+	T
+	T 
+Please print six N (Separated by spaces)
+	N N N NN N
+	N N N N N N 
+Please print twenty-five A (Separated by spaces)
+	A A A AA A U A A a A A
+	A A A A A A A A A A A A A A A A A A A A A A A A A 
+Please print seventeen B (Separated by spaces)
+	B B B BB B b B B b b B bB BB b
+	B B B B B B B B B B B B B B B B B 
+Please print eleven d (Separated by spaces)
+	d d d d D d d c d d
+	d d d d d d d d d d d 
+Please print seven g (Separated by spaces)
+	g g g g
+	g g g g g g g 
+Please print thirteen F (Separated by spaces)
+	F F F FF F f F F f f F f
+	F F F F F F F F F F F F F 
+Please print twenty-two E (Separated by spaces)
+	E E E EE EEE E e E E eE E
+	E E E E E E E E E E E E E E E E E E E E E E 
+Please print twenty-five D (Separated by spaces)
+	D D D DD DDD D d D D dD D C D D CD D L D D LD D
+	D D D D D D D D D D D D D D D D D D D D D D D D D 
+Please print seven K (Separated by spaces)
+	K K K K L K
+	K K K K K K K 
+Please print fifteen a (Separated by spaces)
+	a a a aA a aa aaa a an a a an
+	a a a a a a a a a a a a a a a 
+Please print seventeen T (Separated by spaces)
+	T T T TT T t T T t t T tT TT t
+	T T T T T T T T T T T T T T T T T 
+Please print twenty-one U (Separated by spaces)
+	U U U UU UUU U u U U uU U N U U NU
+	U U U U U U U U U U U U U U U U U U U U U 
+Please print eleven b (Separated by spaces)
+	b b b b B b bb b B B
+	b b b b b b b b b b b 
+Please print fourteen A (Separated by spaces)
+	A A A A B A A a A A
+	A A A A A A A A A A A A A A 
+Please print nineteen x (Separated by spaces)
+	x x x x z x x X x xx x z z x z X x z
+	x x x x x x x x x x x x x x x x x x x 
+Please print two s (Separated by spaces)
+	s s
+	s s 
+Please print twenty-two R (Separated by spaces)
+	R R R RR RRR R U R R UR R
+	R R R R R R R R R R R R R R R R R R R R R R 
+Please print sixteen E (Separated by spaces)
+	E E E EE EE e E E e E e e EE
+	E E E E E E E E E E E E E E E E 
+Please print six z (Separated by spaces)
+	z z z z
+	z z z z z z 
+Please print fifteen s (Separated by spaces)
+	s s s s S s s o s s a s s
+	s s s s s s s s s s s s s s s 
+Please print five Y (Separated by spaces)
+	Y Y Y YY
+	Y Y Y Y Y 
+Please print four k (Separated by spaces)
+	k k k
+	k k k k 
+Please print one T (Separated by spaces)
+	T
+	T 
+Please print three S (Separated by spaces)
+	S S S S
+	S S S 
+Please print eight w (Separated by spaces)
+	w w w w W w w
+	w w w w w w w w 
+Please print four C (Separated by spaces)
+	C C C
+	C C C C 
+Please print nineteen r (Separated by spaces)
+	r r r r R r rr r R R r Rr rr R r c
+	r r r r r r r r r r r r r r r r r r r 
+Please print twenty-three N (Separated by spaces)
+	N N N NN NNN N n N N nN N L N N
+	N N N N N N N N N N N N N N N N N N N N N N N 
+Please print twenty-one u (Separated by spaces)
+	u u u u U u uu u U U u Uu uu U u d u
+	u u u u u u u u u u u u u u u u u u u u u 
+Please print four v (Separated by spaces)
+	v v v
+	v v v v 
+Please print fifteen U (Separated by spaces)
+	U U U UU UUU U u U U u u U uU U
+	U U U U U U U U U U U U U U U 
+Please print twelve h (Separated by spaces)
+	h h h h c h h
+	h h h h h h h h h h h h 
+Please print twenty u (Separated by spaces)
+	u u u u U u uu u U U u U r u u r u U d u
+	u u u u u u u u u u u u u u u u u u u u 
+Please print seventeen g (Separated by spaces)
+	g g g g G g g a g gg g G G g G a
+	g g g g g g g g g g g g g g g g g 
+Please print nineteen E (Separated by spaces)
+	E E E EE EEE E e E E e e E eE E
+	E E E E E E E E E E E E E E E E E E E 
+Please print eighteen f (Separated by spaces)
+	f f f ff fff f m f f m m ff m f
+	f f f f f f f f f f f f f f f f f f 
+Please print fifteen J (Separated by spaces)
+	J J J JJ JJ j J J j J j j JJ
+	J J J J J J J J J J J J J J J 
+Please print six u (Separated by spaces)
+	u u u u U
+	u u u u u u 
+Please print twenty r (Separated by spaces)
+	r r r r R r rr r R R r R l r r l r R c
+	r r r r r r r r r r r r r r r r r r r r 
+Please print five l (Separated by spaces)
+	l l l l L
+	l l l l l 
+Please print one T (Separated by spaces)
+	T
+	T 
+Please print twenty V (Separated by spaces)
+	V V V VV VVV V C V V CV V v V V H V
+	V V V V V V V V V V V V V V V V V V V V 
+Please print fifteen u (Separated by spaces)
+	u u u u U u uu u U U u U r u u r u U
+	u u u u u u u u u u u u u u u 
+Please print nineteen t (Separated by spaces)
+	t t t t T t tt ttt t Tt t c t t c
+	t t t t t t t t t t t t t t t t t t t 
+Please print eleven L (Separated by spaces)
+	L L L LL LLL L l L
+	L L L L L L L L L L L 
+Please print twenty-one J (Separated by spaces)
+	J J J JJ JJJ J j J J j j J
+	J J J J J J J J J J J J J J J J J J J J J 
+Please print seven J (Separated by spaces)
+	J J J JJ J
+	J J J J J J J 
+Please print twenty K (Separated by spaces)
+	K K K KK KKK K L K K LK K N K K N N
+	K K K K K K K K K K K K K K K K K K K K 
+Please print eighteen Y (Separated by spaces)
+	Y Y Y YY YYY Y y Y Y yY Y S Y Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print four v (Separated by spaces)
+	v v v
+	v v v v 
+Please print thirteen k (Separated by spaces)
+	k k k kk k l k k l l k
+	k k k k k k k k k k k k k 
+Please print eighteen i (Separated by spaces)
+	i i i ii iii i I i i 18 i i m i i
+	i i i i i i i i i i i i i i i i i i 
+Please print twenty-one S (Separated by spaces)
+	S S S SS SSS S N S S s S S N s S s s
+	S S S S S S S S S S S S S S S S S S S S S 
+Please print seven e (Separated by spaces)
+	e e e e
+	e e e e e e e 
+Please print twenty-three r (Separated by spaces)
+	r r r rr r u r r u u r u l r r
+	r r r r r r r r r r r r r r r r r r r r r r r 
+Please print twenty-four N (Separated by spaces)
+	N N N NN NNN N n N N nN N L N N U N N S N N
+	N N N N N N N N N N N N N N N N N N N N N N N N 
+Please print eighteen q (Separated by spaces)
+	q q q qq qqq q Q q q Qq q u q q
+	q q q q q q q q q q q q q q q q q q 
+Please print twenty-four w (Separated by spaces)
+	w w w w W w ww w W W w Ww ww W www w l w w
+	w w w w w w w w w w w w w w w w w w w w w w w w 
+Please print thirteen N (Separated by spaces)
+	N N N NN NN n N N n N n
+	N N N N N N N N N N N N N 
+Please print eleven F (Separated by spaces)
+	F F F F f F F D F F P
+	F F F F F F F F F F F 
+Please print eleven P (Separated by spaces)
+	P P P PP PPP P p P
+	P P P P P P P P P P P 
+Please print sixteen E (Separated by spaces)
+	E E E EE EE e E E e E e e EE
+	E E E E E E E E E E E E E E E E 
+Please print twelve U (Separated by spaces)
+	U U U UU UUU U u
+	U U U U U U U U U U U U 
+Please print nine K (Separated by spaces)
+	K K K K L K KK K
+	K K K K K K K K K 
+Please print ten P (Separated by spaces)
+	P P P PP PPP P Z P
+	P P P P P P P P P P 
+Please print fifteen k (Separated by spaces)
+	k k k k K k k l k kk k K K k K
+	k k k k k k k k k k k k k k k 
+Please print six i (Separated by spaces)
+	i i i i
+	i i i i i i 
+Please print twenty-four v (Separated by spaces)
+	v v v vv vvv v V v v Vv v c v v cv v u v v
+	v v v v v v v v v v v v v v v v v v v v v v v v 
+Please print twenty-two h (Separated by spaces)
+	h h h hh hhh h y h h yh h c h h H h h
+	h h h h h h h h h h h h h h h h h h h h h h 
+Please print nineteen k (Separated by spaces)
+	k k k kk kkk k l k k lk k K k k K
+	k k k k k k k k k k k k k k k k k k k 
+Please print twenty-two T (Separated by spaces)
+	T T T TT TTT T t T T tT T U T T UT T
+	T T T T T T T T T T T T T T T T T T T T T T 
+Please print five t (Separated by spaces)
+	t t t t T
+	t t t t t 
+Please print twenty-one P (Separated by spaces)
+	P P P PP PPP P Z P P ZP P N P P U P
+	P P P P P P P P P P P P P P P P P P P P P 
+Please print sixteen Y (Separated by spaces)
+	Y Y Y YY YY y Y Y y Y y y YY
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print sixteen p (Separated by spaces)
+	p p p pp ppp p u p p u u
+	p p p p p p p p p p p p p p p p 
+Please print ten c (Separated by spaces)
+	c c c c C c c a c c
+	c c c c c c c c c c 
+Please print eight d (Separated by spaces)
+	d d d d D d d c d d
+	d d d d d d d d 
+Please print one t (Separated by spaces)
+	t
+	t 
+Please print one G (Separated by spaces)
+	G
+	G 
+Please print three w (Separated by spaces)
+	w w w
+	w w w 
+Please print two X (Separated by spaces)
+	X X
+	X X 
+Please print eighteen q (Separated by spaces)
+	q q q qq qqq q Q q q Qq q u q q
+	q q q q q q q q q q q q q q q q q q 
+Please print four E (Separated by spaces)
+	E E E
+	E E E E 
+Please print four V (Separated by spaces)
+	V V V
+	V V V V 
+Please print six O (Separated by spaces)
+	O O O O N O
+	O O O O O O 
+Please print eight p (Separated by spaces)
+	p p p pp ppp p u p p
+	p p p p p p p p 
+Please print twenty-four s (Separated by spaces)
+	s s s s d s ss ss d s d d s l s s l d s S s s
+	s s s s s s s s s s s s s s s s s s s s s s s s 
+Please print six b (Separated by spaces)
+	b b b b B b
+	b b b b b b 
+Please print twelve W (Separated by spaces)
+	W W W WW WW
+	W W W W W W W W W W W W 
+Please print six C (Separated by spaces)
+	C C C C
+	C C C C C C 
+Please print nine f (Separated by spaces)
+	f f f ff fff f
+	f f f f f f f f f 
+Please print two D (Separated by spaces)
+	D D
+	D D 
+Please print twelve P (Separated by spaces)
+	P P P PP PPP P Z P P
+	P P P P P P P P P P P P 
+Please print twenty N (Separated by spaces)
+	N N N NN NNN N n N N nN N L N N W N
+	N N N N N N N N N N N N N N N N N N N N 
+Please print fifteen x (Separated by spaces)
+	x x x x z x x X x xx x z z x z
+	x x x x x x x x x x x x x x x 
+Please print ten O (Separated by spaces)
+	O O O OO OOO O o O O
+	O O O O O O O O O O 
+Please print twenty-three D (Separated by spaces)
+	D D D DD DDD D d D D dD D L D D
+	D D D D D D D D D D D D D D D D D D D D D D D 
+Please print twenty-five j (Separated by spaces)
+	j j j jj jj r j j r j r r j t j j t r j d j j
+	j j j j j j j j j j j j j j j j j j j j j j j j j 
+Please print four J (Separated by spaces)
+	J J J
+	J J J J 
+Please print five R (Separated by spaces)
+	R R R RR
+	R R R R R 
+Please print six E (Separated by spaces)
+	E E E EE E
+	E E E E E E 
+Please print eleven N (Separated by spaces)
+	N N N NN N n N N n n
+	N N N N N N N N N N N 
+Please print twenty-three b (Separated by spaces)
+	b b b bb bbb b B b b Bb b a b b ab b
+	b b b b b b b b b b b b b b b b b b b b b b b 
+Please print twenty-one p (Separated by spaces)
+	p p p pp ppp p u p p up p c p p cp
+	p p p p p p p p p p p p p p p p p p p p p 
+Please print one j (Separated by spaces)
+	j
+	j 
+Please print one M (Separated by spaces)
+	M
+	M 
+Please print twenty-one K (Separated by spaces)
+	K K K KK KKK K N K K k K K N k K k k
+	K K K K K K K K K K K K K K K K K K K K K 
+Please print twenty-two x (Separated by spaces)
+	x x x xx xxx x X x x Xx x z x x zx x
+	x x x x x x x x x x x x x x x x x x x x x x 
+Please print fourteen y (Separated by spaces)
+	y y y yy yyy y l y y l
+	y y y y y y y y y y y y y y 
+Please print three H (Separated by spaces)
+	H H H H
+	H H H 
+Please print four N (Separated by spaces)
+	N N N
+	N N N N 
+Please print twenty P (Separated by spaces)
+	P P P PP PPP P Z P P ZP P N P P NP
+	P P P P P P P P P P P P P P P P P P P P 
+Please print thirteen u (Separated by spaces)
+	u u u u U u u d u uu u U
+	u u u u u u u u u u u u u 
+Please print one o (Separated by spaces)
+	o
+	o 
+Please print five e (Separated by spaces)
+	e e e e
+	e e e e e 
+Please print ten d (Separated by spaces)
+	d d d d D d dd d D D d
+	d d d d d d d d d d 
+Please print ten U (Separated by spaces)
+	U U U UU UUU U u U
+	U U U U U U U U U U 
+Please print eleven X (Separated by spaces)
+	X X X XX X x X X Z X
+	X X X X X X X X X X X 
+Please print twenty-five I (Separated by spaces)
+	I I I II I Z I I Z Z I Z U I I U I U Z I
+	I I I I I I I I I I I I I I I I I I I I I I I I I 
+Please print seventeen q (Separated by spaces)
+	q q q qq qqq q Q q q Qq q u q
+	q q q q q q q q q q q q q q q q q 
+Please print twenty-three f (Separated by spaces)
+	f f f ff fff f d f f h f f df f
+	f f f f f f f f f f f f f f f f f f f f f f f 
+Please print ten I (Separated by spaces)
+	I I I II I
+	I I I I I I I I I I 
+Please print twenty o (Separated by spaces)
+	o o o oo ooo o O o o Oo o m o o m O
+	o o o o o o o o o o o o o o o o o o o o 
+Please print twenty-five K (Separated by spaces)
+	K K K KK KKK K L K K L N K K N K N N K L L K
+	K K K K K K K K K K K K K K K K K K K K K K K K K 
+Please print sixteen J (Separated by spaces)
+	J J J JJ JJJ J j J J j j J j
+	J J J J J J J J J J J J J J J J 
+Please print twelve S (Separated by spaces)
+	S S S S N S S
+	S S S S S S S S S S S S 
+Please print twenty-five e (Separated by spaces)
+	e e e ee eee e i e e ie e
+	e e e e e e e e e e e e e e e e e e e e e e e e e 
+Please print eighteen a (Separated by spaces)
+	a a a aa aaa aA a aAa a an a a
+	a a a a a a a a a a a a a a a a a a 
+Please print twelve p (Separated by spaces)
+	p p p pp ppp p u p p
+	p p p p p p p p p p p p 
+Please print seven W (Separated by spaces)
+	W W W WW WW
+	W W W W W W W 
+Please print twenty-four e (Separated by spaces)
+	e e e ee eee e i e e ie e l e e le e E e e
+	e e e e e e e e e e e e e e e e e e e e e e e e 
+Please print ten A (Separated by spaces)
+	A A A AA A
+	A A A A A A A A A A 
+Please print fourteen I (Separated by spaces)
+	I I I I L I I
+	I I I I I I I I I I I I I I 
+Please print fifteen g (Separated by spaces)
+	g g g g G g gg g G G g Gg g
+	g g g g g g g g g g g g g g g 
+Please print thirteen M (Separated by spaces)
+	M M M MM M
+	M M M M M M M M M M M M M 
+Please print twelve t (Separated by spaces)
+	t t t t T t t
+	t t t t t t t t t t t t 
+Please print fourteen R (Separated by spaces)
+	R R R RR RR r R R r R r
+	R R R R R R R R R R R R R R 
+Please print two j (Separated by spaces)
+	j j
+	j j 
+Please print twenty-two G (Separated by spaces)
+	G G G GG GGG G g G G gG G
+	G G G G G G G G G G G G G G G G G G G G G G 
+Please print eight T (Separated by spaces)
+	T T T TT T t T T t
+	T T T T T T T T 
+Please print twenty-five C (Separated by spaces)
+	C C C C N C C U C C A C CC C N N C N A C N c C C
+	C C C C C C C C C C C C C C C C C C C C C C C C C 
+Please print twelve U (Separated by spaces)
+	U U U UU UUU U u
+	U U U U U U U U U U U U 
+Please print eleven i (Separated by spaces)
+	i i i ii ii e i i
+	i i i i i i i i i i i 
+Please print thirteen S (Separated by spaces)
+	S S S S N S S s S S L S S
+	S S S S S S S S S S S S S 
+Please print twenty h (Separated by spaces)
+	h h h hh hhh h H h h Hh h c h h c c
+	h h h h h h h h h h h h h h h h h h h h 
+Please print sixteen i (Separated by spaces)
+	i i i ii iii i I i i I I i I
+	i i i i i i i i i i i i i i i i 
+Please print eleven P (Separated by spaces)
+	P P P PP PPP P p P
+	P P P P P P P P P P P 
+Please print seventeen n (Separated by spaces)
+	n n n n N n nn n N N n Nn nn N
+	n n n n n n n n n n n n n n n n n 
+Please print twenty-two r (Separated by spaces)
+	r r r rr rrr r u r r y r r ur r yr r
+	r r r r r r r r r r r r r r r r r r r r r r 
+Please print thirteen m (Separated by spaces)
+	m m m mm mm
+	m m m m m m m m m m m m m 
+Please print thirteen g (Separated by spaces)
+	g g g g G g g
+	g g g g g g g g g g g g g 
+Please print two M (Separated by spaces)
+	M M
+	M M 
+Please print nine o (Separated by spaces)
+	o o o o O o oo o
+	o o o o o o o o o 
+Please print nineteen A (Separated by spaces)
+	A A A AA A a A A a a A a
+	A A A A A A A A A A A A A A A A A A A 
+Please print twenty M (Separated by spaces)
+	M M M MM MMM M m M M m m M m
+	M M M M M M M M M M M M M M M M M M M M 
+Please print eight w (Separated by spaces)
+	w w w w W w w
+	w w w w w w w w 
+Please print nineteen f (Separated by spaces)
+	f f f ff fff f m f f mf f s f f c
+	f f f f f f f f f f f f f f f f f f f 
+Please print nine X (Separated by spaces)
+	X X X X Z X XX X
+	X X X X X X X X X 
+Please print nine E (Separated by spaces)
+	E E E EE E e E E
+	E E E E E E E E E 
+Please print eleven S (Separated by spaces)
+	S S S S L S S N S S
+	S S S S S S S S S S S 
+Please print twenty-five p (Separated by spaces)
+	p p p pp ppp p u p p up p c p p h p p cp p a p p ap
+	p p p p p p p p p p p p p p p p p p p p p p p p p 
+Please print nineteen L (Separated by spaces)
+	L L L LL LLL L l L L lL L U L L N
+	L L L L L L L L L L L L L L L L L L L 
+Please print nine M (Separated by spaces)
+	M M M MM MM
+	M M M M M M M M M 
+Please print ten J (Separated by spaces)
+	J J J JJ JJJ J
+	J J J J J J J J J J 
+Please print ten U (Separated by spaces)
+	U U U UU UUU U u U
+	U U U U U U U U U U 
+Please print twenty-five z (Separated by spaces)
+	z z z zz z x z z x x z x y z z r z z y z y y z x d z z d
+	z z z z z z z z z z z z z z z z z z z z z z z z z 
+Please print twelve c (Separated by spaces)
+	c c c c C c c
+	c c c c c c c c c c c c 
+Please print four p (Separated by spaces)
+	p p p
+	p p p p 
+Please print twenty-four M (Separated by spaces)
+	M M M MM MMM M A M M m M M V M M N M M AM M
+	M M M M M M M M M M M M M M M M M M M M M M M M 
+Please print ten m (Separated by spaces)
+	m m m mm mmm m
+	m m m m m m m m m m 
+Please print three P (Separated by spaces)
+	P P P P
+	P P P 
+Please print twenty-three c (Separated by spaces)
+	c c c cc c C c c Cc c
+	c c c c c c c c c c c c c c c c c c c c c c c 
+Please print six w (Separated by spaces)
+	w w w w W w
+	w w w w w w 
+Please print ten q (Separated by spaces)
+	q q q qq qqq q Q q
+	q q q q q q q q q q 
+Please print two u (Separated by spaces)
+	u u
+	u u 
+Please print seven N (Separated by spaces)
+	N N N NN NN
+	N N N N N N N 
+Please print seventeen X (Separated by spaces)
+	X X X XX XXX X Z X X ZX X V X
+	X X X X X X X X X X X X X X X X X 
+Please print ten V (Separated by spaces)
+	V V V VV VVV V U V V
+	V V V V V V V V V V 
+Please print fourteen n (Separated by spaces)
+	n n n n N n nn n N N n Nn nn
+	n n n n n n n n n n n n n n 
+Please print three f (Separated by spaces)
+	f f f f
+	f f f 
+Please print twenty-two b (Separated by spaces)
+	b b b bb bbb b B b b Bb b a b b ab b
+	b b b b b b b b b b b b b b b b b b b b b b 
+Please print nineteen X (Separated by spaces)
+	X X X XX XXX X Z X X ZX X x X X x
+	X X X X X X X X X X X X X X X X X X X 
+Please print twenty-three U (Separated by spaces)
+	U U U UU UUU U u U U uU U L U U
+	U U U U U U U U U U U U U U U U U U U U U U U 
+Please print twelve v (Separated by spaces)
+	v v v v c v v
+	v v v v v v v v v v v v 
+Please print thirteen S (Separated by spaces)
+	S S S S N S S s S S L S S
+	S S S S S S S S S S S S S 
+Please print ten m (Separated by spaces)
+	m m m mm mmm m
+	m m m m m m m m m m 
+Please print eleven j (Separated by spaces)
+	j j j j r j j p j j
+	j j j j j j j j j j j 
+Please print twenty-two w (Separated by spaces)
+	w w w w W w ww ww W www w Ww w y w w
+	w w w w w w w w w w w w w w w w w w w w w w 
+Please print twenty L (Separated by spaces)
+	L L L LL LLL L l L L lL L N L L NL
+	L L L L L L L L L L L L L L L L L L L L 
+Please print nine Y (Separated by spaces)
+	Y Y Y YY Y y Y Y
+	Y Y Y Y Y Y Y Y Y 
+Please print nineteen w (Separated by spaces)
+	w w w w W w ww w W W w Ww ww W w
+	w w w w w w w w w w w w w w w w w w w 
+Please print four b (Separated by spaces)
+	b b b
+	b b b b 
+Please print four t (Separated by spaces)
+	t t t
+	t t t t 
+Please print nineteen o (Separated by spaces)
+	o o o oo ooo o O o o Oo o m o o i
+	o o o o o o o o o o o o o o o o o o o 
+Please print three t (Separated by spaces)
+	t t t t
+	t t t 
+Please print eighteen q (Separated by spaces)
+	q q q qq qqq q Q q q Qq q u q q
+	q q q q q q q q q q q q q q q q q q 
+Please print twenty-three j (Separated by spaces)
+	j j j jj j t j j t t j t
+	j j j j j j j j j j j j j j j j j j j j j j j 
+Please print thirteen m (Separated by spaces)
+	m m m mm mm
+	m m m m m m m m m m m m m 
+Please print six Z (Separated by spaces)
+	Z Z Z Z
+	Z Z Z Z Z Z 
+Please print ten H (Separated by spaces)
+	H H H HH HHH H
+	H H H H H H H H H H 
+Please print eight K (Separated by spaces)
+	K K K K L K K k K K
+	K K K K K K K K 
+Please print four H (Separated by spaces)
+	H H H
+	H H H H 
+Please print twenty-four k (Separated by spaces)
+	k k k kk kkk k d k k l k k dk k l d k d d k
+	k k k k k k k k k k k k k k k k k k k k k k k k 
+Please print seventeen Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z D Z Z DZ Z Q Z
+	Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z 
+Please print six Y (Separated by spaces)
+	Y Y Y YY Y
+	Y Y Y Y Y Y 
+Please print twenty-five y (Separated by spaces)
+	y y y yy yyy y l y y ly y c y y h y y cy y d y y dy
+	y y y y y y y y y y y y y y y y y y y y y y y y y 
+Please print two v (Separated by spaces)
+	v v
+	v v 
+Please print six A (Separated by spaces)
+	A A A A
+	A A A A A A 
+Please print sixteen t (Separated by spaces)
+	t t t t T t tt t T T t Tt tt
+	t t t t t t t t t t t t t t t t 
+Please print twenty-one a (Separated by spaces)
+	a a a aA a aa aAA aA A a a A a A A
+	a a a a a a a a a a a a a a a a a a a a a 
+Please print two K (Separated by spaces)
+	K K
+	K K 
+Please print twenty-four t (Separated by spaces)
+	t t t t d t tt tt d ttt t d d t dt t c t t
+	t t t t t t t t t t t t t t t t t t t t t t t t 
+Please print nine A (Separated by spaces)
+	A A A AA A a A A
+	A A A A A A A A A 
+Please print twenty-two a (Separated by spaces)
+	a a a aa aaa aA a a A a aAa a Aa a
+	a a a a a a a a a a a a a a a a a a a a a a 
+Please print eight Z (Separated by spaces)
+	Z Z Z ZZ ZZZ Z D Z Z
+	Z Z Z Z Z Z Z Z 
+Please print eighteen r (Separated by spaces)
+	r r r r R r r u r rr r R R r R u r
+	r r r r r r r r r r r r r r r r r r 
+Please print nineteen Y (Separated by spaces)
+	Y Y Y YY YYY Y y Y Y y y YY y Y
+	Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y 
+Please print three M (Separated by spaces)
+	M M M M
+	M M M 
+Please print twenty-one j (Separated by spaces)
+	j j j j J j jj j J J j J c j j r j j c
+	j j j j j j j j j j j j j j j j j j j j j 
+Please print eight q (Separated by spaces)
+	q q q q Q q q u q q
+	q q q q q q q q 
+Please print fourteen K (Separated by spaces)
+	K K K K Q K K L K K k
+	K K K K K K K K K K K K K K 
+Please print twenty-one g (Separated by spaces)
+	g g g g G g gg g G G g Gg gg G g h g
+	g g g g g g g g g g g g g g g g g g g g g 
+Please print seventeen E (Separated by spaces)
+	E E E EE E e E E e e E eE EE e
+	E E E E E E E E E E E E E E E E E 
+Please print seventeen L (Separated by spaces)
+	L L L LL LLL L l L L lL L U L
+	L L L L L L L L L L L L L L L L L 
+Please print six u (Separated by spaces)
+	u u u u U
+	u u u u u u 
+Please print eight A (Separated by spaces)
+	A A A A a A A
+	A A A A A A A A 
