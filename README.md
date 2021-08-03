@@ -130,22 +130,27 @@ CUDA_VISIBLE_DEVICES=1 python train_generate_qa.py \
 
 It will continue to be updated on this page.  So please feel free to ask us questions through any channels.
 
-\begin{itemize}
-    \item Q0: Can you describe this work briefly?
-    \item A0: Some works have proved PLMs can contain knowledge in their parameters. We want to know whether PLMs can learn knowledge through pretraining and whether PLMs can use their internal knowledge to solve problems. So we first continue pretrain (LM-finetune) the PLM with some passages and ask the PLM to recite the passages. Then, we QA-finetune the model and ask it to answer questions which relates the passages. The results show that the PLMs cannot memorize much knowledge through pretraining and it is weak of them to use internal knowledge to answer questions after finetuning.
-    \item Q1: What is your conclusion?
-    \item A1: The results show that the PLMs cannot memorize much knowledge through pretraining and it is weak of them to use internal knowledge to answer questions after finetuning. So, it is difficult to use PLMs as KBs in current Pre-training -$>$ Fine-tuning paradigm.
-    \item Q2: Why you randomly mask tokens during LM-finetuning while mask specific tokens during reciting?
-    \item A2: For LM-finetuning, we want to explore whether PLMs can learn knowledge from pretraining. So, we set LM-finetuning the same with original pretraining process, which randomly mask tokens. For reciting, we want to link this process to the subsequent QA process, therefore, we can naturally compare the reciting accuracy and QA accuracy.
-    \item Q3: Why don't you split train/dev/test set during knowledge memorization experiments?
-    \item A3: We don't think it makes sense to ask the model to learn some passages and then ask it to recite others.
-    \item Q4: If you do XXX things (e.g. Using more refined mask policy) in knowledge memorization/question answering, it will improve the accuracy in reciting/QA, why do not you do these?
-    \item A4: Our approach is based on the most classic Pre-training -$>$ Fine-tuning paradigm. We suppose it is more valuable to use the most popular and standard paradigm when researching on this question. In addition, some methods may improve accuracy on both tasks, but we suppose it will affect the conclusion too much, after all, current results are far away from indicating strong abilities of knowledge memorizing and question answering.
-    \item Q5: Does this paper concludes that PLMs cannot serve as knowledge bases?
-    \item A5: Yes and no. If you simply use the Pre-training -$>$ Fine-tuning paradigm, we suppose it will not work. However, if you optimize the paradigm, we suppose it is still promising to research on this topic because PLMs can indeed store and utilize knowledge. 
-    \item Q6: Can the conclusion of this paper also apply to other downstream tasks? Why you choose Closed-book QA as the representative task?
-    \item A6: We suppose the conclusion is very likely the same with other downstream tasks. We choose Closed-book QA is because it is most direct and suitable task for explore why how much knowledge can models have, we have also considered other tasks, but none of them is as suitable as Closed-book QA.
-\end{itemize}
+Q0: Can you describe this work briefly?
+A0: Some works have proved PLMs can contain knowledge in their parameters. We want to know whether PLMs can learn knowledge through pretraining and whether PLMs can use their internal knowledge to solve problems. So we first continue pretrain (LM-finetune) the PLM with some passages and ask the PLM to recite the passages. Then, we QA-finetune the model and ask it to answer questions which relates the passages. The results show that the PLMs cannot memorize much knowledge through pretraining and it is weak of them to use internal knowledge to answer questions after finetuning.
+
+Q1: What is your conclusion?
+A1: The results show that the PLMs cannot memorize much knowledge through pretraining and it is weak of them to use internal knowledge to answer questions after finetuning. So, it is difficult to use PLMs as KBs in current Pre-training -$>$ Fine-tuning paradigm.
+
+Q2: Why you randomly mask tokens during LM-finetuning while mask specific tokens during reciting?
+A2: For LM-finetuning, we want to explore whether PLMs can learn knowledge from pretraining. So, we set LM-finetuning the same with original pretraining process, which randomly mask tokens. For reciting, we want to link this process to the subsequent QA process, therefore, we can naturally compare the reciting accuracy and QA accuracy.
+
+Q3: Why don't you split train/dev/test set during knowledge memorization experiments?
+A3: We don't think it makes sense to ask the model to learn some passages and then ask it to recite others.
+
+Q4: If you do XXX things (e.g. Using more refined mask policy) in knowledge memorization/question answering, it will improve the accuracy in reciting/QA, why do not you do these?
+A4: Our approach is based on the most classic Pre-training -$>$ Fine-tuning paradigm. We suppose it is more valuable to use the most popular and standard paradigm when researching on this question. In addition, some methods may improve accuracy on both tasks, but we suppose it will affect the conclusion too much, after all, current results are far away from indicating strong abilities of knowledge memorizing and question answering.
+
+Q5: Does this paper concludes that PLMs cannot serve as knowledge bases?
+A5: Yes and no. If you simply use the Pre-training -$>$ Fine-tuning paradigm, we suppose it will not work. However, if you optimize the paradigm, we suppose it is still promising to research on this topic because PLMs can indeed store and utilize knowledge. 
+
+Q6: Can the conclusion of this paper also apply to other downstream tasks? Why you choose Closed-book QA as the representative task?
+A6: We suppose the conclusion is very likely the same with other downstream tasks. We choose Closed-book QA is because it is most direct and suitable task for explore why how much knowledge can models have, we have also considered other tasks, but none of them is as suitable as Closed-book QA.
+
 
 ### Citation
 If you find this paper useful, you can cite
