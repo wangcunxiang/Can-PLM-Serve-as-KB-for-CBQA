@@ -916,16 +916,22 @@ class Seq2SeqModel:
                         pass
                     else:
                         accuracy_list.append(ith_accuracy)
-                    print("number :{} accuracy:{} bleu :{}".format(i, ith_accuracy, ith_bleu))
-                    writer.write("number :{} accuracy:{} bleu :{} \n".format(i, ith_accuracy, ith_bleu))
+                    # print("number :{} accuracy:{} bleu :{}".format(i, ith_accuracy, ith_bleu))
+                    # writer.write("number :{} accuracy:{} bleu :{} \n".format(i, ith_accuracy, ith_bleu))
                 elif self.args.evaluation_metric == 'qa':
                     if outputs[i].strip().lower() in target_predict[i].strip().lower().split('\t'):
                         print(outputs[i].strip().lower()+'\n'+str(target_predict[i].strip().lower().split('\t')))
                         correct_num += 1
+                elif self.args.evaluation_metric == 'bridge_qa':
+                    o = outputs[i].split('<answer>')[-1].strip().lower()
+                    t = target_predict[i].split('<answer>')[-1].strip().lower()
+                    if o == t:
+                        print(o+'\n'+t)
+                        correct_num += 1
         if self.args.evaluation_metric == 'passage':
             os.rename(output_predication_file,os.path.join(output_dir,"predictions_{}_{}.txt".format(suffix,np.mean(accuracy_list))))
             print("mean accuracy: {}".format(np.mean(accuracy_list)))
-        if self.args.evaluation_metric == 'qa':
+        if self.args.evaluation_metric == 'qa' or self.args.evaluation_metric == 'bridge_qa':
             print("correct number: {}, correct ratio: {}".format(correct_num, correct_num/float(len(outputs))))
 
 
